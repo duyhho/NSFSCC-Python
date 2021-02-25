@@ -1,0 +1,222 @@
+[
+    {
+        "name": "Property Violations",
+        "parent": "null",
+        "children": [
+            {
+                "name": "Animals / Pets",
+                "parent": "Property Violations",
+                "children": [
+                    {
+                        "name": "Dead Animal",
+                        "parent": "Animals / Pets",
+                        "children": [
+                            {
+                                "name": "Private Property Nuisance",
+                                "parent": "Dead Animal"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Data Not Available",
+                "parent": "Property Violations",
+                "children": [
+                    {
+                        "name": "Data Not Available",
+                        "parent": "Data Not Available",
+                        "children": [
+                            {
+                                "name": "Data Not Available",
+                                "parent": "Data Not Available"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Mowing / Weeds",
+                "parent": "Property Violations",
+                "children": [
+                    {
+                        "name": "Private / Commercial",
+                        "parent": "Mowing / Weeds",
+                        "children": [
+                            {
+                                "name": "Lot - Structure",
+                                "parent": "Private / Commercial"
+                            },
+                            {
+                                "name": "Lot - Vacant",
+                                "parent": "Private / Commercial"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Property / Buildings / Construction",
+                "parent": "Property Violations",
+                "children": [
+                    {
+                        "name": "Property Maintenance",
+                        "parent": "Property / Buildings / Construction",
+                        "children": [
+                            {
+                                "name": "Fence Issue",
+                                "parent": "Property Maintenance"
+                            },
+                            {
+                                "name": "Graffiti",
+                                "parent": "Property Maintenance"
+                            },
+                            {
+                                "name": "Main Structure",
+                                "parent": "Property Maintenance"
+                            },
+                            {
+                                "name": "Other Property Issue",
+                                "parent": "Property Maintenance"
+                            },
+                            {
+                                "name": "Secondary Structure",
+                                "parent": "Property Maintenance"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Services (NPD)",
+                        "parent": "Property / Buildings / Construction",
+                        "children": [
+                            {
+                                "name": "Other Priority Issue",
+                                "parent": "Services (NPD)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Sidewalks / Curbs / Ditch",
+                "parent": "Property Violations",
+                "children": [
+                    {
+                        "name": "Snow / Ice",
+                        "parent": "Sidewalks / Curbs / Ditch",
+                        "children": [
+                            {
+                                "name": "Commercial",
+                                "parent": "Snow / Ice"
+                            },
+                            {
+                                "name": "Private Property",
+                                "parent": "Snow / Ice"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Trash / Recycling",
+                "parent": "Property Violations",
+                "children": [
+                    {
+                        "name": "Dumpsters",
+                        "parent": "Trash / Recycling",
+                        "children": [
+                            {
+                                "name": "Private Property",
+                                "parent": "Dumpsters"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Nuisance",
+                        "parent": "Trash / Recycling",
+                        "children": [
+                            {
+                                "name": "Open Storage",
+                                "parent": "Nuisance"
+                            },
+                            {
+                                "name": "Trash on Private Property",
+                                "parent": "Nuisance"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Trees",
+                "parent": "Property Violations",
+                "children": [
+                    {
+                        "name": "Private Property",
+                        "parent": "Trees",
+                        "children": [
+                            {
+                                "name": "Dead",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Tree Debris",
+                                "parent": "Private Property"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Vehicles / Parking",
+                "parent": "Property Violations",
+                "children": [
+                    {
+                        "name": "Disabled/Unlicensed on Private Property",
+                        "parent": "Vehicles / Parking",
+                        "children": [
+                            {
+                                "name": "Boat Private Property",
+                                "parent": "Disabled/Unlicensed on Private Property"
+                            },
+                            {
+                                "name": "Car Private Property",
+                                "parent": "Disabled/Unlicensed on Private Property"
+                            },
+                            {
+                                "name": "Other Private Property",
+                                "parent": "Disabled/Unlicensed on Private Property"
+                            },
+                            {
+                                "name": "Trailer Private Property",
+                                "parent": "Disabled/Unlicensed on Private Property"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Parked on Unapproved Surface",
+                        "parent": "Vehicles / Parking",
+                        "children": [
+                            {
+                                "name": "Boat Private Property",
+                                "parent": "Parked on Unapproved Surface"
+                            },
+                            {
+                                "name": "Car Private Property",
+                                "parent": "Parked on Unapproved Surface"
+                            },
+                            {
+                                "name": "Other Private Property",
+                                "parent": "Parked on Unapproved Surface"
+                            },
+                            {
+                                "name": "Trailer Private Property",
+                                "parent": "Parked on Unapproved Surface"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
