@@ -56,6 +56,22 @@
                 ]
             },
             {
+                "name": "Neighborhood Preservation",
+                "parent": "Property Violations",
+                "children": [
+                    {
+                        "name": "Priority",
+                        "parent": "Neighborhood Preservation",
+                        "children": [
+                            {
+                                "name": "Review",
+                                "parent": "Priority"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
                 "name": "Property / Buildings / Construction",
                 "parent": "Property Violations",
                 "children": [
@@ -98,6 +114,66 @@
                 ]
             },
             {
+                "name": "Property Violations",
+                "parent": "Property Violations",
+                "children": [
+                    {
+                        "name": "Board Up",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "All",
+                                "parent": "Board Up"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Private Property",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "Accelerated Abatement",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "All",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Dead",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "No Known Property Owner",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Priority Review",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Snow on Sidewalk",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Tree Debris",
+                                "parent": "Private Property"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Volunteer Inspector Program",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "All",
+                                "parent": "Volunteer Inspector Program"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
                 "name": "Sidewalks / Curbs / Ditch",
                 "parent": "Property Violations",
                 "children": [
@@ -112,6 +188,22 @@
                             {
                                 "name": "Private Property",
                                 "parent": "Snow / Ice"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Storm Water / Sewer",
+                "parent": "Property Violations",
+                "children": [
+                    {
+                        "name": "Sewer Backup / Leak",
+                        "parent": "Storm Water / Sewer",
+                        "children": [
+                            {
+                                "name": "Owner\u2018s Responsibility",
+                                "parent": "Sewer Backup / Leak"
                             }
                         ]
                     }
@@ -156,7 +248,27 @@
                         "parent": "Trees",
                         "children": [
                             {
+                                "name": "Accelerated Abatement",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "All",
+                                "parent": "Private Property"
+                            },
+                            {
                                 "name": "Dead",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "No Known Property Owner",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Priority Review",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Snow on Sidewalk",
                                 "parent": "Private Property"
                             },
                             {
@@ -212,6 +324,666 @@
                             {
                                 "name": "Trailer Private Property",
                                 "parent": "Parked on Unapproved Surface"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Vacant Structure Open to Entry",
+        "parent": "null",
+        "children": [
+            {
+                "name": "Property Violations",
+                "parent": "Vacant Structure Open to Entry",
+                "children": [
+                    {
+                        "name": "Board Up",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "All",
+                                "parent": "Board Up"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Private Property",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "Accelerated Abatement",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "All",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Dead",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "No Known Property Owner",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Priority Review",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Snow on Sidewalk",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Tree Debris",
+                                "parent": "Private Property"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Volunteer Inspector Program",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "All",
+                                "parent": "Volunteer Inspector Program"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dangerous Building",
+        "parent": "null",
+        "children": [
+            {
+                "name": "Property Violations",
+                "parent": "Dangerous Building",
+                "children": [
+                    {
+                        "name": "Board Up",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "All",
+                                "parent": "Board Up"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Private Property",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "Accelerated Abatement",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "All",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Dead",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "No Known Property Owner",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Priority Review",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Snow on Sidewalk",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Tree Debris",
+                                "parent": "Private Property"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Volunteer Inspector Program",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "All",
+                                "parent": "Volunteer Inspector Program"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hazardous Structure",
+        "parent": "null",
+        "children": [
+            {
+                "name": "Property Violations",
+                "parent": "Hazardous Structure",
+                "children": [
+                    {
+                        "name": "Board Up",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "All",
+                                "parent": "Board Up"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Private Property",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "Accelerated Abatement",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "All",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Dead",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "No Known Property Owner",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Priority Review",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Snow on Sidewalk",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Tree Debris",
+                                "parent": "Private Property"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Volunteer Inspector Program",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "All",
+                                "parent": "Volunteer Inspector Program"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dangerous Building and Emergency Board Up",
+        "parent": "null",
+        "children": [
+            {
+                "name": "Property Violations",
+                "parent": "Dangerous Building and Emergency Board Up",
+                "children": [
+                    {
+                        "name": "Board Up",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "All",
+                                "parent": "Board Up"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Private Property",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "Accelerated Abatement",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "All",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Dead",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "No Known Property Owner",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Priority Review",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Snow on Sidewalk",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Tree Debris",
+                                "parent": "Private Property"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Volunteer Inspector Program",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "All",
+                                "parent": "Volunteer Inspector Program"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dangerous Building Emergency",
+        "parent": "null",
+        "children": [
+            {
+                "name": "Property Violations",
+                "parent": "Dangerous Building Emergency",
+                "children": [
+                    {
+                        "name": "Board Up",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "All",
+                                "parent": "Board Up"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Private Property",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "Accelerated Abatement",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "All",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Dead",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "No Known Property Owner",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Priority Review",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Snow on Sidewalk",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Tree Debris",
+                                "parent": "Private Property"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Volunteer Inspector Program",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "All",
+                                "parent": "Volunteer Inspector Program"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "No Known Property Owner",
+        "parent": "null",
+        "children": [
+            {
+                "name": "Property Violations",
+                "parent": "No Known Property Owner",
+                "children": [
+                    {
+                        "name": "Board Up",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "All",
+                                "parent": "Board Up"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Private Property",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "Accelerated Abatement",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "All",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Dead",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "No Known Property Owner",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Priority Review",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Snow on Sidewalk",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Tree Debris",
+                                "parent": "Private Property"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Volunteer Inspector Program",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "All",
+                                "parent": "Volunteer Inspector Program"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Referral for Sewage on Private Property",
+        "parent": "null",
+        "children": [
+            {
+                "name": "Property Violations",
+                "parent": "Referral for Sewage on Private Property",
+                "children": [
+                    {
+                        "name": "Board Up",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "All",
+                                "parent": "Board Up"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Private Property",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "Accelerated Abatement",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "All",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Dead",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "No Known Property Owner",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Priority Review",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Snow on Sidewalk",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Tree Debris",
+                                "parent": "Private Property"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Volunteer Inspector Program",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "All",
+                                "parent": "Volunteer Inspector Program"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Accelerated Abatement Program",
+        "parent": "null",
+        "children": [
+            {
+                "name": "Property Violations",
+                "parent": "Accelerated Abatement Program",
+                "children": [
+                    {
+                        "name": "Board Up",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "All",
+                                "parent": "Board Up"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Private Property",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "Accelerated Abatement",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "All",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Dead",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "No Known Property Owner",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Priority Review",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Snow on Sidewalk",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Tree Debris",
+                                "parent": "Private Property"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Volunteer Inspector Program",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "All",
+                                "parent": "Volunteer Inspector Program"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Volunteer Inspection Program",
+        "parent": "null",
+        "children": [
+            {
+                "name": "Property Violations",
+                "parent": "Volunteer Inspection Program",
+                "children": [
+                    {
+                        "name": "Board Up",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "All",
+                                "parent": "Board Up"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Private Property",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "Accelerated Abatement",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "All",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Dead",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "No Known Property Owner",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Priority Review",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Snow on Sidewalk",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Tree Debris",
+                                "parent": "Private Property"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Volunteer Inspector Program",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "All",
+                                "parent": "Volunteer Inspector Program"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Snow or Ice on Sidewalk",
+        "parent": "null",
+        "children": [
+            {
+                "name": "Property Violations",
+                "parent": "Snow or Ice on Sidewalk",
+                "children": [
+                    {
+                        "name": "Board Up",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "All",
+                                "parent": "Board Up"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Private Property",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "Accelerated Abatement",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "All",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Dead",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "No Known Property Owner",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Priority Review",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Snow on Sidewalk",
+                                "parent": "Private Property"
+                            },
+                            {
+                                "name": "Tree Debris",
+                                "parent": "Private Property"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Volunteer Inspector Program",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "All",
+                                "parent": "Volunteer Inspector Program"
                             }
                         ]
                     }

@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Problem Domain",
+        "parent": "null",
+        "children": [
+            {
+                "name": "Trash / Recycling",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Bulky Pick Up",
+                        "parent": "Trash / Recycling",
+                        "children": [
+                            {
+                                "name": "Address Validation",
+                                "parent": "Bulky Pick Up",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Bulky Pick Up -Address Validation",
+                                        "parent": "Bulky Pick Up"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Missed Pick Up",
+                                "parent": "Bulky Pick Up",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Bulky Pick Up -Missed Pick Up",
+                                        "parent": "Bulky Pick Up"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dumping",
+                        "parent": "Trash / Recycling",
+                        "children": [
+                            {
+                                "name": "Alley - Public Works - District 1",
+                                "parent": "Dumping",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling - Dumping - Alley - D1",
+                                        "parent": "Dumping"
+                                    },
+                                    {
+                                        "name": "Trash / Recycling-Dumping-Alley",
+                                        "parent": "Dumping"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alley - Public Works - District 2",
+                                "parent": "Dumping",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling - Dumping - Alley - D2",
+                                        "parent": "Dumping"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alley - Public Works - District 3",
+                                "parent": "Dumping",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling - Dumping - Alley - D3",
+                                        "parent": "Dumping"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Camera Request",
+                                "parent": "Dumping",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Dumping-Camera Request",
+                                        "parent": "Dumping"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Landlord Set Out",
+                                "parent": "Dumping",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Dumping-Landlord Set Out",
+                                        "parent": "Dumping"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Park - Central",
+                                "parent": "Dumping",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Dumping-Park - Central",
+                                        "parent": "Dumping"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dumpsters",
+                        "parent": "Trash / Recycling",
+                        "children": [
+                            {
+                                "name": "Dumpster Request",
+                                "parent": "Dumpsters",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Dumpsters-Dumpster Request",
+                                        "parent": "Dumpsters"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Private Property",
+                                "parent": "Dumpsters",
+                                "children": [
+                                    {
+                                        "name": "Property Violations",
+                                        "parent": "Dumpsters"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Street / Alley / ROW",
+                                "parent": "Dumpsters",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Dumpsters-Street / Alley / ROW",
+                                        "parent": "Dumpsters"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Early Set Out",
+                        "parent": "Trash / Recycling",
+                        "children": [
+                            {
+                                "name": "Central",
+                                "parent": "Early Set Out",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Early Set Out-Central",
+                                        "parent": "Early Set Out"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "North",
+                                "parent": "Early Set Out",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Early Set Out-North",
+                                        "parent": "Early Set Out"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "South",
+                                "parent": "Early Set Out",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Early Set Out-South",
+                                        "parent": "Early Set Out"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,514 @@
+[
+    {
+        "name": "Problem Domain",
+        "parent": "null",
+        "children": [
+            {
+                "name": "Trash / Recycling-Dumping-Solid Waste Referral",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Trash / Recycling",
+                        "parent": "Trash / Recycling-Dumping-Solid Waste Referral",
+                        "children": [
+                            {
+                                "name": "Dumping",
+                                "parent": "Trash / Recycling",
+                                "children": [
+                                    {
+                                        "name": "Solid Waste Referral",
+                                        "parent": "Dumping"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Trash / Recycling-Dumping-ROW North",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Trash / Recycling",
+                        "parent": "Trash / Recycling-Dumping-ROW North",
+                        "children": [
+                            {
+                                "name": "Dumping",
+                                "parent": "Trash / Recycling",
+                                "children": [
+                                    {
+                                        "name": "Right of Way North",
+                                        "parent": "Dumping"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Trash / Recycling-Bulky Pick Up -Missed Pick Up",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Trash / Recycling",
+                        "parent": "Trash / Recycling-Bulky Pick Up -Missed Pick Up",
+                        "children": [
+                            {
+                                "name": "Bulky Pick Up",
+                                "parent": "Trash / Recycling",
+                                "children": [
+                                    {
+                                        "name": "Missed Pick Up",
+                                        "parent": "Bulky Pick Up"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Trash / Recycling-Dumping-ROW Land Bank Central",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Trash / Recycling",
+                        "parent": "Trash / Recycling-Dumping-ROW Land Bank Central",
+                        "children": [
+                            {
+                                "name": "Dumping",
+                                "parent": "Trash / Recycling",
+                                "children": [
+                                    {
+                                        "name": "Right of Way LB Central",
+                                        "parent": "Dumping"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Trash / Recycling-Dumping-ROW Land Bank North",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Trash / Recycling",
+                        "parent": "Trash / Recycling-Dumping-ROW Land Bank North",
+                        "children": [
+                            {
+                                "name": "Dumping",
+                                "parent": "Trash / Recycling",
+                                "children": [
+                                    {
+                                        "name": "Right of Way LB North",
+                                        "parent": "Dumping"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Trash / Recycling-Dumping-Private Property",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Trash / Recycling",
+                        "parent": "Trash / Recycling-Dumping-Private Property",
+                        "children": [
+                            {
+                                "name": "Dumping",
+                                "parent": "Trash / Recycling",
+                                "children": [
+                                    {
+                                        "name": "Private Property",
+                                        "parent": "Dumping"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Trash / Recycling - Dumping - Alley - D2",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Trash / Recycling",
+                        "parent": "Trash / Recycling - Dumping - Alley - D2",
+                        "children": [
+                            {
+                                "name": "Dumping",
+                                "parent": "Trash / Recycling",
+                                "children": [
+                                    {
+                                        "name": "Alley - Public Works - District 2",
+                                        "parent": "Dumping"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Trash / Recycling-Bulky Pick Up -Address Validation",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Trash / Recycling",
+                        "parent": "Trash / Recycling-Bulky Pick Up -Address Validation",
+                        "children": [
+                            {
+                                "name": "Bulky Pick Up",
+                                "parent": "Trash / Recycling",
+                                "children": [
+                                    {
+                                        "name": "Address Validation",
+                                        "parent": "Bulky Pick Up"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Trash / Recycling-Dumping-Camera Request",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Trash / Recycling",
+                        "parent": "Trash / Recycling-Dumping-Camera Request",
+                        "children": [
+                            {
+                                "name": "Dumping",
+                                "parent": "Trash / Recycling",
+                                "children": [
+                                    {
+                                        "name": "Camera Request",
+                                        "parent": "Dumping"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Trash / Recycling-Dumping-Park - Central",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Trash / Recycling",
+                        "parent": "Trash / Recycling-Dumping-Park - Central",
+                        "children": [
+                            {
+                                "name": "Dumping",
+                                "parent": "Trash / Recycling",
+                                "children": [
+                                    {
+                                        "name": "Park - Central",
+                                        "parent": "Dumping"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Trash / Recycling-Early Set Out-Central",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Trash / Recycling",
+                        "parent": "Trash / Recycling-Early Set Out-Central",
+                        "children": [
+                            {
+                                "name": "Early Set Out",
+                                "parent": "Trash / Recycling",
+                                "children": [
+                                    {
+                                        "name": "Central",
+                                        "parent": "Early Set Out"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Trash / Recycling-Dumping-Park - North",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Trash / Recycling",
+                        "parent": "Trash / Recycling-Dumping-Park - North",
+                        "children": [
+                            {
+                                "name": "Dumping",
+                                "parent": "Trash / Recycling",
+                                "children": [
+                                    {
+                                        "name": "Park - North",
+                                        "parent": "Dumping"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Trash / Recycling - Dumping - Alley - D3",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Trash / Recycling",
+                        "parent": "Trash / Recycling - Dumping - Alley - D3",
+                        "children": [
+                            {
+                                "name": "Dumping",
+                                "parent": "Trash / Recycling",
+                                "children": [
+                                    {
+                                        "name": "Alley - Public Works - District 3",
+                                        "parent": "Dumping"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Trash / Recycling-Early Set Out-North",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Trash / Recycling",
+                        "parent": "Trash / Recycling-Early Set Out-North",
+                        "children": [
+                            {
+                                "name": "Early Set Out",
+                                "parent": "Trash / Recycling",
+                                "children": [
+                                    {
+                                        "name": "North",
+                                        "parent": "Early Set Out"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Trash / Recycling-Dumping-ROW Land Bank South",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Trash / Recycling",
+                        "parent": "Trash / Recycling-Dumping-ROW Land Bank South",
+                        "children": [
+                            {
+                                "name": "Dumping",
+                                "parent": "Trash / Recycling",
+                                "children": [
+                                    {
+                                        "name": "Right of Way LB South",
+                                        "parent": "Dumping"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Trash / Recycling-Dumping-Park - South",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Trash / Recycling",
+                        "parent": "Trash / Recycling-Dumping-Park - South",
+                        "children": [
+                            {
+                                "name": "Dumping",
+                                "parent": "Trash / Recycling",
+                                "children": [
+                                    {
+                                        "name": "Park - South",
+                                        "parent": "Dumping"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Trash / Recycling-Early Set Out-South",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Trash / Recycling",
+                        "parent": "Trash / Recycling-Early Set Out-South",
+                        "children": [
+                            {
+                                "name": "Early Set Out",
+                                "parent": "Trash / Recycling",
+                                "children": [
+                                    {
+                                        "name": "South",
+                                        "parent": "Early Set Out"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Trash / Recycling-Dumpsters-Street / Alley / ROW",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Trash / Recycling",
+                        "parent": "Trash / Recycling-Dumpsters-Street / Alley / ROW",
+                        "children": [
+                            {
+                                "name": "Dumpsters",
+                                "parent": "Trash / Recycling",
+                                "children": [
+                                    {
+                                        "name": "Street / Alley / ROW",
+                                        "parent": "Dumpsters"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Trash / Recycling-Dumpsters-Dumpster Request",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Trash / Recycling",
+                        "parent": "Trash / Recycling-Dumpsters-Dumpster Request",
+                        "children": [
+                            {
+                                "name": "Dumpsters",
+                                "parent": "Trash / Recycling",
+                                "children": [
+                                    {
+                                        "name": "Dumpster Request",
+                                        "parent": "Dumpsters"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Trash / Recycling-Dumping-Landlord Set Out",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Trash / Recycling",
+                        "parent": "Trash / Recycling-Dumping-Landlord Set Out",
+                        "children": [
+                            {
+                                "name": "Dumping",
+                                "parent": "Trash / Recycling",
+                                "children": [
+                                    {
+                                        "name": "Landlord Set Out",
+                                        "parent": "Dumping"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Trash / Recycling-Dumping-Alley",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Trash / Recycling",
+                        "parent": "Trash / Recycling-Dumping-Alley",
+                        "children": [
+                            {
+                                "name": "Dumping",
+                                "parent": "Trash / Recycling",
+                                "children": [
+                                    {
+                                        "name": "Alley - Public Works - District 1",
+                                        "parent": "Dumping"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Trash / Recycling-Dumping-Right of Way (ROW)",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Trash / Recycling",
+                        "parent": "Trash / Recycling-Dumping-Right of Way (ROW)",
+                        "children": [
+                            {
+                                "name": "Dumping",
+                                "parent": "Trash / Recycling",
+                                "children": [
+                                    {
+                                        "name": "Right-Of-Way",
+                                        "parent": "Dumping"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Trash / Recycling - Dumping - Alley - D1",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Trash / Recycling",
+                        "parent": "Trash / Recycling - Dumping - Alley - D1",
+                        "children": [
+                            {
+                                "name": "Dumping",
+                                "parent": "Trash / Recycling",
+                                "children": [
+                                    {
+                                        "name": "Alley - Public Works - District 1",
+                                        "parent": "Dumping"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

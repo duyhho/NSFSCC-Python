@@ -1,0 +1,873 @@
+[
+    {
+        "name": "Solution Domain",
+        "parent": "null",
+        "children": [
+            {
+                "name": "Public Works",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Public Works- Sidewalks- GO Bonds",
+                        "parent": "Public Works",
+                        "children": []
+                    },
+                    {
+                        "name": "Public Works-Administration-",
+                        "parent": "Public Works",
+                        "children": []
+                    },
+                    {
+                        "name": "Public Works-Capital Projects-",
+                        "parent": "Public Works",
+                        "children": []
+                    },
+                    {
+                        "name": "Public Works-Capital Projects-Preservation",
+                        "parent": "Public Works",
+                        "children": []
+                    },
+                    {
+                        "name": "Public Works-Capital Projects-Sidewalks",
+                        "parent": "Public Works",
+                        "children": []
+                    },
+                    {
+                        "name": "Public Works-Capital Projects-Signs",
+                        "parent": "Public Works",
+                        "children": []
+                    },
+                    {
+                        "name": "Public Works-Capital Projects-Traffic Control",
+                        "parent": "Public Works",
+                        "children": []
+                    },
+                    {
+                        "name": "Public Works-Capital Projects-Traffic Permits",
+                        "parent": "Public Works",
+                        "children": []
+                    },
+                    {
+                        "name": "Public Works-Capital Projects-Traffic Signals",
+                        "parent": "Public Works",
+                        "children": []
+                    },
+                    {
+                        "name": "Public Works-Coordination Service-Bicycle",
+                        "parent": "Public Works",
+                        "children": []
+                    },
+                    {
+                        "name": "Public Works-Facilities Maintenance-",
+                        "parent": "Public Works",
+                        "children": []
+                    },
+                    {
+                        "name": "Public Works-Parking Division-",
+                        "parent": "Public Works",
+                        "children": []
+                    },
+                    {
+                        "name": "Public Works-Snow and Ice-Administration",
+                        "parent": "Public Works",
+                        "children": []
+                    },
+                    {
+                        "name": "Public Works-Solid Waste-",
+                        "parent": "Public Works",
+                        "children": []
+                    },
+                    {
+                        "name": "Public Works-Street and Traffic-Administration",
+                        "parent": "Public Works",
+                        "children": []
+                    },
+                    {
+                        "name": "Public Works-Street and Traffic-District 1",
+                        "parent": "Public Works",
+                        "children": []
+                    },
+                    {
+                        "name": "Public Works-Street and Traffic-District 2",
+                        "parent": "Public Works",
+                        "children": []
+                    },
+                    {
+                        "name": "Public Works-Street and Traffic-District 3",
+                        "parent": "Public Works",
+                        "children": []
+                    },
+                    {
+                        "name": "Public Works-Street and Traffic-Project Planning",
+                        "parent": "Public Works",
+                        "children": []
+                    },
+                    {
+                        "name": "Public Works-Street and Traffic-Rural Mowing",
+                        "parent": "Public Works",
+                        "children": []
+                    },
+                    {
+                        "name": "Public Works-Street and Traffic-Snow",
+                        "parent": "Public Works",
+                        "children": []
+                    },
+                    {
+                        "name": "Public Works-Street and Traffic-Street Operations",
+                        "parent": "Public Works",
+                        "children": []
+                    },
+                    {
+                        "name": "Public Works-Street and Traffic-Streetlights",
+                        "parent": "Public Works",
+                        "children": []
+                    },
+                    {
+                        "name": "Public Works-Street and Traffic-Streetlights Staff",
+                        "parent": "Public Works",
+                        "children": []
+                    },
+                    {
+                        "name": "Public Works-Streets and Traffic-Administration",
+                        "parent": "Public Works",
+                        "children": []
+                    },
+                    {
+                        "name": "Public Works-Streets and Traffic-Project Planning",
+                        "parent": "Public Works",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Parks and Rec",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Parks and Rec-Administration-",
+                        "parent": "Parks and Rec",
+                        "children": []
+                    },
+                    {
+                        "name": "Parks and Rec-Central Region-",
+                        "parent": "Parks and Rec",
+                        "children": []
+                    },
+                    {
+                        "name": "Parks and Rec-Community Services-",
+                        "parent": "Parks and Rec",
+                        "children": []
+                    },
+                    {
+                        "name": "Parks and Rec-Facility Maintenance-",
+                        "parent": "Parks and Rec",
+                        "children": []
+                    },
+                    {
+                        "name": "Parks and Rec-Landscape Services-Forestry",
+                        "parent": "Parks and Rec",
+                        "children": []
+                    },
+                    {
+                        "name": "Parks and Rec-Landscape Services-Forestry Tech",
+                        "parent": "Parks and Rec",
+                        "children": []
+                    },
+                    {
+                        "name": "Parks and Rec-Landscape Services-Landscaping",
+                        "parent": "Parks and Rec",
+                        "children": []
+                    },
+                    {
+                        "name": "Parks and Rec-Landscape Services-Weeds",
+                        "parent": "Parks and Rec",
+                        "children": []
+                    },
+                    {
+                        "name": "Parks and Rec-North Region-",
+                        "parent": "Parks and Rec",
+                        "children": []
+                    },
+                    {
+                        "name": "Parks and Rec-Planning and Design",
+                        "parent": "Parks and Rec",
+                        "children": []
+                    },
+                    {
+                        "name": "Parks and Rec-South Region-",
+                        "parent": "Parks and Rec",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "NHS",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "NHS-Administration-",
+                        "parent": "NHS",
+                        "children": []
+                    },
+                    {
+                        "name": "NHS-Animal Health and Safety-",
+                        "parent": "NHS",
+                        "children": []
+                    },
+                    {
+                        "name": "NHS-Animal Health and Safety-Admin",
+                        "parent": "NHS",
+                        "children": []
+                    },
+                    {
+                        "name": "NHS-Dangerous Buildings-",
+                        "parent": "NHS",
+                        "children": []
+                    },
+                    {
+                        "name": "NHS-Dangerous Buildings-Emergency",
+                        "parent": "NHS",
+                        "children": []
+                    },
+                    {
+                        "name": "NHS-HazardousStructure",
+                        "parent": "NHS",
+                        "children": []
+                    },
+                    {
+                        "name": "NHS-NCAP-",
+                        "parent": "NHS",
+                        "children": []
+                    },
+                    {
+                        "name": "NHS-NPD-Assessments",
+                        "parent": "NHS",
+                        "children": []
+                    },
+                    {
+                        "name": "NHS-Neighborhood Preservation-",
+                        "parent": "NHS",
+                        "children": []
+                    },
+                    {
+                        "name": "NHS-Neighborhood Preservation-Abatement",
+                        "parent": "NHS",
+                        "children": []
+                    },
+                    {
+                        "name": "NHS-Neighborhood Preservation-Administration",
+                        "parent": "NHS",
+                        "children": []
+                    },
+                    {
+                        "name": "NHS-Neighborhood Preservation-DART",
+                        "parent": "NHS",
+                        "children": []
+                    },
+                    {
+                        "name": "NHS-Neighborhood Preservation-Illegal Dumping",
+                        "parent": "NHS",
+                        "children": []
+                    },
+                    {
+                        "name": "NHS-Neighborhood Preservation-Open Entry",
+                        "parent": "NHS",
+                        "children": []
+                    },
+                    {
+                        "name": "NHS-Neighborhood Preservation-Priority",
+                        "parent": "NHS",
+                        "children": []
+                    },
+                    {
+                        "name": "NHS-Neighborhood Preservation-Programs",
+                        "parent": "NHS",
+                        "children": []
+                    },
+                    {
+                        "name": "NHS-Neighborhood Referrals-Supervisors",
+                        "parent": "NHS",
+                        "children": []
+                    },
+                    {
+                        "name": "NHS-Neighborhood Services",
+                        "parent": "NHS",
+                        "children": []
+                    },
+                    {
+                        "name": "NHS-Neighborhood-Abatement",
+                        "parent": "NHS",
+                        "children": []
+                    },
+                    {
+                        "name": "NHS-Property Preservation-",
+                        "parent": "NHS",
+                        "children": []
+                    },
+                    {
+                        "name": "NHS-Regulated Industries-",
+                        "parent": "NHS",
+                        "children": []
+                    },
+                    {
+                        "name": "NHS-Salvage-",
+                        "parent": "NHS",
+                        "children": []
+                    },
+                    {
+                        "name": "NHS-Solid Waste-",
+                        "parent": "NHS",
+                        "children": []
+                    },
+                    {
+                        "name": "NHS-Solid Waste-Abatement Referral",
+                        "parent": "NHS",
+                        "children": []
+                    },
+                    {
+                        "name": "NHS-Solid Waste-Administration",
+                        "parent": "NHS",
+                        "children": []
+                    },
+                    {
+                        "name": "NHS-Solid Waste-Illegal Dumping",
+                        "parent": "NHS",
+                        "children": []
+                    },
+                    {
+                        "name": "NHS-Tow Services-",
+                        "parent": "NHS",
+                        "children": []
+                    },
+                    {
+                        "name": "NHS-Tow-Administration",
+                        "parent": "NHS",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Water Services",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Water Services - Wastewater Investigations",
+                        "parent": "Water Services",
+                        "children": []
+                    },
+                    {
+                        "name": "Water Services-Administration-",
+                        "parent": "Water Services",
+                        "children": []
+                    },
+                    {
+                        "name": "Water Services-Automatic Meter Reading-VSI",
+                        "parent": "Water Services",
+                        "children": []
+                    },
+                    {
+                        "name": "Water Services-Consumer Services-Back Office Suppo",
+                        "parent": "Water Services",
+                        "children": []
+                    },
+                    {
+                        "name": "Water Services-Engineering-Stormwater",
+                        "parent": "Water Services",
+                        "children": []
+                    },
+                    {
+                        "name": "Water Services-Engineering-Water and Sewer",
+                        "parent": "Water Services",
+                        "children": []
+                    },
+                    {
+                        "name": "Water Services-Facility-Engineering",
+                        "parent": "Water Services",
+                        "children": []
+                    },
+                    {
+                        "name": "Water Services-Industrial Waste Control-",
+                        "parent": "Water Services",
+                        "children": []
+                    },
+                    {
+                        "name": "Water Services-Laboratory Services-",
+                        "parent": "Water Services",
+                        "children": []
+                    },
+                    {
+                        "name": "Water Services-Leaf Brush",
+                        "parent": "Water Services",
+                        "children": []
+                    },
+                    {
+                        "name": "Water Services-Line Maintenance-Ice Abatement",
+                        "parent": "Water Services",
+                        "children": []
+                    },
+                    {
+                        "name": "Water Services-Line Maintenance-Leaf Brush",
+                        "parent": "Water Services",
+                        "children": []
+                    },
+                    {
+                        "name": "Water Services-Line Maintenance-Pipeline",
+                        "parent": "Water Services",
+                        "children": []
+                    },
+                    {
+                        "name": "Water Services-Line Maintenance-Restoration",
+                        "parent": "Water Services",
+                        "children": []
+                    },
+                    {
+                        "name": "Water Services-Line Maintenance-Stormwater",
+                        "parent": "Water Services",
+                        "children": []
+                    },
+                    {
+                        "name": "Water Services-Line Maintenance-Wastewater",
+                        "parent": "Water Services",
+                        "children": []
+                    },
+                    {
+                        "name": "Water Services-Meter & Field Services-Supervisors",
+                        "parent": "Water Services",
+                        "children": []
+                    },
+                    {
+                        "name": "Water Services-Meter and Field Services-",
+                        "parent": "Water Services",
+                        "children": []
+                    },
+                    {
+                        "name": "Water Services-Reading-",
+                        "parent": "Water Services",
+                        "children": []
+                    },
+                    {
+                        "name": "Water Services-Stormwater Investigations",
+                        "parent": "Water Services",
+                        "children": []
+                    },
+                    {
+                        "name": "Water Services-Wastewater Investigations",
+                        "parent": "Water Services",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Health",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Health--",
+                        "parent": "Health",
+                        "children": []
+                    },
+                    {
+                        "name": "Health-Air Quality-",
+                        "parent": "Health",
+                        "children": []
+                    },
+                    {
+                        "name": "Health-Communicable Disease Control-",
+                        "parent": "Health",
+                        "children": []
+                    },
+                    {
+                        "name": "Health-Community Environmental Health-",
+                        "parent": "Health",
+                        "children": []
+                    },
+                    {
+                        "name": "Health-Food Protection-",
+                        "parent": "Health",
+                        "children": []
+                    },
+                    {
+                        "name": "Health-Healthy Homes-",
+                        "parent": "Health",
+                        "children": []
+                    },
+                    {
+                        "name": "Health-Healthy Homes-Bedbugs",
+                        "parent": "Health",
+                        "children": []
+                    },
+                    {
+                        "name": "Health-Lead Poisoning Prevention-",
+                        "parent": "Health",
+                        "children": []
+                    },
+                    {
+                        "name": "Health-Noise Control-",
+                        "parent": "Health",
+                        "children": []
+                    },
+                    {
+                        "name": "Health-Rat-",
+                        "parent": "Health",
+                        "children": []
+                    },
+                    {
+                        "name": "Health-Tobacco Control-",
+                        "parent": "Health",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "City Managers Office",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "City Managers Office-311 Call Center-",
+                        "parent": "City Managers Office",
+                        "children": []
+                    },
+                    {
+                        "name": "City Managers Office-311 Call Center-Administratio",
+                        "parent": "City Managers Office",
+                        "children": []
+                    },
+                    {
+                        "name": "City Managers Office-311 Call Center-Support",
+                        "parent": "City Managers Office",
+                        "children": []
+                    },
+                    {
+                        "name": "City Managers Office-311-Field Staff",
+                        "parent": "City Managers Office",
+                        "children": []
+                    },
+                    {
+                        "name": "City Managers Office-Administration-",
+                        "parent": "City Managers Office",
+                        "children": []
+                    },
+                    {
+                        "name": "City Managers Office-CIMO-",
+                        "parent": "City Managers Office",
+                        "children": []
+                    },
+                    {
+                        "name": "City Managers Office-Capital Projects-",
+                        "parent": "City Managers Office",
+                        "children": []
+                    },
+                    {
+                        "name": "City Managers Office-Compass KC-",
+                        "parent": "City Managers Office",
+                        "children": []
+                    },
+                    {
+                        "name": "City Managers Office-Emergency Management-",
+                        "parent": "City Managers Office",
+                        "children": []
+                    },
+                    {
+                        "name": "City Managers Office-KCPD-",
+                        "parent": "City Managers Office",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "KCPD",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "KCPD-Parking Control-",
+                        "parent": "KCPD",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "City Planning and Development",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "City Planning and Development-Administration",
+                        "parent": "City Planning and Development",
+                        "children": []
+                    },
+                    {
+                        "name": "City Planning and Development-Adminstration-",
+                        "parent": "City Planning and Development",
+                        "children": []
+                    },
+                    {
+                        "name": "City Planning and Development-Dev Comp-Zoning",
+                        "parent": "City Planning and Development",
+                        "children": []
+                    },
+                    {
+                        "name": "City Planning and Development-Elevators-",
+                        "parent": "City Planning and Development",
+                        "children": []
+                    },
+                    {
+                        "name": "City Planning and Development-Land Develop-Inspect",
+                        "parent": "City Planning and Development",
+                        "children": []
+                    },
+                    {
+                        "name": "City Planning and Development-Permit Compliance-",
+                        "parent": "City Planning and Development",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Northland",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Northland-Neighborhood-Inc",
+                        "parent": "Northland",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "South",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "South-KansasCity-Alliance",
+                        "parent": "South",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Finance",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Finance--",
+                        "parent": "Finance",
+                        "children": []
+                    },
+                    {
+                        "name": "Finance-PIAC-",
+                        "parent": "Finance",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Fire",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Fire--",
+                        "parent": "Fire",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Northeast",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Northeast-Alliance-Together",
+                        "parent": "Northeast",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Aviation",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Aviation--",
+                        "parent": "Aviation",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "General Service",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "General Service-City Property-",
+                        "parent": "General Service",
+                        "children": []
+                    },
+                    {
+                        "name": "General Service-Facility Management-",
+                        "parent": "General Service",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Municipal Court",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Municipal Court-Accommodations",
+                        "parent": "Municipal Court",
+                        "children": []
+                    },
+                    {
+                        "name": "Municipal Court-Customer Service-",
+                        "parent": "Municipal Court",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Convention and Entertainment Center",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Convention and Entertainment Center--",
+                        "parent": "Convention and Entertainment Center",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Parks & Rec",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Parks & Rec-Brush Creek-Maintenance",
+                        "parent": "Parks & Rec",
+                        "children": []
+                    },
+                    {
+                        "name": "Parks & Rec-Landscape Services-BRWF",
+                        "parent": "Parks & Rec",
+                        "children": []
+                    },
+                    {
+                        "name": "Parks & Rec-Landscape Services-Forestry",
+                        "parent": "Parks & Rec",
+                        "children": []
+                    },
+                    {
+                        "name": "Parks & Rec-Landscape Services-LT List",
+                        "parent": "Parks & Rec",
+                        "children": []
+                    },
+                    {
+                        "name": "Parks & Rec-Landscape Services-ROWWeeds",
+                        "parent": "Parks & Rec",
+                        "children": []
+                    },
+                    {
+                        "name": "Parks & Rec-Landscape Services-Visability",
+                        "parent": "Parks & Rec",
+                        "children": []
+                    },
+                    {
+                        "name": "Parks & Rec-Planning and Design",
+                        "parent": "Parks & Rec",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Information Technology",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Information Technology--",
+                        "parent": "Information Technology",
+                        "children": []
+                    },
+                    {
+                        "name": "Information Technology-ERP Testing-DML",
+                        "parent": "Information Technology",
+                        "children": []
+                    },
+                    {
+                        "name": "Information Technology-Email issue-",
+                        "parent": "Information Technology",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "NCS",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "NCS-Animal Health and Safety-Jackson County",
+                        "parent": "NCS",
+                        "children": []
+                    },
+                    {
+                        "name": "NCS-Neighborhood Preservation-LT List",
+                        "parent": "NCS",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Housing Community Dev",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Housing Community Dev-Property Preservation",
+                        "parent": "Housing Community Dev",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Parks & Recreation",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Parks & Recreation-Landscape Services-BRWF",
+                        "parent": "Parks & Recreation",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "IT",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "IT-testing emails-",
+                        "parent": "IT",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Mayors Office",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Mayors Office--",
+                        "parent": "Mayors Office",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Human Resources",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Human Resources--",
+                        "parent": "Human Resources",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    }
+]

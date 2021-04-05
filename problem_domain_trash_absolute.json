@@ -1,0 +1,958 @@
+[
+    {
+        "name": "Problem Domain",
+        "parent": "null",
+        "children": [
+            {
+                "name": "Trash / Recycling - 199720 - 0.1293",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Bulky Pick Up - 8198 - 0.0053",
+                        "parent": "Trash / Recycling",
+                        "children": [
+                            {
+                                "name": "Address Validation - 491 - 0.0003",
+                                "parent": "Bulky Pick Up - 8198 - 0.0053",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Bulky Pick Up -Address Validation - 491 - 0.0003",
+                                        "parent": "Address Validation - 491 - 0.0003"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Missed Pick Up - 7707 - 0.005",
+                                "parent": "Bulky Pick Up - 8198 - 0.0053",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Bulky Pick Up -Missed Pick Up - 7707 - 0.005",
+                                        "parent": "Missed Pick Up - 7707 - 0.005"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dumping - 23158 - 0.015",
+                        "parent": "Trash / Recycling",
+                        "children": [
+                            {
+                                "name": "Alley - Public Works - District 1 - 256 - 0.0002",
+                                "parent": "Dumping - 23158 - 0.015",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling - Dumping - Alley - D1 - 3 - 0.0",
+                                        "parent": "Alley - Public Works - District 1 - 256 - 0.0002"
+                                    },
+                                    {
+                                        "name": "Trash / Recycling-Dumping-Alley - 253 - 0.0002",
+                                        "parent": "Alley - Public Works - District 1 - 256 - 0.0002"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alley - Public Works - District 2 - 808 - 0.0005",
+                                "parent": "Dumping - 23158 - 0.015",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling - Dumping - Alley - D2 - 808 - 0.0005",
+                                        "parent": "Alley - Public Works - District 2 - 808 - 0.0005"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Alley - Public Works - District 3 - 78 - 0.0001",
+                                "parent": "Dumping - 23158 - 0.015",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling - Dumping - Alley - D3 - 78 - 0.0001",
+                                        "parent": "Alley - Public Works - District 3 - 78 - 0.0001"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Camera Request - 554 - 0.0004",
+                                "parent": "Dumping - 23158 - 0.015",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Dumping-Camera Request - 554 - 0.0004",
+                                        "parent": "Camera Request - 554 - 0.0004"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Landlord Set Out - 5 - 0.0",
+                                "parent": "Dumping - 23158 - 0.015",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Dumping-Landlord Set Out - 5 - 0.0",
+                                        "parent": "Landlord Set Out - 5 - 0.0"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Park - Central - 232 - 0.0002",
+                                "parent": "Dumping - 23158 - 0.015",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Dumping-Park - Central - 232 - 0.0002",
+                                        "parent": "Park - Central - 232 - 0.0002"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Park - North - 47 - 0.0",
+                                "parent": "Dumping - 23158 - 0.015",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Dumping-Park - North - 47 - 0.0",
+                                        "parent": "Park - North - 47 - 0.0"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Park - South - 121 - 0.0001",
+                                "parent": "Dumping - 23158 - 0.015",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Dumping-Park - South - 121 - 0.0001",
+                                        "parent": "Park - South - 121 - 0.0001"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Private Property - 2881 - 0.0019",
+                                "parent": "Dumping - 23158 - 0.015",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Dumping-Private Property - 2881 - 0.0019",
+                                        "parent": "Private Property - 2881 - 0.0019"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Right of Way Central - 2697 - 0.0017",
+                                "parent": "Dumping - 23158 - 0.015",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Dumping-ROW Central - 2697 - 0.0017",
+                                        "parent": "Right of Way Central - 2697 - 0.0017"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Right of Way LB Central - 540 - 0.0003",
+                                "parent": "Dumping - 23158 - 0.015",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Dumping-ROW Land Bank Central - 540 - 0.0003",
+                                        "parent": "Right of Way LB Central - 540 - 0.0003"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Right of Way LB North - 6 - 0.0",
+                                "parent": "Dumping - 23158 - 0.015",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Dumping-ROW Land Bank North - 6 - 0.0",
+                                        "parent": "Right of Way LB North - 6 - 0.0"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Right of Way LB South - 78 - 0.0001",
+                                "parent": "Dumping - 23158 - 0.015",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Dumping-ROW Land Bank South - 78 - 0.0001",
+                                        "parent": "Right of Way LB South - 78 - 0.0001"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Right of Way North - 499 - 0.0003",
+                                "parent": "Dumping - 23158 - 0.015",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Dumping-ROW North - 499 - 0.0003",
+                                        "parent": "Right of Way North - 499 - 0.0003"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Right of Way South - 1191 - 0.0008",
+                                "parent": "Dumping - 23158 - 0.015",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Dumping-ROW South - 1191 - 0.0008",
+                                        "parent": "Right of Way South - 1191 - 0.0008"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Right-Of-Way - 8780 - 0.0057",
+                                "parent": "Dumping - 23158 - 0.015",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Dumping-Right of Way - 6688 - 0.0043",
+                                        "parent": "Right-Of-Way - 8780 - 0.0057"
+                                    },
+                                    {
+                                        "name": "Trash / Recycling-Dumping-Right of Way (ROW) - 2092 - 0.0014",
+                                        "parent": "Right-Of-Way - 8780 - 0.0057"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Solid Waste Referral - 4385 - 0.0028",
+                                "parent": "Dumping - 23158 - 0.015",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Dumping-Solid Waste Referral - 4385 - 0.0028",
+                                        "parent": "Solid Waste Referral - 4385 - 0.0028"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dumpsters - 295 - 0.0002",
+                        "parent": "Trash / Recycling",
+                        "children": [
+                            {
+                                "name": "Dumpster Request - 31 - 0.0",
+                                "parent": "Dumpsters - 295 - 0.0002",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Dumpsters-Dumpster Request - 31 - 0.0",
+                                        "parent": "Dumpster Request - 31 - 0.0"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Private Property - 148 - 0.0001",
+                                "parent": "Dumpsters - 295 - 0.0002",
+                                "children": [
+                                    {
+                                        "name": "Property Violations - 148 - 0.0001",
+                                        "parent": "Private Property - 148 - 0.0001"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Street / Alley / ROW - 116 - 0.0001",
+                                "parent": "Dumpsters - 295 - 0.0002",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Dumpsters-Street / Alley / ROW - 116 - 0.0001",
+                                        "parent": "Street / Alley / ROW - 116 - 0.0001"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Early Set Out - 264 - 0.0002",
+                        "parent": "Trash / Recycling",
+                        "children": [
+                            {
+                                "name": "Central - 155 - 0.0001",
+                                "parent": "Early Set Out - 264 - 0.0002",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Early Set Out-Central - 155 - 0.0001",
+                                        "parent": "Central - 155 - 0.0001"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "North - 27 - 0.0",
+                                "parent": "Early Set Out - 264 - 0.0002",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Early Set Out-North - 27 - 0.0",
+                                        "parent": "North - 27 - 0.0"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "South - 82 - 0.0001",
+                                "parent": "Early Set Out - 264 - 0.0002",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Early Set Out-South - 82 - 0.0001",
+                                        "parent": "South - 82 - 0.0001"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Landlord Set Out - 37 - 0.0",
+                        "parent": "Trash / Recycling",
+                        "children": [
+                            {
+                                "name": "Central - 15 - 0.0",
+                                "parent": "Landlord Set Out - 37 - 0.0",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Landlord Set Out-Central - 15 - 0.0",
+                                        "parent": "Central - 15 - 0.0"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "North - 3 - 0.0",
+                                "parent": "Landlord Set Out - 37 - 0.0",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Landlord Set Out-North - 3 - 0.0",
+                                        "parent": "North - 3 - 0.0"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "South - 19 - 0.0",
+                                "parent": "Landlord Set Out - 37 - 0.0",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Landlord Set Out-South - 19 - 0.0",
+                                        "parent": "South - 19 - 0.0"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Leaf / Brush - 17498 - 0.0113",
+                        "parent": "Trash / Recycling",
+                        "children": [
+                            {
+                                "name": "Dumping in Street - 197 - 0.0001",
+                                "parent": "Leaf / Brush - 17498 - 0.0113",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Leaf / Brush-Dumping in Street - 197 - 0.0001",
+                                        "parent": "Dumping in Street - 197 - 0.0001"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Friday - Central - 1126 - 0.0007",
+                                "parent": "Leaf / Brush - 17498 - 0.0113",
+                                "children": [
+                                    {
+                                        "name": "Trash/Recycling - Leaf/Brush - Friday - Central - 1126 - 0.0007",
+                                        "parent": "Friday - Central - 1126 - 0.0007"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Friday - North - 616 - 0.0004",
+                                "parent": "Leaf / Brush - 17498 - 0.0113",
+                                "children": [
+                                    {
+                                        "name": "Trash/Recycling - Leaf/Brush - Friday - North - 615 - 0.0004",
+                                        "parent": "Friday - North - 616 - 0.0004"
+                                    },
+                                    {
+                                        "name": "Trash/Recycling - Leaf/Brush - Monday - Central - 1 - 0.0",
+                                        "parent": "Friday - North - 616 - 0.0004"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Friday - South - 1492 - 0.001",
+                                "parent": "Leaf / Brush - 17498 - 0.0113",
+                                "children": [
+                                    {
+                                        "name": "Trash/Recycling - Leaf/Brush - Friday - South - 1492 - 0.001",
+                                        "parent": "Friday - South - 1492 - 0.001"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Leaf/Brush Appointment Missed - 9 - 0.0",
+                                "parent": "Leaf / Brush - 17498 - 0.0113",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Leaf / Brush-Appointment Missed - 9 - 0.0",
+                                        "parent": "Leaf/Brush Appointment Missed - 9 - 0.0"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Missed Pick Up - 6224 - 0.004",
+                                "parent": "Leaf / Brush - 17498 - 0.0113",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Leaf / Brush-Missed Pick Up - 6221 - 0.004",
+                                        "parent": "Missed Pick Up - 6224 - 0.004"
+                                    },
+                                    {
+                                        "name": "Trash/Recycling - Leaf/Brush - Monday - North - 1 - 0.0",
+                                        "parent": "Missed Pick Up - 6224 - 0.004"
+                                    },
+                                    {
+                                        "name": "Trash/Recycling - Leaf/Brush - Thursday - North - 2 - 0.0",
+                                        "parent": "Missed Pick Up - 6224 - 0.004"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Monday - Central - 576 - 0.0004",
+                                "parent": "Leaf / Brush - 17498 - 0.0113",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Leaf / Brush-Missed Pick Up - 6 - 0.0",
+                                        "parent": "Monday - Central - 576 - 0.0004"
+                                    },
+                                    {
+                                        "name": "Trash / Recycling-Services-Service Issue / Problem - 1 - 0.0",
+                                        "parent": "Monday - Central - 576 - 0.0004"
+                                    },
+                                    {
+                                        "name": "Trash / Recycling-Trash Collection-Missed by City - 1 - 0.0",
+                                        "parent": "Monday - Central - 576 - 0.0004"
+                                    },
+                                    {
+                                        "name": "Trash/Recycling - Leaf/Brush - Monday - Central - 564 - 0.0004",
+                                        "parent": "Monday - Central - 576 - 0.0004"
+                                    },
+                                    {
+                                        "name": "Trash/Recycling - Leaf/Brush - Monday - North - 1 - 0.0",
+                                        "parent": "Monday - Central - 576 - 0.0004"
+                                    },
+                                    {
+                                        "name": "Trash/Recycling - Leaf/Brush - Monday - South - 1 - 0.0",
+                                        "parent": "Monday - Central - 576 - 0.0004"
+                                    },
+                                    {
+                                        "name": "Trash/Recycling - Leaf/Brush - Tuesday - North - 1 - 0.0",
+                                        "parent": "Monday - Central - 576 - 0.0004"
+                                    },
+                                    {
+                                        "name": "Web SR - Trash, Recycle, Bulky - 1 - 0.0",
+                                        "parent": "Monday - Central - 576 - 0.0004"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Monday - North - 140 - 0.0001",
+                                "parent": "Leaf / Brush - 17498 - 0.0113",
+                                "children": [
+                                    {
+                                        "name": "Trash/Recycling - Leaf/Brush - Monday - North - 140 - 0.0001",
+                                        "parent": "Monday - North - 140 - 0.0001"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Monday - South - 960 - 0.0006",
+                                "parent": "Leaf / Brush - 17498 - 0.0113",
+                                "children": [
+                                    {
+                                        "name": "Trash/Recycling - Leaf/Brush - Monday - South - 960 - 0.0006",
+                                        "parent": "Monday - South - 960 - 0.0006"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Thursday - Central - 195 - 0.0001",
+                                "parent": "Leaf / Brush - 17498 - 0.0113",
+                                "children": [
+                                    {
+                                        "name": "Trash/Recycling - Leaf/Brush - Thursday - Central - 195 - 0.0001",
+                                        "parent": "Thursday - Central - 195 - 0.0001"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Thursday - North - 159 - 0.0001",
+                                "parent": "Leaf / Brush - 17498 - 0.0113",
+                                "children": [
+                                    {
+                                        "name": "Trash/Recycling - Leaf/Brush - Thursday - North - 159 - 0.0001",
+                                        "parent": "Thursday - North - 159 - 0.0001"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Thursday - South - 1978 - 0.0013",
+                                "parent": "Leaf / Brush - 17498 - 0.0113",
+                                "children": [
+                                    {
+                                        "name": "Trash/Recycling - Leaf/Brush - Thursday - South - 1978 - 0.0013",
+                                        "parent": "Thursday - South - 1978 - 0.0013"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tuesday - Central - 383 - 0.0002",
+                                "parent": "Leaf / Brush - 17498 - 0.0113",
+                                "children": [
+                                    {
+                                        "name": "Trash/Recycling - Leaf/Brush - Tuesday - Central - 383 - 0.0002",
+                                        "parent": "Tuesday - Central - 383 - 0.0002"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tuesday - North - 310 - 0.0002",
+                                "parent": "Leaf / Brush - 17498 - 0.0113",
+                                "children": [
+                                    {
+                                        "name": "Trash/Recycling - Leaf/Brush - Tuesday - North - 310 - 0.0002",
+                                        "parent": "Tuesday - North - 310 - 0.0002"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tuesday - South - 730 - 0.0005",
+                                "parent": "Leaf / Brush - 17498 - 0.0113",
+                                "children": [
+                                    {
+                                        "name": "Trash/Recycling - Leaf/Brush - Tuesday - South - 730 - 0.0005",
+                                        "parent": "Tuesday - South - 730 - 0.0005"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Wednesday - Central - 306 - 0.0002",
+                                "parent": "Leaf / Brush - 17498 - 0.0113",
+                                "children": [
+                                    {
+                                        "name": "Trash/Recycling - Leaf/Brush - Wednesday - Central - 306 - 0.0002",
+                                        "parent": "Wednesday - Central - 306 - 0.0002"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Wednesday - North - 111 - 0.0001",
+                                "parent": "Leaf / Brush - 17498 - 0.0113",
+                                "children": [
+                                    {
+                                        "name": "Trash/Recycling - Leaf/Brush - Wednesday - North - 111 - 0.0001",
+                                        "parent": "Wednesday - North - 111 - 0.0001"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Wednesday - South - 1986 - 0.0013",
+                                "parent": "Leaf / Brush - 17498 - 0.0113",
+                                "children": [
+                                    {
+                                        "name": "Trash/Recycling - Leaf/Brush - Wednesday - South - 1986 - 0.0013",
+                                        "parent": "Wednesday - South - 1986 - 0.0013"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Nuisance - 27400 - 0.0177",
+                        "parent": "Trash / Recycling",
+                        "children": [
+                            {
+                                "name": "Early Set Out - 118 - 0.0001",
+                                "parent": "Nuisance - 27400 - 0.0177",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Nuisance-Early Set Out - 118 - 0.0001",
+                                        "parent": "Early Set Out - 118 - 0.0001"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Land Bank - 1301 - 0.0008",
+                                "parent": "Nuisance - 27400 - 0.0177",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Nuisance-Land Bank - 1301 - 0.0008",
+                                        "parent": "Land Bank - 1301 - 0.0008"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Open Storage - 3947 - 0.0025",
+                                "parent": "Nuisance - 27400 - 0.0177",
+                                "children": [
+                                    {
+                                        "name": "Property Violations - 3947 - 0.0025",
+                                        "parent": "Open Storage - 3947 - 0.0025"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trash on Private Property - 22034 - 0.0142",
+                                "parent": "Nuisance - 27400 - 0.0177",
+                                "children": [
+                                    {
+                                        "name": "Property Violations - 22034 - 0.0142",
+                                        "parent": "Trash on Private Property - 22034 - 0.0142"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recycling - 37743 - 0.0244",
+                        "parent": "Trash / Recycling",
+                        "children": [
+                            {
+                                "name": "Missed by City - 8548 - 0.0055",
+                                "parent": "Recycling - 37743 - 0.0244",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Recycling-Missed by City - 8548 - 0.0055",
+                                        "parent": "Missed by City - 8548 - 0.0055"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Missed by Contractor North - 17557 - 0.0114",
+                                "parent": "Recycling - 37743 - 0.0244",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Recycling-Missed by Contractor North - 17557 - 0.0114",
+                                        "parent": "Missed by Contractor North - 17557 - 0.0114"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Missed by Contractor South - 11216 - 0.0073",
+                                "parent": "Recycling - 37743 - 0.0244",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Recycling-Missed by Contractor South - 11216 - 0.0073",
+                                        "parent": "Missed by Contractor South - 11216 - 0.0073"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Repeat Missed - 422 - 0.0003",
+                                "parent": "Recycling - 37743 - 0.0244",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Recycling-Repeat Missed - 422 - 0.0003",
+                                        "parent": "Repeat Missed - 422 - 0.0003"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Services - 17215 - 0.0111",
+                        "parent": "Trash / Recycling",
+                        "children": [
+                            {
+                                "name": "Blue Bag Program - 647 - 0.0004",
+                                "parent": "Services - 17215 - 0.0111",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Services-Blue Bag Program - 647 - 0.0004",
+                                        "parent": "Blue Bag Program - 647 - 0.0004"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Call Back Request - 1788 - 0.0012",
+                                "parent": "Services - 17215 - 0.0111",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Services-Call Back Request - 1788 - 0.0012",
+                                        "parent": "Call Back Request - 1788 - 0.0012"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Disability Pick Up - 913 - 0.0006",
+                                "parent": "Services - 17215 - 0.0111",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Services-Disability Pick Up - 913 - 0.0006",
+                                        "parent": "Disability Pick Up - 913 - 0.0006"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Feedback - 2088 - 0.0013",
+                                "parent": "Services - 17215 - 0.0111",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Services-Feedback - 2088 - 0.0013",
+                                        "parent": "Feedback - 2088 - 0.0013"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Medical Tags - 125 - 0.0001",
+                                "parent": "Services - 17215 - 0.0111",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Services-Medical Tags - 125 - 0.0001",
+                                        "parent": "Medical Tags - 125 - 0.0001"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Multi-Unit - 198 - 0.0001",
+                                "parent": "Services - 17215 - 0.0111",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Services-Multi-Unit - 198 - 0.0001",
+                                        "parent": "Multi-Unit - 198 - 0.0001"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Question - 1048 - 0.0007",
+                                "parent": "Services - 17215 - 0.0111",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Services-Question - 1048 - 0.0007",
+                                        "parent": "Question - 1048 - 0.0007"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Service Issue / Problem - 10408 - 0.0067",
+                                "parent": "Services - 17215 - 0.0111",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Services-Service Issue / Problem - 10408 - 0.0067",
+                                        "parent": "Service Issue / Problem - 10408 - 0.0067"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Solid Waste Operations - 16 - 0.0",
+                        "parent": "Trash / Recycling",
+                        "children": [
+                            {
+                                "name": "Brush - 3 - 0.0",
+                                "parent": "Solid Waste Operations - 16 - 0.0",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Solid Waste Operations-Brush - 3 - 0.0",
+                                        "parent": "Brush - 3 - 0.0"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bulky - 4 - 0.0",
+                                "parent": "Solid Waste Operations - 16 - 0.0",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Solid Waste Operations-Bulky - 4 - 0.0",
+                                        "parent": "Bulky - 4 - 0.0"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trash - 9 - 0.0",
+                                "parent": "Solid Waste Operations - 16 - 0.0",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Solid Waste Operations-Trash - 9 - 0.0",
+                                        "parent": "Trash - 9 - 0.0"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Trash - 2 - 0.0",
+                        "parent": "Trash / Recycling",
+                        "children": [
+                            {
+                                "name": "Violation - 2 - 0.0",
+                                "parent": "Trash - 2 - 0.0",
+                                "children": [
+                                    {
+                                        "name": "Streets / Roadways / Alleys-Street Clean Up-District 2 - 1 - 0.0",
+                                        "parent": "Violation - 2 - 0.0"
+                                    },
+                                    {
+                                        "name": "Trash / Recycling-Trash Collection-Missed by Contractor North - 1 - 0.0",
+                                        "parent": "Violation - 2 - 0.0"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Trash Cart - 155 - 0.0001",
+                        "parent": "Trash / Recycling",
+                        "children": [
+                            {
+                                "name": "Cart Size Change - 8 - 0.0",
+                                "parent": "Trash Cart - 155 - 0.0001",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Trash Cart-Cart Size - 8 - 0.0",
+                                        "parent": "Cart Size Change - 8 - 0.0"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Not Delivered - 147 - 0.0001",
+                                "parent": "Trash Cart - 155 - 0.0001",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Trash Cart-Not Delivered - 147 - 0.0001",
+                                        "parent": "Not Delivered - 147 - 0.0001"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Trash Collection - 67739 - 0.0439",
+                        "parent": "Trash / Recycling",
+                        "children": [
+                            {
+                                "name": "City Owned Trash Container - 67 - 0.0",
+                                "parent": "Trash Collection - 67739 - 0.0439",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Trash Collection-City Owned Trash Container - 67 - 0.0",
+                                        "parent": "City Owned Trash Container - 67 - 0.0"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Missed City Trash and Recycling - 5 - 0.0",
+                                "parent": "Trash Collection - 67739 - 0.0439",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling - Trash Collection - City Trash - Recycle - 1 - 0.0",
+                                        "parent": "Missed City Trash and Recycling - 5 - 0.0"
+                                    },
+                                    {
+                                        "name": "Trash / Recycling-Dumping-Park - South - 1 - 0.0",
+                                        "parent": "Missed City Trash and Recycling - 5 - 0.0"
+                                    },
+                                    {
+                                        "name": "Trash / Recycling-Trash Collection-Missed by City - 2 - 0.0",
+                                        "parent": "Missed City Trash and Recycling - 5 - 0.0"
+                                    },
+                                    {
+                                        "name": "Web SR - Trash, Recycle, Bulky - 1 - 0.0",
+                                        "parent": "Missed City Trash and Recycling - 5 - 0.0"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Missed North Trash - Recycling - 25 - 0.0",
+                                "parent": "Trash Collection - 67739 - 0.0439",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling - Trash Collection - North Trash - Recycle - 17 - 0.0",
+                                        "parent": "Missed North Trash - Recycling - 25 - 0.0"
+                                    },
+                                    {
+                                        "name": "Trash / Recycling - Trash Collection - South Trash - Recycle - 1 - 0.0",
+                                        "parent": "Missed North Trash - Recycling - 25 - 0.0"
+                                    },
+                                    {
+                                        "name": "Trash / Recycling-Recycling-Missed by Contractor North - 2 - 0.0",
+                                        "parent": "Missed North Trash - Recycling - 25 - 0.0"
+                                    },
+                                    {
+                                        "name": "Trash / Recycling-Trash Collection-Missed by Contractor North - 4 - 0.0",
+                                        "parent": "Missed North Trash - Recycling - 25 - 0.0"
+                                    },
+                                    {
+                                        "name": "Web SR - Trash, Recycle, Bulky - 1 - 0.0",
+                                        "parent": "Missed North Trash - Recycling - 25 - 0.0"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Missed South Trash - Recycling - 49 - 0.0",
+                                "parent": "Trash Collection - 67739 - 0.0439",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling - Trash Collection - North Trash - Recycle - 1 - 0.0",
+                                        "parent": "Missed South Trash - Recycling - 49 - 0.0"
+                                    },
+                                    {
+                                        "name": "Trash / Recycling - Trash Collection - South Trash - Recycle - 41 - 0.0",
+                                        "parent": "Missed South Trash - Recycling - 49 - 0.0"
+                                    },
+                                    {
+                                        "name": "Trash / Recycling-Trash Collection-Missed by City - 1 - 0.0",
+                                        "parent": "Missed South Trash - Recycling - 49 - 0.0"
+                                    },
+                                    {
+                                        "name": "Trash / Recycling-Trash Collection-Missed by Contractor South - 5 - 0.0",
+                                        "parent": "Missed South Trash - Recycling - 49 - 0.0"
+                                    },
+                                    {
+                                        "name": "Web SR - Trash, Recycle, Bulky - 1 - 0.0",
+                                        "parent": "Missed South Trash - Recycling - 49 - 0.0"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Missed by City - 17491 - 0.0113",
+                                "parent": "Trash Collection - 67739 - 0.0439",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Trash Collection-Missed by City - 17491 - 0.0113",
+                                        "parent": "Missed by City - 17491 - 0.0113"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Missed by Contractor North - 21681 - 0.0141",
+                                "parent": "Trash Collection - 67739 - 0.0439",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Trash Collection-Missed by Contractor North - 21681 - 0.0141",
+                                        "parent": "Missed by Contractor North - 21681 - 0.0141"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Missed by Contractor South - 27538 - 0.0178",
+                                "parent": "Trash Collection - 67739 - 0.0439",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Trash Collection-Missed by Contractor South - 27538 - 0.0178",
+                                        "parent": "Missed by Contractor South - 27538 - 0.0178"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Repeat Missed - 871 - 0.0006",
+                                "parent": "Trash Collection - 67739 - 0.0439",
+                                "children": [
+                                    {
+                                        "name": "Trash / Recycling-Trash Collection-Repeat Missed - 871 - 0.0006",
+                                        "parent": "Repeat Missed - 871 - 0.0006"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Storm Trash - 12 - 0.0",
+                                "parent": "Trash Collection - 67739 - 0.0439",
+                                "children": [
+                                    {
+                                        "name": "Trash/Recycling - Trash Collection - Storm Trash - 12 - 0.0",
+                                        "parent": "Storm Trash - 12 - 0.0"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

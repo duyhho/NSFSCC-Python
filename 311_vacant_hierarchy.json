@@ -1,0 +1,168 @@
+[
+    {
+        "name": "311 Vacant Calls",
+        "parent": "null",
+        "children": [
+            {
+                "name": "Property Violations",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Mowing / Weeds",
+                        "parent": "Property Violations",
+                        "children": [
+                            {
+                                "name": "Private / Commercial",
+                                "parent": "Mowing / Weeds",
+                                "children": [
+                                    {
+                                        "name": "Lot - Vacant",
+                                        "parent": "Private / Commercial"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Public Property",
+                                "parent": "Mowing / Weeds",
+                                "children": [
+                                    {
+                                        "name": "City Vacant Lot",
+                                        "parent": "Public Property"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Mowing / Weeds-Public Property-City Vacant Lot",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Mowing / Weeds",
+                        "parent": "Mowing / Weeds-Public Property-City Vacant Lot",
+                        "children": [
+                            {
+                                "name": "Private / Commercial",
+                                "parent": "Mowing / Weeds",
+                                "children": [
+                                    {
+                                        "name": "Lot - Vacant",
+                                        "parent": "Private / Commercial"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Public Property",
+                                "parent": "Mowing / Weeds",
+                                "children": [
+                                    {
+                                        "name": "City Vacant Lot",
+                                        "parent": "Public Property"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Vacant Structure Open to Entry",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Property Violations",
+                        "parent": "Vacant Structure Open to Entry",
+                        "children": [
+                            {
+                                "name": "Board Up",
+                                "parent": "Property Violations",
+                                "children": [
+                                    {
+                                        "name": "All",
+                                        "parent": "Board Up"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Animals / Pets-Rat Treatment-Vacant Home",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Animals / Pets",
+                        "parent": "Animals / Pets-Rat Treatment-Vacant Home",
+                        "children": [
+                            {
+                                "name": "Rat Treatment",
+                                "parent": "Animals / Pets",
+                                "children": [
+                                    {
+                                        "name": "Vacant Home",
+                                        "parent": "Rat Treatment"
+                                    },
+                                    {
+                                        "name": "Vacant Lot",
+                                        "parent": "Rat Treatment"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Animals / Pets-Rat Treatment-Vacant Property",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Animals / Pets",
+                        "parent": "Animals / Pets-Rat Treatment-Vacant Property",
+                        "children": [
+                            {
+                                "name": "Rat Treatment",
+                                "parent": "Animals / Pets",
+                                "children": [
+                                    {
+                                        "name": "Vacant Home",
+                                        "parent": "Rat Treatment"
+                                    },
+                                    {
+                                        "name": "Vacant Lot",
+                                        "parent": "Rat Treatment"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nuisance Violations on Private Property Vacant Structure",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Property & Nuisance Violations",
+                        "parent": "Nuisance Violations on Private Property Vacant Structure",
+                        "children": [
+                            {
+                                "name": "Private Property",
+                                "parent": "Property & Nuisance Violations",
+                                "children": [
+                                    {
+                                        "name": "All",
+                                        "parent": "Private Property"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

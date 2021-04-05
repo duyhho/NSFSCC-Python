@@ -1,0 +1,218 @@
+[
+    {
+        "name": "Inconsistencies",
+        "parent": "null",
+        "children": [
+            {
+                "name": "Streets / Roadways / Alleys",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "City Managers Office",
+                        "parent": "Streets / Roadways / Alleys",
+                        "children": []
+                    },
+                    {
+                        "name": "City Planning and Development",
+                        "parent": "Streets / Roadways / Alleys",
+                        "children": []
+                    },
+                    {
+                        "name": "KCPD",
+                        "parent": "Streets / Roadways / Alleys",
+                        "children": []
+                    },
+                    {
+                        "name": "NHS",
+                        "parent": "Streets / Roadways / Alleys",
+                        "children": []
+                    },
+                    {
+                        "name": "Parks and Rec",
+                        "parent": "Streets / Roadways / Alleys",
+                        "children": []
+                    },
+                    {
+                        "name": "Public Works",
+                        "parent": "Streets / Roadways / Alleys",
+                        "children": []
+                    },
+                    {
+                        "name": "Water Services",
+                        "parent": "Streets / Roadways / Alleys",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Parks & Recreation",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "City Managers Office",
+                        "parent": "Parks & Recreation",
+                        "children": []
+                    },
+                    {
+                        "name": "Information Technology",
+                        "parent": "Parks & Recreation",
+                        "children": []
+                    },
+                    {
+                        "name": "NHS",
+                        "parent": "Parks & Recreation",
+                        "children": []
+                    },
+                    {
+                        "name": "Parks & Rec",
+                        "parent": "Parks & Recreation",
+                        "children": []
+                    },
+                    {
+                        "name": "Parks and Rec",
+                        "parent": "Parks & Recreation",
+                        "children": []
+                    },
+                    {
+                        "name": "Public Works",
+                        "parent": "Parks & Recreation",
+                        "children": []
+                    },
+                    {
+                        "name": "Water Services",
+                        "parent": "Parks & Recreation",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Property / Buildings / Construction",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "City Managers Office",
+                        "parent": "Property / Buildings / Construction",
+                        "children": []
+                    },
+                    {
+                        "name": "City Planning and Development",
+                        "parent": "Property / Buildings / Construction",
+                        "children": []
+                    },
+                    {
+                        "name": "General Service",
+                        "parent": "Property / Buildings / Construction",
+                        "children": []
+                    },
+                    {
+                        "name": "Health",
+                        "parent": "Property / Buildings / Construction",
+                        "children": []
+                    },
+                    {
+                        "name": "KCPD",
+                        "parent": "Property / Buildings / Construction",
+                        "children": []
+                    },
+                    {
+                        "name": "NHS",
+                        "parent": "Property / Buildings / Construction",
+                        "children": []
+                    },
+                    {
+                        "name": "Northeast",
+                        "parent": "Property / Buildings / Construction",
+                        "children": []
+                    },
+                    {
+                        "name": "Northland",
+                        "parent": "Property / Buildings / Construction",
+                        "children": []
+                    },
+                    {
+                        "name": "Public Works",
+                        "parent": "Property / Buildings / Construction",
+                        "children": []
+                    },
+                    {
+                        "name": "South",
+                        "parent": "Property / Buildings / Construction",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Trash / Recycling",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "City Managers Office",
+                        "parent": "Trash / Recycling",
+                        "children": []
+                    },
+                    {
+                        "name": "NHS",
+                        "parent": "Trash / Recycling",
+                        "children": []
+                    },
+                    {
+                        "name": "Northland",
+                        "parent": "Trash / Recycling",
+                        "children": []
+                    },
+                    {
+                        "name": "Parks and Rec",
+                        "parent": "Trash / Recycling",
+                        "children": []
+                    },
+                    {
+                        "name": "Public Works",
+                        "parent": "Trash / Recycling",
+                        "children": []
+                    },
+                    {
+                        "name": "Water Services",
+                        "parent": "Trash / Recycling",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Trees",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "City Managers Office",
+                        "parent": "Trees",
+                        "children": []
+                    },
+                    {
+                        "name": "NHS",
+                        "parent": "Trees",
+                        "children": []
+                    },
+                    {
+                        "name": "Northland",
+                        "parent": "Trees",
+                        "children": []
+                    },
+                    {
+                        "name": "Parks & Rec",
+                        "parent": "Trees",
+                        "children": []
+                    },
+                    {
+                        "name": "Parks and Rec",
+                        "parent": "Trees",
+                        "children": []
+                    },
+                    {
+                        "name": "Water Services",
+                        "parent": "Trees",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    }
+]

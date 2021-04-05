@@ -1,0 +1,673 @@
+CATEGORY,TYPE,DETAIL,REQUEST TYPE,Count
+Animals / Pets,Bite,Animal on Animal,Animals / Pets-Bite-Animal on Animal,211
+Animals / Pets,Bite,Owned,Animals / Pets-Bite-Owned,322
+Animals / Pets,Bite,Stray,Animals / Pets-Bite-Stray,63
+Animals / Pets,Bite,Wildlife,Animals / Pets-Bite-Wildlife,10
+Animals / Pets,Cruelty or Neglect,Abandonment,Animals / Pets-Cruelty or Neglect-Abandonment,589
+Animals / Pets,Cruelty or Neglect,Abuse / Injury / Death,Animals / Pets-Cruelty or Neglect-Abuse / Injury / Death,680
+Animals / Pets,Cruelty or Neglect,Inclement Weather,Animals / Pets-Cruelty or Neglect-Inclement Weather,388
+Animals / Pets,Cruelty or Neglect,Shelter / Food / Water,Animals / Pets-Cruelty or Neglect-Shelter / Food / Water,1075
+Animals / Pets,Dead Animal,Curb,Animals / Pets-Dead Animal -Curb,3037
+Animals / Pets,Dead Animal,Private Property Nuisance,Property Violations,31
+Animals / Pets,Dead Animal,Private Property Pickup,Animals / Pets-Dead Animal -Private Property Pickup,439
+Animals / Pets,Dead Animal,Street,Animals / Pets-Dead Animal -Street,2373
+Animals / Pets,Permit / License,Chicken / Rooster,Animals / Pets-Permit / License-Chicken / Rooster,133
+Animals / Pets,Permit / License,Livestock,Animals / Pets-Permit / License-Livestock,32
+Animals / Pets,Permit / License,Other,Animals / Pets-Permit / License-Other,14
+Animals / Pets,Permit / License,Permit Request,Animals / Pets-Permit / License-Permit Request,1
+Animals / Pets,Permit / License,Vaccination / Pet License,Animals / Pets-Permit / License-Vaccination / Pet License,28
+Animals / Pets,Questionable Activity,Cock Fighting,Animals / Pets-Questionable Activity-Cock fighting,1
+Animals / Pets,Questionable Activity,Dog Fighting,Animals / Pets-Questionable Activity-Dog fighting,7
+Animals / Pets,Questionable Activity,Other,Animals / Pets-Questionable Activity-Other,159
+Animals / Pets,Questionable Activity,Over Limit / Hoarding,Animals / Pets-Questionable Activity-Over Limit / Hoarding,230
+Animals / Pets,Rat Treatment,City Block,Animals / Pets-Rat Treatment-City Block,98
+Animals / Pets,Rat Treatment,City Construction Site,Animals / Pets-Rat Treatment-City Const Site,1
+Animals / Pets,Rat Treatment,In the Sewer,Animals / Pets-Rat Treatment-In the Sewer,24
+Animals / Pets,Rat Treatment,Inside Home,Animals / Pets-Rat Treatment-Inside Residence,1013
+Animals / Pets,Rat Treatment,Outside,Animals / Pets-Rat Treatment-Outside,780
+Animals / Pets,Rat Treatment,Vacant Home,Animals / Pets-Rat Treatment-Vacant Home,97
+Animals / Pets,Rat Treatment,Vacant Lot,Animals / Pets-Rat Treatment-Vacant Property,33
+Animals / Pets,Services,Barking Dog,Animals / Pets-Services-Barking Dog Letter,1
+Animals / Pets,Services,Call Back Request,Animals / Pets-Services-Call Back Request,44
+Animals / Pets,Services,Feedback,Animals / Pets-Services-Feedback,40
+Animals / Pets,Services,Off Leash - Investigation,Animals / Pets-Services-Off Leash,282
+Animals / Pets,Services,Officer Assist,Animals / Pets-Services-Officer Assist,36
+Animals / Pets,Services,Question,Animals / Pets-Services-Question,49
+Animals / Pets,Services,Repeated Report,Animals / Pets-Services-Repeated Report,4
+Animals / Pets,Services,Service Issue / Problem,Animals / Pets-Services-Service Issue / Problem,95
+Animals / Pets,Stray,At Large - Aggressive,Animals / Pets-Stray-At Large - Aggressive,1694
+Animals / Pets,Stray,At Large - Highway,Animals / Pets-Stray-At Large - Highway,89
+Animals / Pets,Stray,At Large - Non-Aggressive,Animals / Pets-Stray-At Large - Non-Aggressive,1982
+Animals / Pets,Stray,At Large - Owned,Animals / Pets-Stray-At Large - Owned,818
+Animals / Pets,Stray,At Large - Pack,Animals / Pets-Stray-At Large - Pack,320
+Animals / Pets,Stray,Confined,Animals / Pets-Stray-Confined,757
+Animals / Pets,Stray,Injured,Animals / Pets-Stray-Injured,895
+Animals / Pets,Wildlife,Injured,Animals / Pets-Wildlife-Injured,852
+Animals / Pets,Wildlife,Inside,Animals / Pets-Wildlife-Inside,943
+Animals / Pets,Wildlife,Outside,Animals / Pets - Wildlife - Outside,2
+Capital Projects,PIAC,Department Referral,Capital Projects-PIAC-Department Referral,150
+Capital Projects,PIAC,Question / Feedback,Capital Projects-PIAC-Question / Feedback,32
+Capital Projects,PIAC,Resident Request,Capital Projects-PIAC-Resident Request,108
+Capital Projects,Parks,Question / Feedback,Capital Projects-Parks-Question / Feedback,24
+Capital Projects,Parks,Service Issue / Problem,Capital Projects-Parks-Service Issue / Problem,24
+Capital Projects,Public Works,Service Issue / Problem,Capital Projects-Public Works-Service Issue / Problem,176
+Capital Projects,Sewer,Engineering,Capital Projects-Sewer-Engineering,663
+Capital Projects,Sewer,Question / Feedback,Capital Projects-Sewer-Question / Feedback,37
+Capital Projects,Sewer,Service Issue / Problem,Capital Projects-Sewer-Service Issue / Problem,141
+Capital Projects,Storm Water,Engineering,Capital Projects-Storm Water-Engineering,273
+Capital Projects,Storm Water,Question / Feedback,Capital Projects-Storm Water-Question / Feedback,17
+Capital Projects,Storm Water,Service Issue / Problem,Capital Projects-Storm Water-Service Issue / Problem,17
+Capital Projects,Water,Basement Backup Prevent Proj,Capital Projects-Water-Basement Backup Prev Prog,1
+Capital Projects,Water,Engineering,Capital Projects-Water-Engineering,321
+Capital Projects,Water,Question / Feedback,Capital Projects-Water-Question / Feedback,50
+Capital Projects,Water,Service Issue / Problem,Capital Projects-Water-Service Issue / Problem,128
+City Facilities,Airports,KCI,City Facilities-Airports-KCI,15
+City Facilities,Airports,Wheeler (Downtown),City Facilities-Airports-Wheeler (Downtown),4
+City Facilities,Building / Property,City Hall,City Facilities-Building / Property-City Hall,10
+City Facilities,Building / Property,Convention Center,City Facilities-Building / Property-Convention Center,10
+City Facilities,Building / Property,Fire Station Maintenance,City Facilities-Building / Property-Fire Station Maintenance,6
+City Facilities,Building / Property,Municipal Court,City Facilities-Building / Property-Municipal Court,3
+City Facilities,Building / Property,Other City Buildings,City Facilities-Building / Property-Other City Buildings,42
+City Facilities,Building / Property,Water Services Department,City Facilities-Building / Property-Water Services Department,3
+City Facilities,Parking,Other Garage,City Facilities-Parking-Other Garage,9
+City Facilities,Parking,Wolf Garage,City Facilities-Parking-Wolf Garage,5
+Data Not Available,Data Not Available,Data Not Available,Animals / Pets-Dead Animal -Private Property Pickup,1
+Data Not Available,Data Not Available,Data Not Available,Capital Projects-Public Works-Service Issue / Problem,1
+Data Not Available,Data Not Available,Data Not Available,Government-311 Administration-Field Investigation,1
+Data Not Available,Data Not Available,Data Not Available,Government-NHS (Neighborhood Housing Services)-Assessment Dispute,1
+Data Not Available,Data Not Available,Data Not Available,Prop/Build/Construct - Land Use / Zoning - Unapproved Land Use,1
+Data Not Available,Data Not Available,Data Not Available,Prop/Build/Construct-Construction Issue/Concern-Other,1
+Data Not Available,Data Not Available,Data Not Available,Prop/Build/Construct-Construction Issue/Concern-Work without permit,1
+Data Not Available,Data Not Available,Data Not Available,Prop/Build/Construct-Land Use / Zoning Issue-Number of Dwelling Units,1
+Data Not Available,Data Not Available,Data Not Available,Prop/Build/Construct-Property Maintenance-No Utilities,1
+Data Not Available,Data Not Available,Data Not Available,Property Violations,4
+Data Not Available,Data Not Available,Data Not Available,Public Health-Disease Control-All,2
+Data Not Available,Data Not Available,Data Not Available,Public Health-Food Establishment-Restaurant,1
+Data Not Available,Data Not Available,Data Not Available,Public Health-Services-Healthy Homes Information,1
+Data Not Available,Data Not Available,Data Not Available,Public Safety-Fire-Hazardous materials,1
+Data Not Available,Data Not Available,Data Not Available,Public Safety-Fire-Question / Feedback,1
+Data Not Available,Data Not Available,Data Not Available,Public Safety-Police-Homeless camp,1
+Data Not Available,Data Not Available,Data Not Available,Public Safety-Police-Other,2
+Data Not Available,Data Not Available,Data Not Available,Sewer-Sinkhole-Street,1
+Data Not Available,Data Not Available,Data Not Available,Sidewalks / Curbs / Ditch-Obstructed / Closure-Blocked,1
+Data Not Available,Data Not Available,Data Not Available,Storm / Sewer-Storm Water Referral-Repair,1
+Data Not Available,Data Not Available,Data Not Available,Streets / Roadways / Alleys-Cut / Permit-District 2,3
+Data Not Available,Data Not Available,Data Not Available,Streets / Roadways / Alleys-Plate-Missing / Displaced,1
+Data Not Available,Data Not Available,Data Not Available,Streets / Roadways / Alleys-Street Services-Street Permit Research,1
+Data Not Available,Data Not Available,Data Not Available,Trash / Recycling-Dumping-ROW Central,1
+Data Not Available,Data Not Available,Data Not Available,Trash / Recycling-Dumping-ROW South,1
+Data Not Available,Data Not Available,Data Not Available,Trees-Removal-Tree down,1
+Data Not Available,Data Not Available,Data Not Available,Trees-Trimming-Streetlight,2
+Data Not Available,Data Not Available,Data Not Available,Trees-Trimming-Tree Limbs,1
+Data Not Available,Data Not Available,Data Not Available,Vehicles / Parking-Abandoned On Street-Car,2
+Data Not Available,Data Not Available,Data Not Available,Water-Leak-Ice Due to Leak,1
+Data Not Available,Data Not Available,Data Not Available,Water-No Water / Pressure-No Water,1
+Data Not Available,Data Not Available,Data Not Available,Water-Pipeline Referral-Pipeline/Restoration Issues,5
+Data Not Available,Data Not Available,Data Not Available,Water-Pipeline Referral-Water Main,1
+Data Not Available,Data Not Available,Data Not Available,Web SR - Property Maintenance - Neighborhoods,3
+Data Not Available,Data Not Available,Data Not Available,Web SR - Streetlights,4
+Government,311 Administration,Appearance / Speaker,Government-311 Administration-Appearance / Speaker,19
+Government,311 Administration,Document Request,Government-311 Administration-Document Request,2
+Government,311 Administration,Feedback,Government-311 Administration-Feedback,3
+Government,311 Administration,Field Investigation,Government-311 Administration-Field Investigation,12
+Government,311 Administration,Lack of Information,Government-311 Administration-Lack of information,18
+Government,311 Administration,Review,Government-311 Administration-Review,4
+Government,ADA,Sidewalks / Curbs,Government-ADA-Sidewalks / Curbs,13
+Government,City Manager‘s Office,All,Government-City Manager‘s Office-All,14
+Government,City Manager‘s Office,Compass KC Assistance,Government-City Managers Office-Compass KC,40
+Government,Communications,KCMore,Government-Communications-KCMore,1
+Government,Finance,Collection Notice,Government-Finance-Collection Notice,1
+Government,Finance,Feedback,Government-Finance-Feedback,1
+Government,Finance,Tax,Government-Finance-Tax,2
+Government,IT / Websites,Other Websites - Tech,Government-IT / Websites-Other Websites - Tech,1
+Government,IT / Websites,Parks Website,Government-IT / Websites-Parks Website,1
+Government,IT / Websites,Water Website,Government-IT / Websites-Water Website,15
+Government,Law,Other Litigations,Government-Law-Other Litigations,1
+Government,Law,Property Damage,Government-Law-Property Damage,1
+Government,Law,Vehicle Damage,Government-Law-Vehicle Damage,1
+Government,Mayor‘s Office,Feedback,Government-Mayor‘s Office-Feedback,16
+Government,NHS (Neighborhood Housing Services),Feedback,Government-NHS (Neighborhood Housing Services)-Feedback,28
+Government,NHS (Neighborhood Housing Services),Home Repair,Government-NHS (Neighborhood Housing Services)-Home Repair,61
+Government,NHS (Neighborhood Housing Services),No Known Property Owner,Government-NHS (Neighborhood Housing Services)-No Known Property Owner,11
+Government,NHS (Neighborhood Housing Services),Paint Program,Government-NHS (Neighborhood Housing Services)-Paint Program,11
+Government,NHS (Neighborhood Housing Services),Weatherization Program,Government-NHS (Neighborhood Housing Services)-Weatherization Program,3
+Government,Not Provided By KCMO,211,Government-Not Provided By KCMO-211,10
+Government,Not Provided By KCMO,County,Government-Not Provided By KCMO-County,30
+Government,Not Provided By KCMO,KCPD,Government-Not Provided By KCMO-KCPD,280
+Government,Not Provided By KCMO,MODOT,Government-Not Provided By KCMO-MODOT,893
+Government,Not Provided By KCMO,State,Government-Not Provided By KCMO-State,20
+Government,Public Works,Call Back Request,Government-Public Works-Call Back Request,6
+Government,Public Works,Feedback,Government-Public Works-Feedback,11
+Government,Public Works,Question,Government-Public Works-Question,14
+Government,Public Works,Service Issue / Problem,Government-Public Works-Service Issue / Problem,11
+Government,Security / Safety,Employee Behavior,Government-Security / Safety-Employee Behavior,4
+Government,Security / Safety,How's My Driving,Government-Security / Safety-How's My Driving,32
+Lights / Signals,Services,Call Back Request,Lights / Signals-Services-Call Back Request,12
+Lights / Signals,Services,Feedback,Lights / Signals-Services-Feedback,38
+Lights / Signals,Services,Question,Lights / Signals-Services-Question,19
+Lights / Signals,Services,Service Issue / Problem,Lights / Signals-Services-Service Issue / Problem,55
+Lights / Signals,Street Light,1 Light Out,Lights / Signals-Street Light-1 light out,2628
+Lights / Signals,Street Light,2 to 4 Lights Out,Lights / Signals-Street Light-2 to 4 lights out,770
+Lights / Signals,Street Light,5+ Lights Out,Lights / Signals-Street Light-5+ lights out,834
+Lights / Signals,Street Light,Blinking,Lights / Signals-Street Light-Blinking,881
+Lights / Signals,Street Light,Burning During The Day,Lights / Signals-Street Light-Burning during the day,411
+Lights / Signals,Street Light,Graffiti,Lights / Signals-Street Light-Graffiti,47
+Lights / Signals,Street Light,New/Remove Light,Lights / Signals-Street Light-New/Remove Light,76
+Lights / Signals,Street Light,Other Light Issue,Lights / Signals-Street Light-Other Light Issue,558
+Lights / Signals,Street Light,Parks Maintained,Lights / Signals-Street Light-Parks Maintained,31
+Lights / Signals,Street Light,Pole Down or Leaning,Lights / Signals-Street Light-Pole down or leaning,526
+Lights / Signals,Street Light,Wire Down / Hanging Arm,Lights / Signals-Street Light-Wire Down / Hanging Arm,161
+Lights / Signals,Traffic Signal,Audio,Lights / Signals-Traffic Signal-Audio,16
+Lights / Signals,Traffic Signal,Graffiti,Lights / Signals-Traffic Signal-Graffiti,4
+Lights / Signals,Traffic Signal,New Signal Request,Lights / Signals-Traffic Signal-New Signal Request,153
+Lights / Signals,Traffic Signal,Pedestrian / Walkway,Lights / Signals-Traffic Signal-Pedestrian / Walkway,357
+Lights / Signals,Traffic Signal,Signal Flashing,Lights / Signals-Traffic Signal-Signal flashing,456
+Lights / Signals,Traffic Signal,Signal Malfunction,Lights / Signals-Traffic Signal-Signal malfunction,749
+Lights / Signals,Traffic Signal,Signal Out,Lights / Signals-Traffic Signal-Signal out,887
+Lights / Signals,Traffic Signal,Signal Pole Damage,Lights / Signals-Traffic Signal-Signal pole damage,306
+Lights / Signals,Traffic Signal,Signal Timing,Lights / Signals-Traffic Signal-Signal timing,424
+Mowing / Weeds,Alley,District 2,Mowing / Weeds-Alley-District 2,98
+Mowing / Weeds,Alley,District 3,Mowing / Weeds-Alley-District 3,13
+Mowing / Weeds,Blvd / Pkwy,Central,Mowing / Weeds-Blvd / Pkwy-Central,65
+Mowing / Weeds,Blvd / Pkwy,North,Mowing / Weeds-Blvd / Pkwy-North,24
+Mowing / Weeds,Blvd / Pkwy,South,Mowing / Weeds-Blvd / Pkwy-South,42
+Mowing / Weeds,Paper Street,District 1,Mowing / Weeds-Paper Street-District 1,1
+Mowing / Weeds,Paper Street,District 2,Mowing / Weeds-Paper Street-District 2,9
+Mowing / Weeds,Paper Street,District 3,Mowing / Weeds-Paper Street-District 3,9
+Mowing / Weeds,Parks,Central,Mowing / Weeds-Parks-Central,49
+Mowing / Weeds,Parks,Feedback,Mowing / Weeds-Parks-Feedback,5
+Mowing / Weeds,Parks,North,Mowing / Weeds-Parks-North,90
+Mowing / Weeds,Parks,South,Mowing / Weeds-Parks-South,32
+Mowing / Weeds,Private / Commercial,Lot - Structure,Property Violations,6020
+Mowing / Weeds,Private / Commercial,Lot - Vacant,Property Violations,1877
+Mowing / Weeds,Public Property,City Facility,Mowing / Weeds-Public Property-City Facility,14
+Mowing / Weeds,Public Property,City Vacant Lot,Mowing / Weeds-Public Property-City Vacant Lot,164
+Mowing / Weeds,Public Property,Land Bank,Mowing / Weeds-Public Property-Land Bank,568
+Mowing / Weeds,Right of Way (ROW),On Demand (PW),Mowing / Weeds-Right of Way (ROW)-On Demand (PW),611
+Mowing / Weeds,Right of Way (ROW),Region - Central,Mowing / Weeds-Right of Way (ROW)-Region - Central,60
+Mowing / Weeds,Right of Way (ROW),Region - North,Mowing / Weeds-Right of Way (ROW)-Region - North,174
+Mowing / Weeds,Right of Way (ROW),Region - South,Mowing / Weeds-Right of Way (ROW)-Region - South,142
+Mowing / Weeds,Visibility,Intersection,Mowing / Weeds - Visibility - Intersection,273
+Parks & Recreation,Athletics,Fields - Central,Parks & Recreation-Athletics-Fields – Central,10
+Parks & Recreation,Athletics,Fields - North,Parks & Recreation-Athletics-Fields – North,1
+Parks & Recreation,Athletics,Fields - South,Parks & Recreation-Athletics-Fields – South,6
+Parks & Recreation,Athletics,Programming,Parks & Recreation-Athletics-Programming,1
+Parks & Recreation,Community Center,Brush Creek CC,Parks & Recreation-Community Center-Brush Creek CC,2
+Parks & Recreation,Community Center,Gregg / Klice CC,Parks & Recreation-Community Center-Gregg/Klice CC,16
+Parks & Recreation,Community Center,Hillcrest CC,Parks & Recreation-Community Center-Hillcrest CC,3
+Parks & Recreation,Community Center,Kansas City North CC,Parks & Recreation-Community Center-Kansas City North CC,1
+Parks & Recreation,Community Center,Line Creek CC,Parks & Recreation-Community Center-Line Creek CC,3
+Parks & Recreation,Community Center,Marlborough CC,Parks & Recreation-Community Center-Marlborough CC,3
+Parks & Recreation,Community Center,Southeast CC,Parks & Recreation-Community Center-Southeast CC,12
+Parks & Recreation,Community Center,Tony Aguirre CC,Parks & Recreation-Community Center-Tony Aguirre CC,6
+Parks & Recreation,Community Center,Westport Roanoke CC,Parks & Recreation-Community Center-Westport Roanoke CC,4
+Parks & Recreation,Facilities / Attractions,Aquatics,Parks & Recreation-Facilities / Attractions-Aquatics,13
+Parks & Recreation,Facilities / Attractions,Bruce Watkins Cultural Center,Parks & Recreation-Facilities / Attractions-Bruce Watkins Cultural Center,1
+Parks & Recreation,Facilities / Attractions,Fountains,Parks & Recreation-Facilities / Attractions-Fountains,53
+Parks & Recreation,Facilities / Attractions,Lakeside Nature Center,Parks & Recreation-Facilities / Attractions-Lakeside Nature Center,1
+Parks & Recreation,Facilities / Attractions,Other,Parks & Recreation-Facilities / Attractions-Other,12
+Parks & Recreation,Facilities / Attractions,Shelter - Central,Parks & Recreation-Facilities / Attractions-Shelter – Central,2
+Parks & Recreation,Facilities / Attractions,Shelter - South,Parks & Recreation-Facilities / Attractions-Shelter – South,9
+Parks & Recreation,Graffiti,Central,Parks & Recreation-Graffiti-Central,89
+Parks & Recreation,Graffiti,North,Parks & Recreation-Graffiti-North,6
+Parks & Recreation,Graffiti,South,Parks & Recreation-Graffiti-South,10
+Parks & Recreation,Landscaping,All,Parks & Recreation-Landscaping-All,9
+Parks & Recreation,Landscaping,Central (Dept. Use),Parks & Recreation-Landscaping-Central (Dept. Use),3
+Parks & Recreation,Landscaping,North (Dept. Use),Parks & Recreation-Landscaping-North (Dept. Use),2
+Parks & Recreation,Landscaping,South (Dept. Use),Parks & Recreation-Landscaping-South (Dept. Use),4
+Parks & Recreation,Park Maintenance,Central,Parks & Recreation-Park Maintenance-Central,928
+Parks & Recreation,Park Maintenance,North,Parks & Recreation-Park Maintenance-North,471
+Parks & Recreation,Park Maintenance,South,Parks & Recreation-Park Maintenance-South,569
+Parks & Recreation,Services,Call Back Request,Parks & Recreation-Services-Call Back Request,15
+Parks & Recreation,Services,Feedback,Parks & Recreation-Services-Feedback,93
+Parks & Recreation,Services,Question,Parks & Recreation-Services-Question,44
+Parks & Recreation,Services,Service Issue / Problem,Parks & Recreation-Services-Service Issue / Problem,99
+Parks & Recreation,Trails,Central,Parks & Recreation-Trails-Central,36
+Parks & Recreation,Trails,North,Parks & Recreation-Trails-North,47
+Parks & Recreation,Trails,South,Parks & Recreation-Trails-South,54
+Property / Buildings / Construction,Construction Issue/Concern,Development Plans - Landscaping,Prop/Build/Construct-Construction Issue/Concern-Development Plans -Landscaping,26
+Property / Buildings / Construction,Construction Issue/Concern,Erosion - New Construction,Prop/Build/Construct-Construction Issue/Concern-Erosion - New Construction,45
+Property / Buildings / Construction,Construction Issue/Concern,Large Amount of Demolition Debris,Prop/Build/Construct-Construction Issue/Concern-Large Amount of Demo Debris,9
+Property / Buildings / Construction,Construction Issue/Concern,Mud / Silt on Street,Prop/Build/Construct-Construction Issue/Concern-Mud / Silt on street,91
+Property / Buildings / Construction,Construction Issue/Concern,Other,Prop/Build/Construct-Construction Issue/Concern-Other,160
+Property / Buildings / Construction,Construction Issue/Concern,Work Without Permit,Prop/Build/Construct-Construction Issue/Concern-Work without permit,680
+Property / Buildings / Construction,Dangerous Building,Emergency,Prop/Build/Construct-Dangerous Building-Emergency,55
+Property / Buildings / Construction,Dangerous Building,Open To Entry,Prop/Build/Construct-Dangerous Building-Open to entry,2412
+Property / Buildings / Construction,Dangerous Building,Standard,Prop/Build/Construct-Dangerous Building-On list,489
+Property / Buildings / Construction,Elevator Inspection,City Facility,Prop/Build/Construct - Elevator Inspection - City Facility,2
+Property / Buildings / Construction,Elevator Inspection,Private / Commercial,Prop/Build/Construct-Elevator Inspection-Private / Commercial,45
+Property / Buildings / Construction,Land Use / Zoning Issue,Business In A Residence,Prop/Build/Construct-Land Use / Zoning Issue-Business in a residence,485
+Property / Buildings / Construction,Land Use / Zoning Issue,Excessive Yard Sale,Prop/Build/Construct-Land Use / Zoning Issue-Excessive Yard Sale,43
+Property / Buildings / Construction,Land Use / Zoning Issue,Floodplan Management,Prop/Build/Construct-Land Use / Zoning Issue-Floodplan Management,5
+Property / Buildings / Construction,Land Use / Zoning Issue,Miscellaneous Zoning,Prop/Build/Construct - Land Use / Zoning - Miscellaneous Zoning,91
+Property / Buildings / Construction,Land Use / Zoning Issue,Number of Dwelling Units,Prop/Build/Construct-Land Use / Zoning Issue-Number of Dwelling Units,27
+Property / Buildings / Construction,Land Use / Zoning Issue,Number of Residents,Prop/Build/Construct-Land Use / Zoning Issue-Number of Residents,79
+Property / Buildings / Construction,Land Use / Zoning Issue,Short Term Rental,Prop/Build/Construct-Land Use / Zoning-Short Term Rental,154
+Property / Buildings / Construction,Land Use / Zoning Issue,Unapproved Land Use,Prop/Build/Construct - Land Use / Zoning - Unapproved Land Use,127
+Property / Buildings / Construction,Parking Lot,Improper Surface,Prop/Build/Construct-Parking Lot - Surface,21
+Property / Buildings / Construction,Parking Lot,Number Parking Spaces,Prop/Build/Construct-Parking Lot-Parking Spaces,6
+Property / Buildings / Construction,Property Maintenance,DART,Prop/Build/Construct-Property Maintenance-DART,26
+Property / Buildings / Construction,Property Maintenance,Fence Issue,Property Violations,319
+Property / Buildings / Construction,Property Maintenance,Graffiti,Property Violations,402
+Property / Buildings / Construction,Property Maintenance,Land Bank,Prop/Build/Construct-Property Maintenance-Land Bank,229
+Property / Buildings / Construction,Property Maintenance,Land Bank (Services),Prop/Build/Construct-Property Maintenance-Land Bank (Services),6
+Property / Buildings / Construction,Property Maintenance,Main Structure,Property Violations,5734
+Property / Buildings / Construction,Property Maintenance,No Utilities,Prop/Build/Construct-Property Maintenance-No Utilities,72
+Property / Buildings / Construction,Property Maintenance,Northeast Alliance,Prob/Build/Construct-Property Maintenance-Northeast,58
+Property / Buildings / Construction,Property Maintenance,Northland Neighborhoods INC,Prop/Build/Construct-Property Maintenance-NNI,6633
+Property / Buildings / Construction,Property Maintenance,Other Property Issue,Property Violations,8309
+Property / Buildings / Construction,Property Maintenance,Secondary Structure,Property Violations,93
+Property / Buildings / Construction,Property Maintenance,South Kansas City Alliance,Prop/Build/Construct-Property Maintenance-SKCA,339
+Property / Buildings / Construction,Services (CPD),Call Back Request,Prop/Build/Construct-Services (CPD)-Call Back Request,28
+Property / Buildings / Construction,Services (CPD),Post Demo Issues,Prop/Build/Construct-Services (CPD)-Post Demo Issues,3
+Property / Buildings / Construction,Services (CPD),Question,Prop/Build/Construct-Services (CPD)-Question,16
+Property / Buildings / Construction,Services (CPD),Service Issue / Problem,Prop/Build/Construct-Services (CPD)-Service Issue / Problem,14
+Property / Buildings / Construction,Services (NPD),Call Back Request,Prop/Build/Construct-Services (NPD)-Call Back Request,9
+Property / Buildings / Construction,Services (NPD),Feedback,Prop/Build/Construct-Services (NPD)-Feedback,11
+Property / Buildings / Construction,Services (NPD),Hazardous Structure,Prop/Build/Construct-Services (NPD)-Hazardous Structure,1
+Property / Buildings / Construction,Services (NPD),Other Priority Issue,Property Violations,2
+Property / Buildings / Construction,Services (NPD),Question,Prop/Build/Construct-Services (NPD)-Question,13
+Property / Buildings / Construction,Services (NPD),Service Issue / Problem,Prop/Build/Construct-Services (NPD)-Service Issue / Problem,19
+Public Health,Disease Control,All,Public Health-Disease Control-All,3370
+Public Health,Disease Control,Business Question on Order,Public Health-Disease Control-Business Question,17
+Public Health,Food Establishment,Catering,Public Health-Food Establishment-Catering,6
+Public Health,Food Establishment,Convenience / Grocery Store,Public Health-Food Establishment-Convenience/Grocery Store,148
+Public Health,Food Establishment,Education / Health,Public Health-Food Establishment-Education / Health,8
+Public Health,Food Establishment,Food Truck,Public Health-Food Establishment-Food Truck,20
+Public Health,Food Establishment,Other,Public Health-Food Establishment-Other,90
+Public Health,Food Establishment,Restaurant,Public Health-Food Establishment-Restaurant,1145
+Public Health,Hotel / Motel,Bedbugs,Public Health-Hotel / Motel-Bedbugs,44
+Public Health,Hotel / Motel,Other,Public Health-Hotel / Motel-Other,31
+Public Health,Hotel / Motel,Unsanitary Conditions,Public Health-Hotel / Motel-Unsanitary Conditions,39
+Public Health,Noise,All,Public Health-Noise-All,38
+Public Health,Noise,Music,Public Health-Noise-Music,621
+Public Health,Noise,Other,Public Health-Noise-Other,312
+Public Health,Noise,Trash Truck,Public Health-Noise-Trash Truck,105
+Public Health,Noise,Vehicles,Public Health-Noise-Vehicles,115
+Public Health,Outdoor Air Quality,All,Public Health-Outdoor Air Quality-All,276
+Public Health,Pool / Hot Tub,Public,Public Health-Pool / Hot Tub-Public,39
+Public Health,Public Restroom,Other,Public Health-Public Restroom-Other,14
+Public Health,Public Restroom,Restaurant,Public Health-Public Restroom-Restaurant,2
+Public Health,Services,Bedbugs,Public Health-Services-Bedbugs,14
+Public Health,Services,Call Back Request,Public Health-Services-Call Back Request,4
+Public Health,Services,Feedback,Public Health-Services-Feedback,15
+Public Health,Services,Healthy Homes Information,Public Health-Services-Healthy Homes Information,2917
+Public Health,Services,Lead Poisoning Prevention Info,Public Health-Services-Lead Poisoning Prevention Info,5
+Public Health,Services,Pest Management Class,Public Health-Services-Pest Management Class,1
+Public Health,Services,Question,Public Health-Services-Question,21
+Public Health,Services,Service Issue / Problem,Public Health-Services-Service Issue / Problem,53
+Public Health,Smoking / Tobacco,Public Building,Public Health-Smoking / Tobacco-Public Building,15
+Public Health,Smoking / Tobacco,Restaurant,Public Health-Smoking / Tobacco-Restaurant,2
+Public Safety,Ambulance,Billing / Administration,Public Safety-Ambulance-Billing / Administration,2
+Public Safety,Emergency Management,Weather Siren,Public Safety-Emergency Management-Weather Siren,28
+Public Safety,Fire,Carbon Monoxide,Public Safety-Fire-Carbon monoxide,2
+Public Safety,Fire,Fire Investigation,Public Safety-Fire-Fire Investigation,11
+Public Safety,Fire,Hazardous Materials,Public Safety-Fire-Hazardous materials,6
+Public Safety,Fire,New Smoke Alarm Request,Public Safety-Fire-New smoke alarm request,7
+Public Safety,Fire,Permit (Fireworks),Public Safety-Fire-Permit (Fireworks),1
+Public Safety,Fire,Question / Feedback,Public Safety-Fire-Question / Feedback,31
+Public Safety,Fire,Smell or See Smoke,Public Safety-Fire-Smell or see smoke,20
+Public Safety,Municipal Court,Accommodations,Public Safety-Municipal Court-Accommodations,5
+Public Safety,Municipal Court,Address Change,Public Safety-Municipal Court-Address Change,38
+Public Safety,Municipal Court,Compliance Letter,Public Safety-Municipal Court-Compliance Letter,28
+Public Safety,Municipal Court,Continuance,Public Safety-Municipal Court-Continuance,92
+Public Safety,Municipal Court,Monetary Inquiries,Public Safety-Municipal Court-Monetary Inquiries,6
+Public Safety,Municipal Court,Probation,Public Safety-Municipal Court-Probation,3
+Public Safety,Municipal Court,Question / Feedback,Public Safety-Municipal Court-Question / Feedback,64
+Public Safety,Police,Homeless Camp,Public Safety-Police-Homeless camp,766
+Public Safety,Police,Other,Public Safety-Police-Other,334
+Public Safety,Regulated Industries,Adult Entertainment,Public Safety-Regulated Industries-Adult Entertainment,7
+Public Safety,Regulated Industries,Alcohol Business,Public Safety-Regulated Industries-Alcohol Business,127
+Public Safety,Regulated Industries,Day Labor Business,Public Safety-Regulated Industries-Day Labor Business,3
+Public Safety,Regulated Industries,Question / Feedback,Public Safety-Regulated Industries-Question / Feedback,3
+Public Safety,Regulated Industries,Tobacco Business,Public Safety-Regulated Industries-Tobacco Business,5
+Public Safety,Regulated Industries,Vehicle For Hire,Public Safety-Regulated Industries-Vehicle for hire,1
+Sidewalks / Curbs / Ditch,Damage / Dis-Repair,ADA,Sidewalks / Curbs / Ditch-Damage / Dis-Repair-ADA,102
+Sidewalks / Curbs / Ditch,Damage / Dis-Repair,City Property,Sidewalks / Curbs / Ditch-Damage / Dis-Repair-City,107
+Sidewalks / Curbs / Ditch,Damage / Dis-Repair,Park / Blvd / Pkwy,Sidewalks / Curbs / Ditch-Damage / Dis-Repair- Park / Blvd / Pkwy,49
+Sidewalks / Curbs / Ditch,Damage / Dis-Repair,Private Property (ROW),Sidewalks / Curbs / Ditch-Damage / Dis-Repair-Private Property,2272
+Sidewalks / Curbs / Ditch,Damage / Dis-Repair,Replace - City Project,Sidewalks / Curbs / Ditch-Damage / Dis-Repair-Replace - City Project,210
+Sidewalks / Curbs / Ditch,Ditch,North,Sidewalks / Curbs / Ditch-Ditch-North,182
+Sidewalks / Curbs / Ditch,Ditch,South,Sidewalks / Curbs / Ditch-Ditch-South,240
+Sidewalks / Curbs / Ditch,New Request,Blvd / Pkwy / Park,Sidewalks / Curbs / Ditch-New Request-Blvd / Pkwy / Park,5
+Sidewalks / Curbs / Ditch,New Request,City Street,Sidewalks / Curbs / Ditch-New Request-City Street,175
+Sidewalks / Curbs / Ditch,Obstructed / Closure,ADA,Sidewalks / Curbs / Ditch-Obstructed / Closure-ADA,20
+Sidewalks / Curbs / Ditch,Obstructed / Closure,Blocked,Sidewalks / Curbs / Ditch-Obstructed / Closure-Blocked,196
+Sidewalks / Curbs / Ditch,Obstructed / Closure,Ramp,Sidewalks / Curbs / Ditch-Obstructed / Closure-Ramp,3
+Sidewalks / Curbs / Ditch,Park Property,Central,Sidewalk/Curb/Ditch-Park Property-Central,4
+Sidewalks / Curbs / Ditch,Park Property,North,Sidewalk/Curb/Ditch-Park Property-North,3
+Sidewalks / Curbs / Ditch,Snow / Ice,Bridge,Sidewalks / Curbs / Ditch-Snow / Ice-Bridge,3
+Sidewalks / Curbs / Ditch,Snow / Ice,City Owned,Sidewalks / Curbs / Ditch-Snow / Ice-City Owned,4
+Sidewalks / Curbs / Ditch,Snow / Ice,Commercial,Property Violations,24
+Sidewalks / Curbs / Ditch,Snow / Ice,Park - Central,Sidewalks / Curbs / Ditch-Snow / Ice-Park - Central,1
+Sidewalks / Curbs / Ditch,Snow / Ice,Park - North,Sidewalks / Curbs / Ditch-Snow / Ice-Park - North,1
+Sidewalks / Curbs / Ditch,Snow / Ice,Private Property,Property Violations,197
+Sidewalks / Curbs / Ditch,Unapproved Objects,Basketball Hoop / Goal,Sidewalks / Curbs / Ditch-Unapproved Objects-Basketball Hoop/Goal,89
+Sidewalks / Curbs / Ditch,Unapproved Objects,Landscaping,Sidewalks / Curbs / Ditch-Unapproved Objects-Landscaping,4
+Sidewalks / Curbs / Ditch,Unapproved Objects,Merchandise,Sidewalks / Curbs / Ditch-Unapproved Objects-Merchandise,14
+Sidewalks / Curbs / Ditch,Unapproved Objects,Other,Sidewalks / Curbs / Ditch-Unapproved Objects-Other,105
+Signs,Banners,Removal,Signs/Banners/Removal,8
+Signs,Commercial Signs / Ads,Billboard,Signs-Commercial Signs / Ads-Banner / Billboard,86
+Signs,Commercial Signs / Ads,In Right-Of-Way,Signs-Commercial Signs / Ads-In Right-Of-Way,431
+Signs,No Dumping Sign,District 1,Signs-No Dumping Sign-District 1,23
+Signs,No Dumping Sign,District 2,Signs-No Dumping Sign-District 2,66
+Signs,No Dumping Sign,District 3,Signs-No Dumping Sign-District 3,41
+Signs,Street Name Signs,Down / Damaged,Signs-Street Name Signs-Down / Damaged,451
+Signs,Street Name Signs,Graffiti,Signs-Street Name Signs-Graffiti,3
+Signs,Street Name Signs,Honorary/Renaming,Signs-Street Name Signs-Honorary/Renaming,6
+Signs,Street Name Signs,Missing,Signs-Street Name Signs-Missing,382
+Signs,Street Name Signs,New Sign Request,Signs-Street Name Signs-New Sign Request,120
+Signs,Street Name Signs,Remove Sign,Signs-Street Name Signs-Remove Sign,30
+Signs,Traffic Sign,Bike Route,Signs-Traffic Sign-Bike Route,2
+Signs,Traffic Sign,Damaged - Emergency,Signs-Traffic Sign-Damaged – Emergency,868
+Signs,Traffic Sign,Damaged - Non-Emergency,Signs-Traffic Sign-Damaged – Non-Emergency,728
+Signs,Traffic Sign,Graffiti,Signs-Traffic Sign-Graffiti,63
+Signs,Traffic Sign,Missing - Emergency,Signs-Traffic Sign-Missing – Emergency,340
+Signs,Traffic Sign,Missing - Non-Emergency,Signs-Traffic Sign-Missing – Non-Emergency,400
+Signs,Traffic Sign,New Sign Installation,Signs-Traffic Sign-New Sign Installation,40
+Signs,Traffic Sign,New Sign Request,Signs-Traffic Sign-New Sign Request,1447
+Signs,Traffic Sign,Remove Sign,Signs-Traffic Sign-Remove Sign,207
+Storm Water / Sewer,Construction Repair,Referral,Storm Water / Sewer - Construction Repair - Referral,2
+Storm Water / Sewer,Culvert,North,Storm Water / Sewer-Culvert-North,118
+Storm Water / Sewer,Culvert,North,Stormwater-Culvert-North,90
+Storm Water / Sewer,Culvert,South,Storm Water / Sewer-Culvert-South,122
+Storm Water / Sewer,Culvert,South,Stormwater-Culvert-South,101
+Storm Water / Sewer,Flood Barricade,Parks Barricade,Storm Water / Sewer - Flood - Parks Barricade,11
+Storm Water / Sewer,Flood Barricade,Parks Barricade,Stormwater - Flood - Parks Barricade,11
+Storm Water / Sewer,Flood Barricade,Public Works Barricade,Storm Water / Sewer - Flood - Public Works Barricade,15
+Storm Water / Sewer,Flood Barricade,Public Works Barricade,Stormwater - Flood - Public Works Barricade,3
+Storm Water / Sewer,Flood Barricade,Water Service Barricade,Storm Water / Sewer - Flood - Water Services Barricade,11
+Storm Water / Sewer,Flood Barricade,Water Service Barricade,Stormwater - Flood - Water Services Barricade,7
+Storm Water / Sewer,Improved Channel,Clogged / Debris,Storm Water / Sewer-Improved Channel-Clogged / Debris,38
+Storm Water / Sewer,Improved Channel,Clogged / Debris,Stormwater-Improved Channel-Clogged / Debris,22
+Storm Water / Sewer,Improved Channel,Damaged,Storm Water / Sewer-Improved Channel-Damaged,7
+Storm Water / Sewer,Improved Channel,Damaged,Stormwater-Improved Channel-Damaged,8
+Storm Water / Sewer,Manhole,Missing / Broken,Sewer-Manhole-Missing / Broken,334
+Storm Water / Sewer,Manhole,Missing / Broken,Storm Water / Sewer-Manhole-Missing / Broken,203
+Storm Water / Sewer,Services,Call Back Request,Storm Water / Sewer-Services-Call Back Request,34
+Storm Water / Sewer,Services,Call Back Request,Stormwater / Sewer-Services-Call Back Request,72
+Storm Water / Sewer,Services,Feedback,Storm Water / Sewer-Services-Feedback,6
+Storm Water / Sewer,Services,Feedback,Stormwater / Sewer-Services-Feedback,29
+Storm Water / Sewer,Services,Question,Storm Water / Sewer-Services-Question,120
+Storm Water / Sewer,Services,Service Issue / Problem,Storm Water / Sewer-Services-Service Issue / Problem,53
+Storm Water / Sewer,Services,Service Issue / Problem,Stormwater / Sewer-Services-Service Issue / Problem,85
+Storm Water / Sewer,Services,Sewer Restoration,Sewer - Services - Sewer Restoration,12
+Storm Water / Sewer,Services,Sewer Restoration,Storm Water / Sewer - Services - Sewer Restoration,13
+Storm Water / Sewer,Sewer Backup / Leak,From Manhole,Sewer-Sewer Backup / Leak-From Manhole,74
+Storm Water / Sewer,Sewer Backup / Leak,From Manhole,Storm Water / Sewer-Sewer Backup / Leak-From Manhole,59
+Storm Water / Sewer,Sewer Backup / Leak,In A House,Sewer-Sewer Backup / Leak-In a house,1812
+Storm Water / Sewer,Sewer Backup / Leak,In A House,Storm Water / Sewer-Sewer Backup / Leak-In a house,1124
+Storm Water / Sewer,Sewer Backup / Leak,Outside,Sewer-Sewer Backup / Leak-Outside,289
+Storm Water / Sewer,Sewer Backup / Leak,Outside,Storm Water / Sewer-Sewer Backup / Leak-Outside,186
+Storm Water / Sewer,Sewer Backup / Leak,Owner‘s Responsibility,Property Violations,2
+Storm Water / Sewer,Sewer Backup / Leak,Owner‘s Responsibility,Sewer - Sewer Backup - Owner Responsibility,12
+Storm Water / Sewer,Sewer Backup / Leak,Treatment Plant,Sewer-Sewer Backup / Leak-Treatment Plant,1
+Storm Water / Sewer,Sewer Odor,Indoor,Sewer-Sewer Odor-Indoor,405
+Storm Water / Sewer,Sewer Odor,Indoor,Storm Water / Sewer-Sewer Odor-Indoor,113
+Storm Water / Sewer,Sewer Odor,Outdoor,Sewer-Sewer Odor-Outdoor,549
+Storm Water / Sewer,Sewer Odor,Outdoor,Storm Water / Sewer-Sewer Odor-Outdoor,131
+Storm Water / Sewer,Sewer Referral,Basement,Storm Water / Sewer-Sewer Referral-Basement,1
+Storm Water / Sewer,Sewer Referral,Investigation,Sewer-Sewer Referral-Investigation,206
+Storm Water / Sewer,Sewer Referral,Investigation,Storm Water / Sewer-Sewer Referral-Investigation,80
+Storm Water / Sewer,Sewer Referral,Private Line Repair,Sewer-Sewer Referral-Private Line,157
+Storm Water / Sewer,Sewer Referral,Private Line Repair,Storm Water / Sewer-Sewer Referral-Private Line,65
+Storm Water / Sewer,Sewer Referral,Repair,Sewer-Sewer Referral-Repair,161
+Storm Water / Sewer,Sewer Referral,Repair,Storm Water / Sewer-Sewer Referral-Repair,52
+Storm Water / Sewer,Sewer Referral,Restoration,Sewer-Sewer Referral-Restoration,219
+Storm Water / Sewer,Sewer Referral,Restoration,Storm Water / Sewer-Sewer Referral-Restoration,108
+Storm Water / Sewer,Sewer Referral,Restoration Issue,Sewer-Sewer Referral-Restoration Issue,3
+Storm Water / Sewer,Sewer Referral,Restoration Issue,Storm Water / Sewer-Sewer Referral-Restoration Issue,5
+Storm Water / Sewer,Sinkhole,Sidewalk,Sewer-Sinkhole-Sidewalk,42
+Storm Water / Sewer,Sinkhole,Sidewalk,Storm Water / Sewer-Sinkhole-Sidewalk,11
+Storm Water / Sewer,Sinkhole,Street,Sewer-Sinkhole-Street,198
+Storm Water / Sewer,Sinkhole,Street,Storm Water / Sewer-Sinkhole-Street,143
+Storm Water / Sewer,Sinkhole,Yard,Sewer-Sinkhole-Yard,107
+Storm Water / Sewer,Sinkhole,Yard,Storm Water / Sewer-Sinkhole-Yard,57
+Storm Water / Sewer,Storm Drain / Catch Basin,Clogged / Over-Flow,Storm Water / Sewer-Storm Drain / Catch Basin-Clogged / Over-Flow,1255
+Storm Water / Sewer,Storm Drain / Catch Basin,Clogged / Over-Flow,Storm Water-Storm Drain / Catch Basin-Clogged / Over-Flow,2
+Storm Water / Sewer,Storm Drain / Catch Basin,Clogged / Over-Flow,Stormwater-Storm Drain / Catch Basin-Clogged / Over-Flow,1399
+Storm Water / Sewer,Storm Drain / Catch Basin,Damaged / Broken,Storm Water / Sewer-Storm Drain / Catch Basin-Damaged / Broken,125
+Storm Water / Sewer,Storm Drain / Catch Basin,Damaged / Broken,Stormwater-Storm Drain / Catch Basin-Damaged / Broken,139
+Storm Water / Sewer,Storm Drain / Catch Basin,Dropped Personal Item,Storm Water / Sewer-Storm Drain / Catch Basin-Dropped Personal Item,51
+Storm Water / Sewer,Storm Drain / Catch Basin,Dropped Personal Item,Stormwater-Storm Drain / Catch Basin-Dropped Personal Item,77
+Storm Water / Sewer,Storm Water Referral,Creek/Green Solution,Storm Water / Sewer-Storm Referral-Creek/Green Solution,27
+Storm Water / Sewer,Storm Water Referral,Investigation,Storm / Sewer-Stormwater Referral-Investigation,34
+Storm Water / Sewer,Storm Water Referral,Investigation,Stormwater-Stormwater Referral-Investigation,83
+Storm Water / Sewer,Storm Water Referral,Repair,Storm / Sewer-Storm Water Referral-Repair,110
+Storm Water / Sewer,Storm Water Referral,Repair,Stormwater-Stormwater Referral-Repair,338
+Storm Water / Sewer,Storm Water Referral,Restoration Issue,Storm Water / Sewer-Stormwater Referral-Restoration,7
+Storm Water / Sewer,Storm Water Referral,Restoration Issue,Stormwater-Stormwater Referral-Restoration,21
+Streets / Roadways / Alleys,Broken Asphalt,Bridge,Streets / Roadways / Alleys-Broken Asphalt-Bridge,20
+Streets / Roadways / Alleys,Broken Asphalt,District 1,Streets / Roadways / Alleys-Broken Asphalt-District 1,141
+Streets / Roadways / Alleys,Broken Asphalt,District 2,Streets / Roadways / Alleys-Broken Asphalt-District 2,95
+Streets / Roadways / Alleys,Broken Asphalt,District 3,Streets / Roadways / Alleys-Broken Asphalt-District 3,222
+Streets / Roadways / Alleys,Crack,Bridge,Streets / Roadways / Alleys-Crack-Bridge,10
+Streets / Roadways / Alleys,Crack,District 1,Streets / Roadways / Alleys-Crack-District 1,76
+Streets / Roadways / Alleys,Crack,District 2,Streets / Roadways / Alleys-Crack-District 2,22
+Streets / Roadways / Alleys,Crack,District 3,Streets / Roadways / Alleys-Crack-District 3,53
+Streets / Roadways / Alleys,Cut / Permit,District 1,Streets / Roadways / Alleys-Cut / Permit-District 1,302
+Streets / Roadways / Alleys,Cut / Permit,District 2,Streets / Roadways / Alleys-Cut / Permit-District 2,674
+Streets / Roadways / Alleys,Cut / Permit,District 3,Streets / Roadways / Alleys-Cut / Permit-District 3,611
+Streets / Roadways / Alleys,Guardrail,Bridge,Streets / Roadways / Alleys-Guardrail-Bridge,25
+Streets / Roadways / Alleys,Guardrail,District 1,Streets / Roadways / Alleys-Guardrail-District 1,20
+Streets / Roadways / Alleys,Guardrail,District 2,Streets / Roadways / Alleys-Guardrail-District 2,24
+Streets / Roadways / Alleys,Guardrail,District 3,Streets / Roadways / Alleys-Guardrail-District 3,39
+Streets / Roadways / Alleys,Markings / Paint,Bike Lanes,Streets / Roadways / Alleys-Markings / Paint-Bike lanes,26
+Streets / Roadways / Alleys,Markings / Paint,Crosswalk,Streets / Roadways / Alleys-Markings / Paint-Crosswalk,125
+Streets / Roadways / Alleys,Markings / Paint,Lane Lines,Streets / Roadways / Alleys-Markings / Paint-Lane lines,215
+Streets / Roadways / Alleys,Markings / Paint,New Marking Request,Streets / Roadways / Alleys-Markings / Paint-New Marking Request,129
+Streets / Roadways / Alleys,Markings / Paint,Turn Lanes,Streets / Roadways / Alleys-Markings / Paint-Turn lanes,43
+Streets / Roadways / Alleys,Obstructed / Closure,Detour,Streets / Roadways / Alleys-Obstructed / Closure-Detour,33
+Streets / Roadways / Alleys,Obstructed / Closure,Event / Closure Request,Streets / Roadways / Alleys-Obstructed / Closure-Event / Closure Request,11
+Streets / Roadways / Alleys,Obstructed / Closure,Lane Closed,Streets / Roadways / Alleys-Obstructed / Closure-Lane Closed,117
+Streets / Roadways / Alleys,Obstructed / Closure,Road Closed,Streets / Roadways / Alleys-Obstructed / Closure-Road Closed,181
+Streets / Roadways / Alleys,Other-Maintenance,District 1,Streets/Roadways/Alleys-Other Maintenance-District 1,476
+Streets / Roadways / Alleys,Other-Maintenance,District 2,Streets/Roadways/Alleys-Other Maintenance-District 2,709
+Streets / Roadways / Alleys,Other-Maintenance,District 3,Streets/Roadways/Alleys-Other Maintenance-District 3,898
+Streets / Roadways / Alleys,Plate,Loose,Streets / Roadways / Alleys-Plate-Loose,158
+Streets / Roadways / Alleys,Plate,Missing / Displaced,Streets / Roadways / Alleys-Plate-Missing / Displaced,296
+Streets / Roadways / Alleys,Plate,Request,Streets / Roadways / Alleys-Plate-Request,76
+Streets / Roadways / Alleys,Pothole,Bridge,Streets / Roadways / Alleys-Pothole-Bridge,56
+Streets / Roadways / Alleys,Pothole,District 1,Streets / Roadways / Alleys-Pothole-District 1,5524
+Streets / Roadways / Alleys,Pothole,District 2,Streets / Roadways / Alleys-Pothole-District 2,6435
+Streets / Roadways / Alleys,Pothole,District 3,Streets / Roadways / Alleys-Pothole-District 3,16899
+Streets / Roadways / Alleys,Resurfacing,District 1,Streets / Roadways / Alleys-Resurfacing-District 1,255
+Streets / Roadways / Alleys,Resurfacing,District 2,Streets / Roadways / Alleys-Resurfacing-District 2,176
+Streets / Roadways / Alleys,Resurfacing,District 3,Streets / Roadways / Alleys-Resurfacing-District 3,444
+Streets / Roadways / Alleys,Resurfacing,Service Issue / Problem,Streets / Roadways / Alleys-Resurfacing-Service Issue / Problem,101
+Streets / Roadways / Alleys,Sinkhole Referral,District 1,Streets / Roadways / Alleys-Sinkhole Referral-District 1,123
+Streets / Roadways / Alleys,Sinkhole Referral,District 2,Streets / Roadways / Alleys-Sinkhole Referral-District 2,134
+Streets / Roadways / Alleys,Sinkhole Referral,District 3,Streets / Roadways / Alleys-Sinkhole Referral-District 3,134
+Streets / Roadways / Alleys,Snow / Ice,District 1,Streets / Roadways / Alleys-Snow / Ice-District 1,1489
+Streets / Roadways / Alleys,Snow / Ice,District 2,Streets / Roadways / Alleys-Snow / Ice-District 2,971
+Streets / Roadways / Alleys,Snow / Ice,District 3,Streets / Roadways / Alleys-Snow / Ice-District 3,1299
+Streets / Roadways / Alleys,Snow / Ice,Feedback,Streets / Roadways / Alleys-Snow / Ice-Feedback,94
+Streets / Roadways / Alleys,Snow / Ice,Snow Blocking Drive or Sidewalk,Street/Roadway/Alley-Snow / Ice-Snow Blocking Drive,48
+Streets / Roadways / Alleys,Snow / Ice,Snow Route Verification,Streets/Roadways/Alleys-Snow / Ice-Snow Verify List,592
+Streets / Roadways / Alleys,Speed Bump,Removal,Streets / Roadways / Alleys-Speed Bump-Removal,11
+Streets / Roadways / Alleys,Speed Bump,Request New,Streets / Roadways / Alleys-Speed Bump-Request New,342
+Streets / Roadways / Alleys,Street Clean Up,Bridge,Streets / Roadways / Alleys-Street Clean Up-Bridge,17
+Streets / Roadways / Alleys,Street Clean Up,District 1,Streets / Roadways / Alleys-Street Clean Up-District 1,132
+Streets / Roadways / Alleys,Street Clean Up,District 2,Streets / Roadways / Alleys-Street Clean Up-District 2,466
+Streets / Roadways / Alleys,Street Clean Up,District 3,Streets / Roadways / Alleys-Street Clean Up-District 3,426
+Streets / Roadways / Alleys,Street Clean Up,Sweeping Schedule,Streets / Roadways / Alleys-Street Clean Up-Sweeping Schedule,479
+Streets / Roadways / Alleys,Street Services,Call Back Request,Streets / Roadways / Alleys-Street Services-Call Back Request,16
+Streets / Roadways / Alleys,Street Services,Feedback,Streets / Roadways / Alleys-Street Services-Feedback,116
+Streets / Roadways / Alleys,Street Services,Question,Streets / Roadways / Alleys-Street Services-Question,43
+Streets / Roadways / Alleys,Street Services,Service Issue / Problem,Streets / Roadways / Alleys-Street Services-Service Issue / Problem,60
+Streets / Roadways / Alleys,Street Services,Street Permit Research,Streets / Roadways / Alleys-Street Services-Street Permit Research,161
+Streets / Roadways / Alleys,Street Services,Traffic Study Request,Streets / Roadways / Alleys-Street Services-Traffic Study Request,311
+Trash / Recycling,Bulky Pick Up,Address Validation,Trash / Recycling-Bulky Pick Up -Address Validation,327
+Trash / Recycling,Bulky Pick Up,Missed Pick Up,Trash / Recycling-Bulky Pick Up -Missed Pick Up,2047
+Trash / Recycling,Dumping,Alley - Public Works - District 1,Trash / Recycling - Dumping - Alley - D1,1
+Trash / Recycling,Dumping,Alley - Public Works - District 2,Trash / Recycling - Dumping - Alley - D2,333
+Trash / Recycling,Dumping,Alley - Public Works - District 3,Trash / Recycling - Dumping - Alley - D3,30
+Trash / Recycling,Dumping,Camera Request,Trash / Recycling-Dumping-Camera Request,202
+Trash / Recycling,Dumping,Landlord Set Out,Trash / Recycling-Dumping-Landlord Set Out,2
+Trash / Recycling,Dumping,Park - Central,Trash / Recycling-Dumping-Park - Central,108
+Trash / Recycling,Dumping,Park - North,Trash / Recycling-Dumping-Park - North,27
+Trash / Recycling,Dumping,Park - South,Trash / Recycling-Dumping-Park - South,49
+Trash / Recycling,Dumping,Private Property,Trash / Recycling-Dumping-Private Property,648
+Trash / Recycling,Dumping,Right of Way Central,Trash / Recycling-Dumping-ROW Central,1828
+Trash / Recycling,Dumping,Right of Way LB Central,Trash / Recycling-Dumping-ROW Land Bank Central,352
+Trash / Recycling,Dumping,Right of Way LB North,Trash / Recycling-Dumping-ROW Land Bank North,3
+Trash / Recycling,Dumping,Right of Way LB South,Trash / Recycling-Dumping-ROW Land Bank South,51
+Trash / Recycling,Dumping,Right of Way North,Trash / Recycling-Dumping-ROW North,300
+Trash / Recycling,Dumping,Right of Way South,Trash / Recycling-Dumping-ROW South,621
+Trash / Recycling,Dumping,Right-Of-Way,Trash / Recycling-Dumping-Right of Way,8
+Trash / Recycling,Dumping,Solid Waste Referral,Trash / Recycling-Dumping-Solid Waste Referral,3590
+Trash / Recycling,Dumpsters,Dumpster Request,Trash / Recycling-Dumpsters-Dumpster Request,7
+Trash / Recycling,Dumpsters,Private Property,Property Violations,44
+Trash / Recycling,Dumpsters,Street / Alley / ROW,Trash / Recycling-Dumpsters-Street / Alley / ROW,39
+Trash / Recycling,Early Set Out,Central,Trash / Recycling-Early Set Out-Central,108
+Trash / Recycling,Early Set Out,North,Trash / Recycling-Early Set Out-North,20
+Trash / Recycling,Early Set Out,South,Trash / Recycling-Early Set Out-South,46
+Trash / Recycling,Landlord Set Out,Central,Trash / Recycling-Landlord Set Out-Central,5
+Trash / Recycling,Landlord Set Out,North,Trash / Recycling-Landlord Set Out-North,1
+Trash / Recycling,Landlord Set Out,South,Trash / Recycling-Landlord Set Out-South,11
+Trash / Recycling,Leaf / Brush,Dumping in Street,Trash / Recycling-Leaf / Brush-Dumping in Street,48
+Trash / Recycling,Leaf / Brush,Friday - Central,Trash/Recycling - Leaf/Brush - Friday - Central,1007
+Trash / Recycling,Leaf / Brush,Friday - North,Trash/Recycling - Leaf/Brush - Friday - North,275
+Trash / Recycling,Leaf / Brush,Friday - North,Trash/Recycling - Leaf/Brush - Monday - Central,1
+Trash / Recycling,Leaf / Brush,Friday - South,Trash/Recycling - Leaf/Brush - Friday - South,1441
+Trash / Recycling,Leaf / Brush,Leaf/Brush Appointment Missed,Trash / Recycling-Leaf / Brush-Appointment Missed,2
+Trash / Recycling,Leaf / Brush,Missed Pick Up,Trash / Recycling-Leaf / Brush-Missed Pick Up,2127
+Trash / Recycling,Leaf / Brush,Missed Pick Up,Trash/Recycling - Leaf/Brush - Monday - North,1
+Trash / Recycling,Leaf / Brush,Missed Pick Up,Trash/Recycling - Leaf/Brush - Thursday - North,2
+Trash / Recycling,Leaf / Brush,Monday - Central,Trash / Recycling-Leaf / Brush-Missed Pick Up,6
+Trash / Recycling,Leaf / Brush,Monday - Central,Trash / Recycling-Services-Service Issue / Problem,1
+Trash / Recycling,Leaf / Brush,Monday - Central,Trash / Recycling-Trash Collection-Missed by City,1
+Trash / Recycling,Leaf / Brush,Monday - Central,Trash/Recycling - Leaf/Brush - Monday - Central,375
+Trash / Recycling,Leaf / Brush,Monday - Central,Trash/Recycling - Leaf/Brush - Monday - North,1
+Trash / Recycling,Leaf / Brush,Monday - Central,Trash/Recycling - Leaf/Brush - Monday - South,1
+Trash / Recycling,Leaf / Brush,Monday - Central,Trash/Recycling - Leaf/Brush - Tuesday - North,1
+Trash / Recycling,Leaf / Brush,Monday - Central,"Web SR - Trash, Recycle, Bulky",1
+Trash / Recycling,Leaf / Brush,Monday - North,Trash/Recycling - Leaf/Brush - Monday - North,108
+Trash / Recycling,Leaf / Brush,Monday - South,Trash/Recycling - Leaf/Brush - Monday - South,787
+Trash / Recycling,Leaf / Brush,Thursday - Central,Trash/Recycling - Leaf/Brush - Thursday - Central,126
+Trash / Recycling,Leaf / Brush,Thursday - North,Trash/Recycling - Leaf/Brush - Thursday - North,93
+Trash / Recycling,Leaf / Brush,Thursday - South,Trash/Recycling - Leaf/Brush - Thursday - South,1839
+Trash / Recycling,Leaf / Brush,Tuesday - Central,Trash/Recycling - Leaf/Brush - Tuesday - Central,239
+Trash / Recycling,Leaf / Brush,Tuesday - North,Trash/Recycling - Leaf/Brush - Tuesday - North,196
+Trash / Recycling,Leaf / Brush,Tuesday - South,Trash/Recycling - Leaf/Brush - Tuesday - South,681
+Trash / Recycling,Leaf / Brush,Wednesday - Central,Trash/Recycling - Leaf/Brush - Wednesday - Central,119
+Trash / Recycling,Leaf / Brush,Wednesday - North,Trash/Recycling - Leaf/Brush - Wednesday - North,55
+Trash / Recycling,Leaf / Brush,Wednesday - South,Trash/Recycling - Leaf/Brush - Wednesday - South,1898
+Trash / Recycling,Nuisance,Early Set Out,Trash / Recycling-Nuisance-Early Set Out,10
+Trash / Recycling,Nuisance,Land Bank,Trash / Recycling-Nuisance-Land Bank,348
+Trash / Recycling,Nuisance,Open Storage,Property Violations,1219
+Trash / Recycling,Nuisance,Trash on Private Property,Property Violations,7878
+Trash / Recycling,Recycling,Missed by City,Trash / Recycling-Recycling-Missed by City,4560
+Trash / Recycling,Recycling,Missed by Contractor North,Trash / Recycling-Recycling-Missed by Contractor North,10854
+Trash / Recycling,Recycling,Missed by Contractor South,Trash / Recycling-Recycling-Missed by Contractor South,4763
+Trash / Recycling,Recycling,Repeat Missed,Trash / Recycling-Recycling-Repeat Missed,19
+Trash / Recycling,Services,Blue Bag Program,Trash / Recycling-Services-Blue Bag Program,218
+Trash / Recycling,Services,Call Back Request,Trash / Recycling-Services-Call Back Request,584
+Trash / Recycling,Services,Disability Pick Up,Trash / Recycling-Services-Disability Pick Up,381
+Trash / Recycling,Services,Feedback,Trash / Recycling-Services-Feedback,953
+Trash / Recycling,Services,Medical Tags,Trash / Recycling-Services-Medical Tags,44
+Trash / Recycling,Services,Multi-Unit,Trash / Recycling-Services-Multi-Unit,64
+Trash / Recycling,Services,Question,Trash / Recycling-Services-Question,304
+Trash / Recycling,Services,Service Issue / Problem,Trash / Recycling-Services-Service Issue / Problem,4283
+Trash / Recycling,Solid Waste Operations,Brush,Trash / Recycling-Solid Waste Operations-Brush,2
+Trash / Recycling,Solid Waste Operations,Bulky,Trash / Recycling-Solid Waste Operations-Bulky,3
+Trash / Recycling,Solid Waste Operations,Trash,Trash / Recycling-Solid Waste Operations-Trash,6
+Trash / Recycling,Trash,Violation,Streets / Roadways / Alleys-Street Clean Up-District 2,1
+Trash / Recycling,Trash,Violation,Trash / Recycling-Trash Collection-Missed by Contractor North,1
+Trash / Recycling,Trash Collection,City Owned Trash Container,Trash / Recycling-Trash Collection-City Owned Trash Container,18
+Trash / Recycling,Trash Collection,Missed City Trash and Recycling,Trash / Recycling-Dumping-Park - South,1
+Trash / Recycling,Trash Collection,Missed City Trash and Recycling,Trash / Recycling-Trash Collection-Missed by City,1
+Trash / Recycling,Trash Collection,Missed North Trash - Recycling,Trash / Recycling - Trash Collection - North Trash - Recycle,2
+Trash / Recycling,Trash Collection,Missed North Trash - Recycling,Trash / Recycling-Recycling-Missed by Contractor North,1
+Trash / Recycling,Trash Collection,Missed North Trash - Recycling,Trash / Recycling-Trash Collection-Missed by Contractor North,1
+Trash / Recycling,Trash Collection,Missed North Trash - Recycling,"Web SR - Trash, Recycle, Bulky",1
+Trash / Recycling,Trash Collection,Missed South Trash - Recycling,Trash / Recycling - Trash Collection - South Trash - Recycle,1
+Trash / Recycling,Trash Collection,Missed by City,Trash / Recycling-Trash Collection-Missed by City,10642
+Trash / Recycling,Trash Collection,Missed by Contractor North,Trash / Recycling-Trash Collection-Missed by Contractor North,11926
+Trash / Recycling,Trash Collection,Missed by Contractor South,Trash / Recycling-Trash Collection-Missed by Contractor South,11824
+Trash / Recycling,Trash Collection,Repeat Missed,Trash / Recycling-Trash Collection-Repeat Missed,6
+Trash / Recycling,Trash Collection,Storm Trash,Trash/Recycling - Trash Collection - Storm Trash,4
+Trees,Care,Disease,Trees-Care-Disease,59
+Trees,Care,Insects,Trees-Care-Insects,58
+Trees,Care,Sick,Trees-Care-Sick,31
+Trees,Care,Vandalism,Trees-Care-Vandalism,10
+Trees,Emerald Ash,Question / Feedback,Trees-Emerald Ash-Question / Feedback,54
+Trees,Emerald Ash,Removal,Trees-Emerald Ash-Removal,69
+Trees,Emerald Ash,Treatment,Trees-Emerald Ash-Treatment,25
+Trees,Land Bank,Dead,Trees-Land Bank-Dead,19
+Trees,Land Bank,Hazardous,Trees-Land Bank-Hazardous,149
+Trees,Land Bank,Tree Debris,Trees-Land Bank-Tree Debris,114
+Trees,Permit,Ash Treatment,Trees - Permit - Ash Treatment,4
+Trees,Permit,Plant,Trees-Permit-Plant,21
+Trees,Permit,Remove,Trees-Permit-Remove,33
+Trees,Permit,Trim,Trees-Permit-Trim,3
+Trees,Private Property,Dead,Property Violations,367
+Trees,Private Property,Hazardous,Trees-Private Property-Hazardous,63
+Trees,Private Property,Tree Debris,Property Violations,924
+Trees,Removal,Brush Pickup,Trees-Removal-Brush pickup,130
+Trees,Removal,Declining,Trees-Removal-Declining,691
+Trees,Removal,Dumping,Trees-Removal-Dumping,19
+Trees,Removal,Stump,Trees-Removal-Stump,408
+Trees,Removal,Tree Dead,Trees-Removal-Tree dead,1154
+Trees,Removal,Tree Down,Trees-Removal-Tree down,526
+Trees,Removal,Tree Limbs,Trees-Removal-Tree Limbs,1421
+Trees,Services,EAB,Trees-Services-EAB,2
+Trees,Services,Feedback,Trees-Services-Feedback,68
+Trees,Services,Plant City Tree Request,Trees-Services-Plant City Tree Request,448
+Trees,Services,Question,Trees-Services-Question,208
+Trees,Services,Review,Trees-Services-Review,54
+Trees,Services,Service Issue / Problem,Trees-Services-Service Issue / Problem,233
+Trees,Storm Damage,Tree Down,Trees-Storm Damage-Tree Down,771
+Trees,Storm Damage,Tree Limb / Brush,Trees-Storm Damage-Tree Limb / Brush,1647
+Trees,Storm Damage,Trim,Trees-Storm Damage-Trim,180
+Trees,Trimming,Block Pruning,Trees-Trimming-Block Pruning,640
+Trees,Trimming,Seasonal,Trees-Trimming-Seasonal,2
+Trees,Trimming,Streetlight,Trees-Trimming-Streetlight,27
+Trees,Trimming,Tree Limbs,Trees-Trimming-Tree Limbs,3715
+Trees,Trimming,Visibility,Trees-Trimming-Visibility,414
+Vehicles / Parking,Abandoned On Street,Boat,Vehicles / Parking-Abandoned On Street-Boat,28
+Vehicles / Parking,Abandoned On Street,Car,Vehicles / Parking-Abandoned On Street-Car,6561
+Vehicles / Parking,Abandoned On Street,Other,Vehicles / Parking-Abandoned On Street-Other,949
+Vehicles / Parking,Abandoned On Street,Trailer,Vehicles / Parking-Abandoned On Street-Trailer,443
+Vehicles / Parking,Commercial Parking,Number of Handicap Spaces,Vehicles / Parking-Commercial Parking-Number of Handicap Spaces,14
+Vehicles / Parking,Commercial Parking,Parking Surface - Pay Lot,Vehicles / Parking-Commercial Parking-Parking Surface - Pay Lot,1
+Vehicles / Parking,Commercial Vehicle,On Private Property,Vehicles / Parking-Commercial Vehicle-On private property,93
+Vehicles / Parking,Disabled/Unlicensed on Private Property,Boat Private Property,Property Violations,8
+Vehicles / Parking,Disabled/Unlicensed on Private Property,Car Private Property,Property Violations,1035
+Vehicles / Parking,Disabled/Unlicensed on Private Property,Other Private Property,Property Violations,225
+Vehicles / Parking,Disabled/Unlicensed on Private Property,Trailer Private Property,Property Violations,53
+Vehicles / Parking,Meter,Repair,Vehicles / Parking-Meter-Repair,128
+Vehicles / Parking,Parked on Unapproved Surface,Boat Private Property,Property Violations,34
+Vehicles / Parking,Parked on Unapproved Surface,Car Private Property,Property Violations,1129
+Vehicles / Parking,Parked on Unapproved Surface,Other Private Property,Property Violations,264
+Vehicles / Parking,Parked on Unapproved Surface,Trailer Private Property,Property Violations,110
+Vehicles / Parking,Scooter,Feedback/Concern,Vehicle-Scooter-Feedback/Concern,38
+Vehicles / Parking,Tow Services,Feedback,Vehicles / Parking-Tow Services-Feedback,7
+Vehicles / Parking,Tow Services,Service Issue / Problem,Vehicles / Parking-Tow Services-Service Issue / Problem,48
+Water,Account,Account Services,Water-Account-Account Services,1
+Water,Account,Theft,Water-Account-Theft,1
+Water,Leak,At Curb / In Yard,Water-Leak-At Curb / In Yard,2804
+Water,Leak,Emergency Off / Flooding,Water-Leak-Emergency Off / Flooding,774
+Water,Leak,Hydrant,Water-Leak-Hydrant,1074
+Water,Leak,Ice Due to Leak,Water-Leak-Ice Due to Leak,36
+Water,Leak,In Street,Water-Leak-In Street,1963
+Water,Leak,Meter,Water-Leak-Meter,2353
+Water,MFS Referral (Meter Field Services),Investigation,Water - MFS Referral - Investigation,1099
+Water,No Water / Pressure,High Pressure,Water-No Water / Pressure-High Pressure,70
+Water,No Water / Pressure,Low Pressure,Water-No Water / Pressure-Low Pressure,2502
+Water,No Water / Pressure,No Water,Water-No Water / Pressure-No Water,3292
+Water,Pipeline Referral,Curb-box / Service Line,Water-Pipeline Referral-Curb-box / Service Line,432
+Water,Pipeline Referral,Hydrant,Water-Pipeline Referral-Hydrant,314
+Water,Pipeline Referral,Materials Left At Site,Water-Pipeline Referral-Materials left at site,11
+Water,Pipeline Referral,Restoration,Water-Pipeline Referral-Restoration,2328
+Water,Pipeline Referral,Restoration Issue,Water-Pipeline Referral-Pipeline/Restoration Issues,217
+Water,Pipeline Referral,Valve,Water-Pipeline Referral-Valve,163
+Water,Pipeline Referral,Water Main,Water-Pipeline Referral-Water Main,321
+Water,Quality,Color / Cloudy,Water-Quality-Color / Cloudy,442
+Water,Quality,Smell / Odor,Water-Quality-Smell / Odor,156
+Water,Quality,Taste,Water-Quality-Taste,363
+Water,Services,Call Back Request,Water-Services-Call Back Request,131
+Water,Services,Feedback,Water-Services-Feedback,248
+Water,Services,Pipeline Restoration,Water - Services - Pipeline Restoration,3
+Water,Services,Question,Water-Services-Question,146
+Water,Services,Service Issue / Problem,Water-Services-Service Issue / Problem,504

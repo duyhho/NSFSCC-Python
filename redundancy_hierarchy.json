@@ -1,0 +1,117 @@
+[
+    {
+        "name": "Redundancy",
+        "parent": "null",
+        "children": [
+            {
+                "name": "Property Violations",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Animals / Pets",
+                        "parent": "Property Violations",
+                        "children": []
+                    },
+                    {
+                        "name": "Data Not Available",
+                        "parent": "Property Violations",
+                        "children": []
+                    },
+                    {
+                        "name": "Mowing / Weeds",
+                        "parent": "Property Violations",
+                        "children": []
+                    },
+                    {
+                        "name": "Neighborhood Preservation",
+                        "parent": "Property Violations",
+                        "children": []
+                    },
+                    {
+                        "name": "Property / Buildings / Construction",
+                        "parent": "Property Violations",
+                        "children": []
+                    },
+                    {
+                        "name": "Property Violations",
+                        "parent": "Property Violations",
+                        "children": []
+                    },
+                    {
+                        "name": "Sidewalks / Curbs / Ditch",
+                        "parent": "Property Violations",
+                        "children": []
+                    },
+                    {
+                        "name": "Storm Water / Sewer",
+                        "parent": "Property Violations",
+                        "children": []
+                    },
+                    {
+                        "name": "Trash / Recycling",
+                        "parent": "Property Violations",
+                        "children": []
+                    },
+                    {
+                        "name": "Trees",
+                        "parent": "Property Violations",
+                        "children": []
+                    },
+                    {
+                        "name": "Vehicles / Parking",
+                        "parent": "Property Violations",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Nuisance Violations",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Data Not Available",
+                        "parent": "Nuisance Violations",
+                        "children": []
+                    },
+                    {
+                        "name": "Graffiti",
+                        "parent": "Nuisance Violations",
+                        "children": []
+                    },
+                    {
+                        "name": "Nuisance Violations",
+                        "parent": "Nuisance Violations",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Bulky Appointment",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Bulky Appointment",
+                        "parent": "Bulky Appointment",
+                        "children": []
+                    },
+                    {
+                        "name": "Trash",
+                        "parent": "Bulky Appointment",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Water Main Break",
+                "parent": "null",
+                "children": [
+                    {
+                        "name": "Water Main Break",
+                        "parent": "Water Main Break",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    }
+]
