@@ -1,0 +1,1538 @@
+CATEGORY,TYPE,DETAIL,REQUEST TYPE
+Air Quality,Pollutants,Indoor,Healthy Homes Program
+Air Quality,Pollutants,Outdoor,Outdoor Air Quality
+Air Quality,Tobacco,All,Smoking Complaints
+Animal,Barking Dog,All,Barking Dog
+Animal,Bite,*Select one,Animal Bite
+Animal,Bite,All,Animal Bite
+Animal,Emergency,*Select one,Animal Emergency
+Animal,Emergency,Abused,Animal Emergency
+Animal,Emergency,Aggressive,Animal Emergency
+Animal,Emergency,Bat visible in house,Animal Control
+Animal,Emergency,Bat visible in house,Animal Emergency
+Animal,Emergency,Injured Cat or Dog,Animal Emergency
+Animal,Injury or Cruelty involving an Animal,All,Injury or Cruelty Involving an Animal
+Animal,Insect Problem,Bedbugs,Bedbugs Problem
+Animal,Insect Problem,Integrated Pest Management Class,Integrated Pest Management Class
+Animal,Investigation,All,Animal Investigation
+Animal,Jackson County,Buckner,Animal Concerns Buckner Jackson County
+Animal,Jackson County,Buckner,Animal Emergency Buckner Jackson County
+Animal,Jackson County,Greenwood,Animal Concerns Greenwood Jackson County
+Animal,Jackson County,Greenwood,Animal Emergency Greenwood Jackson County
+Animal,Jackson County,Levacy,Animal Concerns Levacy Jackson County
+Animal,Jackson County,Levacy,Emergency Animal Levacy Jackson County
+Animal,Jackson County,Lone Jack,Animal Concerns Lone Jack Jackson County
+Animal,Jackson County,Lone Jack,Animal Emergency Lone Jack Jackson County
+Animal,Jackson County,Sibley,Animal Concerns Sibley Jackson County
+Animal,Jackson County,Sibley,Animal Emergency Greenwood Jackson County
+Animal,Jackson County,Sibley,Animal Emergency Sibley Jackson County
+Animal,Jackson County,Sugar Creek,Animal Concerns Sugar Creek Jackson County
+Animal,Jackson County,Sugar Creek,Animal Emergency Sugar Creek Jackson County
+Animal,Jackson County,Unincorporated Areas of Jackson County,Animal Concerns Unincorporated Jackson County
+Animal,Jackson County,Unincorporated Areas of Jackson County,Animal Concers Unicorporated Jackson County
+Animal,Jackson County,Unincorporated Areas of Jackson County,Animal Emergency Unincorporated Jackson County
+Animal,Jackson County,Unity Village,Animal Concerns Unity Village Jackson County
+Animal,Jackson County,Unity Village,Animal Emergency Unity Village Jackson County
+Animal,Other,Non Emergency,Animal Control
+Animal,Other,Non Emergency,Animal Investigation
+Animal,Owned or Stray at Large,All,Animal At Large
+Animal,Repair,*Select one,Animal Control
+Animal,Return Call to Citizen,All,Animal Admin Call Back
+Animal,Return Call to Citizen,All,Animal Control Administration
+Animal,Return Call to Citizen,Jack,Rat Control Education
+Animal,Rodent,Rat,Rat Control Education
+Animal,Rodent,Rat Control Treatment and Baiting,Rat Control Treatment
+Animal,Stray Confined,Confined,Stray Animal Confined
+Animal,Wildlife,All,Wildlife
+Animals / Pets,Bite,Animal on Animal,Animals / Pets-Bite-Animal on Animal
+Animals / Pets,Bite,Owned,Animals / Pets-Bite-Owned
+Animals / Pets,Bite,Stray,Animals / Pets-Bite-Stray
+Animals / Pets,Bite,Wildlife,Animals / Pets-Bite-Wildlife
+Animals / Pets,Cruelty or Neglect,Abandonment,Animals / Pets-Cruelty or Neglect-Abandonment
+Animals / Pets,Cruelty or Neglect,Abuse / Injury / Death,Animals / Pets-Cruelty or Neglect-Abuse / Injury / Death
+Animals / Pets,Cruelty or Neglect,Inclement Weather,Animals / Pets-Cruelty or Neglect-Inclement Weather
+Animals / Pets,Cruelty or Neglect,Shelter / Food / Water,Animals / Pets-Cruelty or Neglect-Shelter / Food / Water
+Animals / Pets,Dead Animal,Curb,Animals / Pets-Dead Animal -Curb
+Animals / Pets,Dead Animal,Private Property Nuisance,Property Violations
+Animals / Pets,Dead Animal,Private Property Pickup,Animals / Pets-Dead Animal -Private Property Pickup
+Animals / Pets,Dead Animal,Street,Animals / Pets-Dead Animal -Street
+Animals / Pets,Permit / License,Chicken / Rooster,Animals / Pets-Permit / License-Chicken / Rooster
+Animals / Pets,Permit / License,Livestock,Animals / Pets-Permit / License-Livestock
+Animals / Pets,Permit / License,Other,Animals / Pets-Permit / License-Other
+Animals / Pets,Permit / License,Permit Request,Animals / Pets-Permit / License-Permit Request
+Animals / Pets,Permit / License,Rescue Permit,Animals / Pets-Permit / License-Rescue Permit
+Animals / Pets,Permit / License,Vaccination / Pet License,Animals / Pets-Permit / License-Vaccination / Pet License
+Animals / Pets,Questionable Activity,Cock Fighting,Animals / Pets-Questionable Activity-Cock fighting
+Animals / Pets,Questionable Activity,Dog Fighting,Animals / Pets-Questionable Activity-Dog fighting
+Animals / Pets,Questionable Activity,Other,Animals / Pets-Questionable Activity-Other
+Animals / Pets,Questionable Activity,Over Limit / Hoarding,Animals / Pets-Questionable Activity-Over Limit / Hoarding
+Animals / Pets,Rat Treatment,City Block,Animals / Pets-Rat Treatment-City Block
+Animals / Pets,Rat Treatment,City Construction Site,Animals / Pets-Rat Treatment-City Const Site
+Animals / Pets,Rat Treatment,In the Sewer,Animals / Pets-Rat Treatment-In the Sewer
+Animals / Pets,Rat Treatment,Inside Home,Animals / Pets-Rat Treatment-Inside Residence
+Animals / Pets,Rat Treatment,Outside,Animals / Pets-Rat Treatment-Outside
+Animals / Pets,Rat Treatment,Vacant Home,Animals / Pets-Rat Treatment-Vacant Home
+Animals / Pets,Rat Treatment,Vacant Lot,Animals / Pets-Rat Treatment-Vacant Property
+Animals / Pets,Services,Barking Dog,Animals / Pets-Services-Barking Dog Letter
+Animals / Pets,Services,Call Back Request,Animals / Pets-Services-Call Back Request
+Animals / Pets,Services,Feedback,Animals / Pets-Services-Feedback
+Animals / Pets,Services,Off Leash - Investigation,Animals / Pets-Services-Off Leash
+Animals / Pets,Services,Off Leash - Investigation,Animals / Pets-Services-Off Leash - Investigation
+Animals / Pets,Services,Officer Assist,Animals / Pets-Services-Officer Assist
+Animals / Pets,Services,Question,Animals / Pets-Services-Question
+Animals / Pets,Services,Repeated Report,Animals / Pets-Services-Repeated Report
+Animals / Pets,Services,Service Issue / Problem,Animals / Pets-Services-Service Issue / Problem
+Animals / Pets,Stray,At Large - Aggressive,Animals / Pets-Stray-At Large - Aggressive
+Animals / Pets,Stray,At Large - Highway,Animals / Pets-Stray-At Large - Highway
+Animals / Pets,Stray,At Large - Non-Aggressive,Animals / Pets-Stray-At Large - Non-Aggressive
+Animals / Pets,Stray,At Large - Owned,Animals / Pets-Stray-At Large - Owned
+Animals / Pets,Stray,At Large - Pack,Animals / Pets-Stray-At Large - Pack
+Animals / Pets,Stray,Confined,Animals / Pets-Stray-Confined
+Animals / Pets,Stray,Injured,Animals / Pets-Stray-Injured
+Animals / Pets,Wildlife,Injured,Animals / Pets-Wildlife-Injured
+Animals / Pets,Wildlife,Inside,Animals / Pets-Wildlife-Inside
+Animals / Pets,Wildlife,Outside,Animals / Pets - Wildlife - Outside
+Aviation,All,All,Aviation - All
+Boulevard Parks and Rec,Bruce R. Watkins Freeway,All,Bruce R Watkins Freeway
+Bridge,Repair,Bridge,Bridge Repair (All Districts)
+Bulky Appointment,01,All,Bulky Appointment- July 1
+Bulky Appointment,01,April,Bulky Appointment- Apr 1
+Bulky Appointment,01,December,Bulky Appointment December 01
+Bulky Appointment,01,June,Bulky Appointment- June 1
+Bulky Appointment,01,MAY,Bulky Appointment - May 1
+Bulky Appointment,02,April,Bulky Appointment- Apr 2
+Bulky Appointment,02,December,Bulky Appointment DEC 02
+Bulky Appointment,02,February,Bulky Appointment FEB 02
+Bulky Appointment,02,January,Bulky Appointment JAN 02
+Bulky Appointment,02,June,Bulky Appointment- June 2
+Bulky Appointment,02,March,Bulky Appointment- MAR 2
+Bulky Appointment,03,ALL,Bulky Appointment- Apr 3
+Bulky Appointment,03,ALL,Bulky Appointment- July 3
+Bulky Appointment,03,ALL,Bulky Appointment- June 3
+Bulky Appointment,03,December,Bulky Appointment DEC 03
+Bulky Appointment,03,February,Bulky Appointment FEB 03
+Bulky Appointment,03,January,Bulky Appointment JAN 03
+Bulky Appointment,03,March,Bulky Appointment- MAR 3
+Bulky Appointment,04,All,Bulky Appointment - May 4
+Bulky Appointment,04,All,Bulky Appointment- June 4
+Bulky Appointment,04,December,Bulky Appointment DEC 04
+Bulky Appointment,04,February,Bulky Appointment FEB 04
+Bulky Appointment,04,March,Bulky Appointment- MAR 4
+Bulky Appointment,05,ALL,Bulky Appointment - May 5
+Bulky Appointment,05,ALL,Bulky Appointment-  August 5
+Bulky Appointment,05,ALL,Bulky Appointment- June 5
+Bulky Appointment,05,December,Bulky Appointment DEC 05
+Bulky Appointment,05,February,Bulky Appointment FEB 05
+Bulky Appointment,05,January,Bulky Appointment JAN 05
+Bulky Appointment,05,March,Bulky Appointment- MAR 5
+Bulky Appointment,06,All,Bulky Appointment - May 6
+Bulky Appointment,06,All,Bulky Appointment- Apr 6
+Bulky Appointment,06,All,Bulky Appointment- July 6
+Bulky Appointment,06,February,Bulky Appointment FEB 06
+Bulky Appointment,06,January,Bulky Appointment JAN 06
+Bulky Appointment,06,March,Bulky Appointment- MAR 6
+Bulky Appointment,07,ALL,Bulky Appointment - May 7
+Bulky Appointment,07,ALL,Bulky Appointment- Apr 7
+Bulky Appointment,07,ALL,Bulky Appointment- July 7
+Bulky Appointment,07,January,Bulky Appointment JAN 07
+Bulky Appointment,08,All,Bulky Appointment - May 8
+Bulky Appointment,08,All,Bulky Appointment- Apr 8
+Bulky Appointment,08,All,Bulky Appointment- July 8
+Bulky Appointment,08,All,Bulky Appointment- June 8
+Bulky Appointment,08,December,Bulky Appointment DEC 08
+Bulky Appointment,08,January,Bulky Appointment JAN 08
+Bulky Appointment,09,All,Bulky Appointment- Apr 9
+Bulky Appointment,09,All,Bulky Appointment- July 9
+Bulky Appointment,09,All,Bulky Appointment- June 9
+Bulky Appointment,09,December,Bulky Appointment DEC 09
+Bulky Appointment,09,FEB,Bulky Appointment FEB 09
+Bulky Appointment,09,January,Bulky Appointment JAN 09
+Bulky Appointment,09,March,Bulky Appointment- MAR 9
+Bulky Appointment,10,All,Bulky Appointment-  August 10
+Bulky Appointment,10,All,Bulky Appointment- Apr 10
+Bulky Appointment,10,All,Bulky Appointment- July 10
+Bulky Appointment,10,December,Bulky Appointment  DEC 10
+Bulky Appointment,10,FEB,Bulky Appointment FEB 10
+Bulky Appointment,10,June,Bulky Appointment- June 10
+Bulky Appointment,10,March,Bulky Appointment- MAR 10
+Bulky Appointment,11,All,Bulky Appointment - August 11
+Bulky Appointment,11,All,Bulky Appointment - May 11
+Bulky Appointment,11,All,Bulky Appointment- June 11
+Bulky Appointment,11,December,Bulky Appointment DEC 11
+Bulky Appointment,11,FEB,Bulky Appointment FEB 11
+Bulky Appointment,11,March,Bulky Appointment- MAR 11
+Bulky Appointment,12,ALL,Bulky Appointment - August 12
+Bulky Appointment,12,ALL,Bulky Appointment - May 12
+Bulky Appointment,12,ALL,Bulky Appointment- June 12
+Bulky Appointment,12,December,Bulky Appointment DEC 12
+Bulky Appointment,12,FEB,Bulky Appointment FEB 12
+Bulky Appointment,12,January,Bulky Appointment JAN 12
+Bulky Appointment,12,March,Bulky Appointment- MAR 12
+Bulky Appointment,13,All,Bulky Appointment - August 13
+Bulky Appointment,13,All,Bulky Appointment - May 13
+Bulky Appointment,13,All,Bulky Appointment- Apr 13
+Bulky Appointment,13,All,Bulky Appointment- July 13
+Bulky Appointment,13,December,Bulky Appointment DEC 13
+Bulky Appointment,13,FEB,Bulky Appointment FEB 13
+Bulky Appointment,13,January,Bulky Appointment JAN 13
+Bulky Appointment,13,March,Bulky Appointment- MAR 13
+Bulky Appointment,14,All,Bulky Appointment - July 14
+Bulky Appointment,14,All,Bulky Appointment - May 14
+Bulky Appointment,14,All,Bulky Appointment- Apr 14
+Bulky Appointment,14,All,Bulky Appointment- August 14
+Bulky Appointment,14,January,Bulky Appointment JAN 14
+Bulky Appointment,15,All,Bulky Appointment - May 15
+Bulky Appointment,15,All,Bulky Appointment- Apr 15
+Bulky Appointment,15,All,Bulky Appointment- July 15
+Bulky Appointment,15,All,Bulky Appointment- June 15
+Bulky Appointment,15,December,Bulky Appointment DEC 15
+Bulky Appointment,15,January,Bulky Appointment JAN 15
+Bulky Appointment,16,All,Bulky Appointment- Apr 16
+Bulky Appointment,16,All,Bulky Appointment- July 16
+Bulky Appointment,16,All,Bulky Appointment- June 16
+Bulky Appointment,16,December,Bulky Appointment DEC 16
+Bulky Appointment,16,January,Bulky Appointment JAN 16
+Bulky Appointment,16,March,Bulky Appointment- MAR 16
+Bulky Appointment,17,All,Bulky Appointment-  August 17
+Bulky Appointment,17,All,Bulky Appointment- Apr 17
+Bulky Appointment,17,All,Bulky Appointment- July 17
+Bulky Appointment,17,All,Bulky Appointment- June 17
+Bulky Appointment,17,December,Bulky Appointment DEC 17
+Bulky Appointment,17,February,Bulky Appointment - FEB 17
+Bulky Appointment,17,March,Bulky Appointment- MAR 17
+Bulky Appointment,18,All,Bulky Appointment - May 18
+Bulky Appointment,18,All,Bulky Appointment- June 18
+Bulky Appointment,18,December,Bulky Appointment DEC 18
+Bulky Appointment,18,February,Bulky Appointment - FEB 18
+Bulky Appointment,18,March,Bulky Appointment- MAR 18
+Bulky Appointment,19,All,Bulky Appointment - May 19
+Bulky Appointment,19,All,Bulky Appointment- June 19
+Bulky Appointment,19,December,Bulky Appointment DEC 19
+Bulky Appointment,19,February,Bulky Appointment - FEB 19
+Bulky Appointment,19,March,Bulky Appointment- MAR 19
+Bulky Appointment,20,ALL,Bulky Appointment - May 20
+Bulky Appointment,20,ALL,Bulky Appointment- Apr 20
+Bulky Appointment,20,ALL,Bulky Appointment- July 20
+Bulky Appointment,20,December,Bulky Appointment DEC 20
+Bulky Appointment,20,February,Bulky Appointment - FEB 20
+Bulky Appointment,20,January,Bulky Appointment JAN 20
+Bulky Appointment,20,March,Bulky Appointment- MAR 20
+Bulky Appointment,21,All,Bulky Appointment - May 21
+Bulky Appointment,21,All,Bulky Appointment-  August 21
+Bulky Appointment,21,All,Bulky Appointment- Apr 21
+Bulky Appointment,21,All,Bulky Appointment- July 21
+Bulky Appointment,21,December,Bulky Appointment DEC 21
+Bulky Appointment,21,February,Bulky Appointment - FEB 21
+Bulky Appointment,21,January,Bulky Appointment JAN 21
+Bulky Appointment,22,All,Bulky Appointment - May 22
+Bulky Appointment,22,All,Bulky Appointment- Apr 22
+Bulky Appointment,22,All,Bulky Appointment- June 22
+Bulky Appointment,22,December,Bulky Appointment DEC 22
+Bulky Appointment,22,January,Bulky Appointment JAN 22
+Bulky Appointment,23,All,Bulky Appointment- Apr 23
+Bulky Appointment,23,All,Bulky Appointment- June 23
+Bulky Appointment,23,December,Bulky Appointment DEC 23
+Bulky Appointment,23,February,Bulky Appointment- FEB 23
+Bulky Appointment,23,January,Bulky Appointment JAN 23
+Bulky Appointment,23,March,Bulky Appointment- MAR 23
+Bulky Appointment,24,All,Bulky Appointment-  August 24
+Bulky Appointment,24,All,Bulky Appointment- Apr 24
+Bulky Appointment,24,All,Bulky Appointment- July 24
+Bulky Appointment,24,All,Bulky Appointment- June 24
+Bulky Appointment,24,December,Bulky Appointment DEC 24
+Bulky Appointment,24,February,Bulky Appointment- FEB 24
+Bulky Appointment,24,January,Bulky Appointment JAN24
+Bulky Appointment,24,March,Bulky Appointment- MAR 24
+Bulky Appointment,25,All,Bulky Appointment- June 25
+Bulky Appointment,25,February,Bulky Appointment- FEB 25
+Bulky Appointment,25,March,Bulky Appointment- MAR 25
+Bulky Appointment,26,All,Bulky Appointment - May 26
+Bulky Appointment,26,All,Bulky Appointment- June 26
+Bulky Appointment,26,December,Bulky Appointment
+Bulky Appointment,26,December,Bulky Appointment - DEC 26
+Bulky Appointment,26,February,Bulky Appointment- FEB 26
+Bulky Appointment,26,January,Bulky Appointment JAN 26
+Bulky Appointment,26,March,Bulky Appointment- MAR 26
+Bulky Appointment,27,All,Bulky Appointment - April 27
+Bulky Appointment,27,All,Bulky Appointment - May 27
+Bulky Appointment,27,All,Bulky Appointment- July 27
+Bulky Appointment,27,December,Bulky Appointment DEC 27
+Bulky Appointment,27,February,Bulky Appointment- FEB 27
+Bulky Appointment,27,January,Bulky Appointment JAN 27
+Bulky Appointment,27,March,Bulky Appointment- MAR 27
+Bulky Appointment,28,All,Bulky Appointment - April 28
+Bulky Appointment,28,All,Bulky Appointment - May 28
+Bulky Appointment,28,January,Bulky Appointment JAN 28
+Bulky Appointment,29,All,Bulky Appointment - May 29
+Bulky Appointment,30,All,Bulky Appointment - May 30
+Capital Projects,PIAC,Department Referral,Capital Projects-PIAC-Department Referral
+Capital Projects,PIAC,Question / Feedback,Capital Projects-PIAC-Question / Feedback
+Capital Projects,PIAC,Resident Request,Capital Projects-PIAC-Resident Request
+Capital Projects,Parks,Question / Feedback,Capital Projects-Parks-Question / Feedback
+Capital Projects,Parks,Service Issue / Problem,Capital Projects-Parks-Service Issue / Problem
+Capital Projects,Public Works,Question / Feedback,Capital Projects-Public Works-Question / Feedback
+Capital Projects,Public Works,Service Issue / Problem,Capital Projects-Public Works-Service Issue / Problem
+Capital Projects,Sewer,Engineering,Capital Projects-Sewer-Engineering
+Capital Projects,Sewer,Question / Feedback,Capital Projects-Sewer-Question / Feedback
+Capital Projects,Sewer,Service Issue / Problem,Capital Projects-Sewer-Service Issue / Problem
+Capital Projects,Storm Water,Engineering,Capital Projects-Storm Water-Engineering
+Capital Projects,Storm Water,Question / Feedback,Capital Projects-Storm Water-Question / Feedback
+Capital Projects,Storm Water,Service Issue / Problem,Capital Projects-Storm Water-Service Issue / Problem
+Capital Projects,Water,Basement Backup Prevent Proj,Capital Projects-Water-Basement Backup Prev Prog
+Capital Projects,Water,Engineering,Capital Projects-Water-Engineering
+Capital Projects,Water,Question / Feedback,Capital Projects-Water-Question / Feedback
+Capital Projects,Water,Service Issue / Problem,Capital Projects-Water-Service Issue / Problem
+City Clerks Office,All,All,City Clerks Office-All
+City Facilities,Airports,KCI,City Facilities-Airports-KCI
+City Facilities,Airports,Wheeler (Downtown),City Facilities-Airports-Wheeler (Downtown)
+City Facilities,Building / Property,Aviation,City Facilities-Building / Property-Aviation
+City Facilities,Building / Property,City Hall,City Facilities-Building / Property-City Hall
+City Facilities,Building / Property,Convention Center,City Facilities-Building / Property-Convention Center
+City Facilities,Building / Property,Fire Station Maintenance,City Facilities-Building / Property-Fire Station Maintenance
+City Facilities,Building / Property,Municipal Court,City Facilities-Building / Property-Municipal Court
+City Facilities,Building / Property,Other City Buildings,City Facilities-Building / Property-Other City Buildings
+City Facilities,Building / Property,Water Services Department,City Facilities-Building / Property-Water Services Department
+City Facilities,Parking,City Hall Garage,City Facilities-Parking-City Hall Garage
+City Facilities,Parking,Other Garage,City Facilities-Parking-Other Garage
+City Facilities,Parking,Wolf Garage,City Facilities-Parking-Wolf Garage
+City Managers Office,Action Center,All,311 Action Center
+City Managers Office,Action Center,All,City Managers Office-Action Center
+City Managers Office,Action Center,Escalation,Action Center Escalation
+City Managers Office,Action Center,Lacking Info Needed,City Managers Office-City Communications
+City Managers Office,Administration,All,City Manager's Office-Administration
+City Managers Office,Administration,All,City Managers Office-Administration
+City Managers Office,Capital Improvement Management Office,All,City Manager's Office-Capital Improvement Management Office
+City Managers Office,Capital Improvement Management Office,All,City Managers Office-Capital Improvement Management Office
+City Managers Office,Capital Projects Office,All,Capital Projects Office
+City Managers Office,City Communications,All,City Managers Office-City Communications
+City Managers Office,Emergency Management,All,City Manager's Office-Emergency Management
+City Managers Office,Emergency Management,All,City Managers Office-Emergency Management
+City Managers Office,Google Fiber Project,Badge Identification,Google's FTTH Project Contractor Verification
+City Managers Office,KC Police,All,Homeless Camp
+City Managers Office,Public Improvement Advisory Committee,All,City Manager's Office-Public Improvement Advisory Committee
+City Managers Office,Public Improvement Advisory Committee,All,City Managers Office-Public Improvement Advisory Committee
+City Managers Office,Public Improvement Advisory Committee,Referred from a department,PIAC Referral From Department
+City Planning & Development,Administration,All,City Planning & Development-Administration
+City Planning & Development,Land Development,Inspection,Erosion or Sediment
+Cleaning,Alley,District One,Alley Cleaning (North of the River)
+Cleaning,Alley,District Three,Alley Cleaning (South of 47th Street and West of BLue PKWY)
+Cleaning,Alley,District Three,Alley Cleaning (South of 47th Street)
+Cleaning,Alley,District Two,Alley Cleaning (South of 47th Street and West of BLue PKWY)
+Cleaning,Alley,District Two,Alley Cleaning (South of River to 47th Street and East of Blue PKWY)
+Cleaning,Alley,District Two,Alley Cleaning (South of River to 47th Street)
+Cleaning,Alley,District Two,Information Request-Neighborhood
+Consumer Services,Research,Admin Tasks,Water Bill Admin Tasks
+Consumer Services,Research,General,Water Bill Concerns
+Consumer Services,Research,High Bill,High Water Bill Inspection
+Consumer Services,Stormwater Billing,All,Stormwater Charges
+Consumer Services,Supervisors,Escalation,Info Center Escalation
+Consumer Services,Walk In Center City Hall,All,Water Services Same Day Service
+Consumer Services,Water Billing,Adjustment,High Bill Adjustment
+Consumer Services,Water Billing,All,High Water Bill Inspection
+Consumer Services,Water Billing,Disconnect Service,Field Services Escalation
+Consumer Services,Water Billing,Emergency Off,Emergency Water Turn Off
+Consumer Services,Water Billing,New Water Service,New Water Service
+Consumer Services,Water Billing,No Bill,No Water Bill Received
+Consumer Services,Water Billing,Payment Issues,Water Payment or Refund
+Consumer Services,Water Billing,Turn Off for Repairs,Turn Off Water Service For A Repair
+Consumer Services,Water Billing,Turn On Repairs Made,Turn On Water Services - Internal Repairs Completed
+Consumer Services,Water Billing,Turn On for Paid Bill,Turn On Water Services For Paid Bill
+Consumer Services,WaterServices-ConsumerServices-BackOfficeSupport,WaterServices-ConsumerServices-BackOfficeSupport,Back Office Support
+Convention & Entertainment Center,All,All,Convention and Entertainment Center-All
+Data Not Available,Data Not Available,Data Not Available,Abandoned Vehicle
+Data Not Available,Data Not Available,Data Not Available,Animal Control
+Data Not Available,Data Not Available,Data Not Available,Animals / Pets-Dead Animal -Private Property Pickup
+Data Not Available,Data Not Available,Data Not Available,Animals / Pets-Services-Barking Dog Letter
+Data Not Available,Data Not Available,Data Not Available,Animals / Pets-Services-Off Leash - Investigation
+Data Not Available,Data Not Available,Data Not Available,Building Code and Permit Violations
+Data Not Available,Data Not Available,Data Not Available,Bulky Appointment - DEC 26
+Data Not Available,Data Not Available,Data Not Available,Bulky Appointment JAN 15
+Data Not Available,Data Not Available,Data Not Available,Bulky Pick-up Missed
+Data Not Available,Data Not Available,Data Not Available,Capital Projects-Public Works-Service Issue / Problem
+Data Not Available,Data Not Available,Data Not Available,Catch Basins and Storm Water Concerns
+Data Not Available,Data Not Available,Data Not Available,City Maintained Property List
+Data Not Available,Data Not Available,Data Not Available,Dangerous Building
+Data Not Available,Data Not Available,Data Not Available,Dead Animal Pick-up
+Data Not Available,Data Not Available,Data Not Available,Demolition Debris and Landfill
+Data Not Available,Data Not Available,Data Not Available,Drug Abatement Response Team
+Data Not Available,Data Not Available,Data Not Available,Food Establishment Complaints
+Data Not Available,Data Not Available,Data Not Available,Government-311 Administration-Feedback
+Data Not Available,Data Not Available,Data Not Available,Government-311 Administration-Field Investigation
+Data Not Available,Data Not Available,Data Not Available,Government-NHS (Neighborhood Housing Services)-Assessment Dispute
+Data Not Available,Data Not Available,Data Not Available,Issues on City Maintained Property
+Data Not Available,Data Not Available,Data Not Available,Leaf and Brush Pick-up Missed
+Data Not Available,Data Not Available,Data Not Available,Lights / Signals-Traffic Signal-New Signal Request
+Data Not Available,Data Not Available,Data Not Available,Mowing on the Right of Way
+Data Not Available,Data Not Available,Data Not Available,Mud and silt
+Data Not Available,Data Not Available,Data Not Available,Nuisance Violations
+Data Not Available,Data Not Available,Data Not Available,Paint Program
+Data Not Available,Data Not Available,Data Not Available,Prop/Build/Construct - Land Use / Zoning - Miscellaneous Zoning
+Data Not Available,Data Not Available,Data Not Available,Prop/Build/Construct - Land Use / Zoning - Unapproved Land Use
+Data Not Available,Data Not Available,Data Not Available,Prop/Build/Construct-Construction Issue/Concern-Other
+Data Not Available,Data Not Available,Data Not Available,Prop/Build/Construct-Construction Issue/Concern-Work without permit
+Data Not Available,Data Not Available,Data Not Available,Prop/Build/Construct-Land Use / Zoning Issue-Number of Dwelling Units
+Data Not Available,Data Not Available,Data Not Available,Prop/Build/Construct-Property Maintenance-DART
+Data Not Available,Data Not Available,Data Not Available,Prop/Build/Construct-Property Maintenance-No Utilities
+Data Not Available,Data Not Available,Data Not Available,Prop/Build/Construct-Services (NPD)-Question
+Data Not Available,Data Not Available,Data Not Available,Property Violations
+Data Not Available,Data Not Available,Data Not Available,Property and Nuisance Violations
+Data Not Available,Data Not Available,Data Not Available,Public Health-Disease Control-All
+Data Not Available,Data Not Available,Data Not Available,Public Health-Food Establishment-Restaurant
+Data Not Available,Data Not Available,Data Not Available,Public Health-Services-Healthy Homes Information
+Data Not Available,Data Not Available,Data Not Available,Public Safety-Fire-Hazardous materials
+Data Not Available,Data Not Available,Data Not Available,Public Safety-Fire-Question / Feedback
+Data Not Available,Data Not Available,Data Not Available,Public Safety-Police-Homeless camp
+Data Not Available,Data Not Available,Data Not Available,Public Safety-Police-Other
+Data Not Available,Data Not Available,Data Not Available,Sewer Investigation Referral
+Data Not Available,Data Not Available,Data Not Available,Sewer-Sinkhole-Street
+Data Not Available,Data Not Available,Data Not Available,Sidewalk or Curb in Disrepair
+Data Not Available,Data Not Available,Data Not Available,Sidewalk to be replaced Due to City Project
+Data Not Available,Data Not Available,Data Not Available,Sidewalks / Curbs / Ditch-Obstructed / Closure-Blocked
+Data Not Available,Data Not Available,Data Not Available,Sidewalks / Curbs / Ditch-Unapproved Objects-Other
+Data Not Available,Data Not Available,Data Not Available,Sign Violation Zoning
+Data Not Available,Data Not Available,Data Not Available,Storm / Sewer-Storm Water Referral-Repair
+Data Not Available,Data Not Available,Data Not Available,Storm Water / Sewer - Flood - Water Services Barricade
+Data Not Available,Data Not Available,Data Not Available,Stormwater Projects
+Data Not Available,Data Not Available,Data Not Available,Streets / Roadways / Alleys-Cut / Permit-District 2
+Data Not Available,Data Not Available,Data Not Available,Streets / Roadways / Alleys-Markings / Paint-Bike lanes
+Data Not Available,Data Not Available,Data Not Available,Streets / Roadways / Alleys-Plate-Missing / Displaced
+Data Not Available,Data Not Available,Data Not Available,Streets / Roadways / Alleys-Street Services-Street Permit Research
+Data Not Available,Data Not Available,Data Not Available,Trash - Missed by City
+Data Not Available,Data Not Available,Data Not Available,Trash - Recycle Bin New Service
+Data Not Available,Data Not Available,Data Not Available,Trash / Recycling-Dumping-ROW Central
+Data Not Available,Data Not Available,Data Not Available,Trash / Recycling-Dumping-ROW South
+Data Not Available,Data Not Available,Data Not Available,Trash / Recycling-Dumping-Right of Way
+Data Not Available,Data Not Available,Data Not Available,Trash Missed by Contractor North
+Data Not Available,Data Not Available,Data Not Available,Trash Recycle Missed by Contractor North
+Data Not Available,Data Not Available,Data Not Available,Tree Pruning for Block
+Data Not Available,Data Not Available,Data Not Available,Tree Removal Central Region
+Data Not Available,Data Not Available,Data Not Available,Tree Removal of a City Tree
+Data Not Available,Data Not Available,Data Not Available,Tree Trimming at Intersection
+Data Not Available,Data Not Available,Data Not Available,Tree Trimming for City Tree
+Data Not Available,Data Not Available,Data Not Available,Trees-Removal-Tree down
+Data Not Available,Data Not Available,Data Not Available,Trees-Trimming-Streetlight
+Data Not Available,Data Not Available,Data Not Available,Trees-Trimming-Tree Limbs
+Data Not Available,Data Not Available,Data Not Available,Vehicles / Parking-Abandoned On Street-Car
+Data Not Available,Data Not Available,Data Not Available,Vehicles / Parking-Illegally Parked-Street/Sidewalk
+Data Not Available,Data Not Available,Data Not Available,Violations and Encroachments on the Right of Way
+Data Not Available,Data Not Available,Data Not Available,Volunteer Inspection Program
+Data Not Available,Data Not Available,Data Not Available,Water Leak or Pressure Problem
+Data Not Available,Data Not Available,Data Not Available,Water-Leak-Ice Due to Leak
+Data Not Available,Data Not Available,Data Not Available,Water-Leak-Meter
+Data Not Available,Data Not Available,Data Not Available,Water-No Water / Pressure-No Water
+Data Not Available,Data Not Available,Data Not Available,Water-Pipeline Referral-Materials left at site
+Data Not Available,Data Not Available,Data Not Available,Water-Pipeline Referral-Pipeline/Restoration Issues
+Data Not Available,Data Not Available,Data Not Available,Water-Pipeline Referral-Water Main
+Data Not Available,Data Not Available,Data Not Available,Web SR - Property Maintenance - Neighborhoods
+Data Not Available,Data Not Available,Data Not Available,Web SR - Streetlights
+Data Not Available,Data Not Available,Data Not Available,Web SR - Trees (City Trees Only)
+Data Not Available,Data Not Available,Data Not Available,Zoning Inspections and Violations
+Ditch,Cleaning,District One,Ditch Cleaning (North from 27th Street )
+Ditch,Cleaning,District One,Ditch Cleaning (North of River)
+Ditch,Cleaning,District Three,Ditch Cleaning (South of 27th Street)
+Ditch,Cleaning,District Three,Ditch Cleaning (South of 47th Street)
+Ditch,Cleaning,District Two,Ditch Cleaning (South of River to 47th Street)
+Downtown Parking,Illegally Parked Vehicle,Vehicle,Vehicle Illegally Parked
+Downtown Parking,Parking Meter,Broken,Parking Meter Repair
+Downtown Parking,Ticket,All,Parking Ticket Complaint
+Facilities,ADA Accessibility,All,ADA Accessibility
+Facilities,City,*Select one,Cleaning City Property
+Facilities,City,*Select one,Facilities - City Owned
+Facilities,City,Building,Facilities - City Owned
+Facilities,City,Grounds,Cleaning City Property
+Facilities,City,Grounds,Facilities - City Owned
+Facilities,City,Parking,Cleaning City Property
+Facilities,City,Parking,Facilities - City Owned
+Finance,All,All,Finance - All
+Fire,All,All,Fire - All
+Fire,Transportation,Cooling Center Transportation,Cooling Center Transportation
+Food Protection,All,All,Food Establishment Complaints
+Government,311 Administration,Appearance / Speaker,Government-311 Administration-Appearance / Speaker
+Government,311 Administration,Document Request,Government-311 Administration-Document Request
+Government,311 Administration,Feedback,Government-311 Administration-Feedback
+Government,311 Administration,Field Investigation,Government-311 Administration-Field Investigation
+Government,311 Administration,Lack of Information,Government-311 Administration-Lack of information
+Government,311 Administration,Review,Government-311 Administration-Review
+Government,ADA,Airport ADA,Government - ADA - Airport
+Government,ADA,Sidewalks / Curbs,Government-ADA-Sidewalks / Curbs
+Government,City Manager‘s Office,All,Government-City Manager‘s Office-All
+Government,City Manager‘s Office,Compass KC Assistance,Government-City Managers Office-Compass KC
+Government,Communications,Citizen Satisfaction Survey,Government-Communications-Citizen Satisfaction Survey
+Government,Communications,KCMO.gov,Government-Communications-KCMO.gov
+Government,Communications,KCMore,Government-Communications-KCMore
+Government,Communications,News and Media,Government-Communications-News and Media
+Government,Finance,Collection Notice,Government-Finance-Collection Notice
+Government,Finance,Feedback,Government-Finance-Feedback
+Government,Finance,Tax,Government-Finance-Tax
+Government,Human Resources (HR),All,Government-Human Resources (HR)-All
+Government,IT / Websites,Other Websites - Tech,Government-IT / Websites-Other Websites - Tech
+Government,IT / Websites,Parks Website,Government-IT / Websites-Parks Website
+Government,IT / Websites,Water Website,Government-IT / Websites-Water Website
+Government,Law,Financial Loss,Government-Law-Financial Loss
+Government,Law,Other Litigations,Government-Law-Other Litigations
+Government,Law,Property Damage,Government-Law-Property Damage
+Government,Law,Vehicle Damage,Government-Law-Vehicle Damage
+Government,Mayor‘s Office,Feedback,Government-Mayor‘s Office-Feedback
+Government,NHS (Neighborhood Housing Services),Assessment Dispute,Government-NHS (Neighborhood Housing Services)-Assessment Dispute
+Government,NHS (Neighborhood Housing Services),Feedback,Government-NHS (Neighborhood Housing Services)-Feedback
+Government,NHS (Neighborhood Housing Services),Good Neighbor Award,Government-NHS (Neighborhood Housing Services)-Good Neighbor Award
+Government,NHS (Neighborhood Housing Services),Home Repair,Government-NHS (Neighborhood Housing Services)-Home Repair
+Government,NHS (Neighborhood Housing Services),No Known Property Owner,Government-NHS (Neighborhood Housing Services)-No Known Property Owner
+Government,NHS (Neighborhood Housing Services),Paint Program,Government-NHS (Neighborhood Housing Services)-Paint Program
+Government,NHS (Neighborhood Housing Services),Weatherization Program,Government-NHS (Neighborhood Housing Services)-Weatherization Program
+Government,Not Provided By KCMO,211,Government-Not Provided By KCMO-211
+Government,Not Provided By KCMO,County,Government-Not Provided By KCMO-County
+Government,Not Provided By KCMO,KCATA/Metro,Government - Not Provided by KCMO - KCATA/Metro
+Government,Not Provided By KCMO,KCPD,Government-Not Provided By KCMO-KCPD
+Government,Not Provided By KCMO,MODOT,Government-Not Provided By KCMO-MODOT
+Government,Not Provided By KCMO,State,Government-Not Provided By KCMO-State
+Government,Public Works,Call Back Request,Government-Public Works-Call Back Request
+Government,Public Works,Feedback,Government-Public Works-Feedback
+Government,Public Works,Question,Government-Public Works-Question
+Government,Public Works,Service Issue / Problem,Government-Public Works-Service Issue / Problem
+Government,Security / Safety,Employee Behavior,Government-Security / Safety-Employee Behavior
+Government,Security / Safety,How's My Driving,Government-Security / Safety-How's My Driving
+Government,Security / Safety,Tours,Government-Security / Safety-Tours
+Graffiti,City Property,All,Graffiti on City Property
+Graffiti,Neighborhood Abatement Program,All,Graffiti on Streetlight Pole
+Graffiti,Park Property,Central Region,Graffiti - Park Property Central Region
+Graffiti,Park Property,Central Region,Graffiti - Park Property North Region
+Graffiti,Park Property,North Region,Graffiti - Park Property North Region
+Graffiti,Park Property,South Region,Graffiti - Park Property South Region
+Graffiti,Private Property,All,Graffiti Removed by Citizen
+Graffiti,Private Property,All,Graffiti on Private Property
+Graffiti,Private Property,All,Nuisance Violations
+Graffiti,Streetlight Pole,Neighborhood Training,Graffiti Abatement Training
+Graffiti,Traffic Signs,All,Graffiti on Signs
+Guard Rail,Repair,District One,Guard Rail Repair (North of River)
+Guard Rail,Repair,District Three,Guard Rail Repair (South of 47th Street and West of Blue PKWY)
+Guard Rail,Repair,District Three,Guard Rail Repair (South of 47th Street)
+Guard Rail,Repair,District Two,Guard Rail Repair (South of the River to 47th Street and East of Blue PKWY)
+Guard Rail,Repair,District Two,Guard Rail Repair (South of the River to 47th Street)
+Health,All,All,Health-All
+Health,All,All,Questions or  Comments
+Health,Communicable Disease,All,Communicable Disease Control
+Health,Lead Poisoning Prevention,All,Childhood Lead Poisoning Prevention
+Health,Public Facilities,General Sanitation,Hotel and Motel Inspections
+Health,Public Facilities,General Sanitation,Public Restroom Sanitation
+Health,Public Facilities,Lodging,Hotel and Motel Inspections
+Health,Public Facilities,Pool,Public Pool Inspections
+Health,Rat Control and Treatment,All,Rat Control Treatment
+Housing,Private Property,All,Minor Home Repair Program
+Information Request,Neighborhood Preservation,Assessment for Abatement,Information Request - Assessment for Private Property
+Information Request,Railroad Property,All,Information Request-Railroad Property
+Information Technology,All,All,Information Technology-All
+Law,All,All,Law-All
+Lights / Signals,Services,Call Back Request,Lights / Signals-Services-Call Back Request
+Lights / Signals,Services,Feedback,Lights / Signals-Services-Feedback
+Lights / Signals,Services,Question,Lights / Signals-Services-Question
+Lights / Signals,Services,Service Issue / Problem,Lights / Signals-Services-Service Issue / Problem
+Lights / Signals,Street Light,1 Light Out,Lights / Signals-Street Light-1 light out
+Lights / Signals,Street Light,2 to 4 Lights Out,Lights / Signals-Street Light-2 to 4 lights out
+Lights / Signals,Street Light,5+ Lights Out,Lights / Signals-Street Light-5+ lights out
+Lights / Signals,Street Light,Blinking,Lights / Signals-Street Light-Blinking
+Lights / Signals,Street Light,Burning During The Day,Lights / Signals-Street Light-Burning during the day
+Lights / Signals,Street Light,Graffiti,Lights / Signals-Street Light-Graffiti
+Lights / Signals,Street Light,New/Remove Light,Lights / Signals-Street Light-New Light Request
+Lights / Signals,Street Light,New/Remove Light,Lights / Signals-Street Light-New/Remove Light
+Lights / Signals,Street Light,Other Light Issue,Lights / Signals-Street Light-Other Light Issue
+Lights / Signals,Street Light,Parks Maintained,Lights / Signals-Street Light-Parks Maintained
+Lights / Signals,Street Light,Pole Down or Leaning,Lights / Signals-Street Light-Pole down or leaning
+Lights / Signals,Street Light,Wire Down / Hanging Arm,Lights / Signals-Street Light-Wire Down / Hanging Arm
+Lights / Signals,Traffic Signal,Audio,Lights / Signals-Traffic Signal-Audio
+Lights / Signals,Traffic Signal,Bike Route,Lights / Signals-Traffic Signal-Bike Route
+Lights / Signals,Traffic Signal,Graffiti,Lights / Signals-Traffic Signal-Graffiti
+Lights / Signals,Traffic Signal,New Signal Request,Lights / Signals-Traffic Signal-New Signal Request
+Lights / Signals,Traffic Signal,Pedestrian / Walkway,Lights / Signals-Traffic Signal-Pedestrian / Walkway
+Lights / Signals,Traffic Signal,Signal Flashing,Lights / Signals-Traffic Signal-Signal flashing
+Lights / Signals,Traffic Signal,Signal Malfunction,Lights / Signals-Traffic Signal-Signal malfunction
+Lights / Signals,Traffic Signal,Signal Out,Lights / Signals-Traffic Signal-Signal out
+Lights / Signals,Traffic Signal,Signal Pole Damage,Lights / Signals-Traffic Signal-Signal pole damage
+Lights / Signals,Traffic Signal,Signal Timing,Lights / Signals-Traffic Signal-Signal timing
+Maintenance,Street,All,Street Maintenance General
+Maintenance,Street,All,Street Maintenance General (North of the River)
+Maintenance,Street,All,Street Maintenance General (South of 47th Street and West of Blue PKWY)
+Maintenance,Street,All,Street Maintenance General (South of 47th Street)
+Maintenance,Street,All,Street Maintenance General (South of River to 47th Street and East of Blue PKWY)
+Maintenance,Street,All,Street Maintenance General (South of River to 47th Street)
+Markings,Street,Traffic,Street Markings Painted
+Mayors Office,All,All,Mayors Office-All
+Mowing / Weeds,Alley,District 1,Mowing / Weeds-Alley-District 1
+Mowing / Weeds,Alley,District 2,Mowing / Weeds-Alley-District 2
+Mowing / Weeds,Alley,District 3,Mowing / Weeds-Alley-District 3
+Mowing / Weeds,Blvd / Pkwy,Central,Mowing / Weeds-Blvd / Pkwy-Central
+Mowing / Weeds,Blvd / Pkwy,North,Mowing / Weeds-Blvd / Pkwy-North
+Mowing / Weeds,Blvd / Pkwy,South,Mowing / Weeds-Blvd / Pkwy-South
+Mowing / Weeds,Paper Street,District 1,Mowing / Weeds-Paper Street-District 1
+Mowing / Weeds,Paper Street,District 2,Mowing / Weeds-Paper Street-District 2
+Mowing / Weeds,Paper Street,District 3,Mowing / Weeds-Paper Street-District 3
+Mowing / Weeds,Parks,Central,Mowing / Weeds-Parks-Central
+Mowing / Weeds,Parks,Feedback,Mowing / Weeds-Parks-Feedback
+Mowing / Weeds,Parks,North,Mowing / Weeds-Parks-North
+Mowing / Weeds,Parks,South,Mowing / Weeds-Parks-South
+Mowing / Weeds,Private / Commercial,Lot - Structure,Property Violations
+Mowing / Weeds,Private / Commercial,Lot - Vacant,Property Violations
+Mowing / Weeds,Public Property,City Facility,Mowing / Weeds-Public Property-City Facility
+Mowing / Weeds,Public Property,City Vacant Lot,Mowing / Weeds-Public Property-City Vacant Lot
+Mowing / Weeds,Public Property,Land Bank,Mowing / Weeds-Public Property-Land Bank
+Mowing / Weeds,Right of Way (ROW),On Demand (PW),Mowing / Weeds-Right of Way (ROW)-On Demand (PW)
+Mowing / Weeds,Right of Way (ROW),Region - Central,Mowing / Weeds-Right of Way (ROW)-Region - Central
+Mowing / Weeds,Right of Way (ROW),Region - North,Mowing / Weeds-Right of Way (ROW)-Region - North
+Mowing / Weeds,Right of Way (ROW),Region - South,Mowing / Weeds-Right of Way (ROW)-Region - South
+Mowing / Weeds,Visibility,Intersection,Mowing / Weeds - Visibility - Intersection
+Municipal Court,Parking Ticket Issue,All,Parking Ticket Issue
+Neighborhood & Community Services,Administration,All,Good Neighbor Award Nomination
+Neighborhood & Community Services,Administration,All,Neighborhood and Community Services Administration
+Neighborhood & Community Services,Administration,All,Regulated Industries
+Neighborhood & Community Services,Administration,Tow Services,Tow Services Administration
+Neighborhood & Community Services,Assessment Dispute,All,Dispute of Assessment for NCS Property Abatement
+Neighborhood & Community Services,Regulated Industries,License,Regulated Industries
+Neighborhood & Community Services,Regulated Industries,Tow Company,Vehicle Towed From Lot Without Owner's Permission by Tow Company
+Neighborhood Preservation,Administration,Comment or Question,Neighborhood Preservation Administration
+Neighborhood Preservation,Priority,Review,Neighborhood Preservation Priority Review
+Neighborhood Preservation,Priority,Review,Property Violations
+Noise Control,All,All,Noise Complaints
+Nuisance Violations,Private Property,All,Bulky Appointment- Apr 8
+Nuisance Violations,Private Property,All,Nuisance Violations
+Park,Landscape,Central,Park Maintenance Central Region
+Park,Maintenance,Central Region,Park Maintenance Central Region
+Park,Maintenance,Central Region,Park Maintenance North Region
+Park,Maintenance,North Region,Park Maintenance North Region
+Park,Maintenance,South Region,Park Maintenance Central Region
+Park,Maintenance,South Region,Park Maintenance South Region
+Park Maintenance,Parks Facilities,Referral by Parks and Rec,Parks Facility Maintenance Referral
+Park Maintenance,Referral,Brush Creek,Brush Creek Maintenance
+Park Maintenance,Referral,Central,Parks Drinking Fountain Central Referral
+Park Maintenance,Referral,Central,Parks Facility Maintenance C Referral
+Park Maintenance,Referral,Central,Parks Facility Outdoor Plumbing Central Referral
+Park Maintenance,Referral,Central,Parks Lighting Central Referral
+Park Maintenance,Referral,North,Parks Drinking Fountain North Referral
+Park Maintenance,Referral,North,Parks Facility Indoor Plumbing North Referral
+Park Maintenance,Referral,North,Parks Facility Maintenance N Referral
+Park Maintenance,Referral,North,Parks Lighting North Referral
+Park Maintenance,Referral,South,Parks Drinking Fountain South Referral
+Park Maintenance,Referral,South,Parks Facility Maintenance S Refer
+Park Maintenance,Referral,South,Parks Lighting South Referral
+Parking Meter,Repair,Parking,Parking Meter Repair or Damage
+Parks & Recreation,Administration,All,Parks and Recreation Administration
+Parks & Recreation,Athletics,Fields - Central,Parks & Recreation-Athletics-Fields – Central
+Parks & Recreation,Athletics,Fields - North,Parks & Recreation-Athletics-Fields – North
+Parks & Recreation,Athletics,Fields - South,Parks & Recreation-Athletics-Fields – South
+Parks & Recreation,Athletics,Programming,Parks & Recreation-Athletics-Programming
+Parks & Recreation,Community Center,Brush Creek CC,Parks & Recreation-Community Center-Brush Creek CC
+Parks & Recreation,Community Center,Garrison CC,Parks & Recreation-Community Center-Garrison CC
+Parks & Recreation,Community Center,Gregg / Klice CC,Parks & Recreation-Community Center-Gregg/Klice CC
+Parks & Recreation,Community Center,Hillcrest CC,Parks & Recreation-Community Center-Hillcrest CC
+Parks & Recreation,Community Center,Kansas City North CC,Parks & Recreation-Community Center-Kansas City North CC
+Parks & Recreation,Community Center,Line Creek CC,Parks & Recreation-Community Center-Line Creek CC
+Parks & Recreation,Community Center,Marlborough CC,Parks & Recreation-Community Center-Marlborough CC
+Parks & Recreation,Community Center,Southeast CC,Parks & Recreation-Community Center-Southeast CC
+Parks & Recreation,Community Center,Tony Aguirre CC,Parks & Recreation-Community Center-Tony Aguirre CC
+Parks & Recreation,Community Center,Westport Roanoke CC,Parks & Recreation-Community Center-Westport Roanoke CC
+Parks & Recreation,Community Service,All,Parks Community Services
+Parks & Recreation,Facilities / Attractions,Aquatics,Parks & Recreation-Facilities / Attractions-Aquatics
+Parks & Recreation,Facilities / Attractions,Bruce Watkins Cultural Center,Parks & Recreation-Facilities / Attractions-Bruce Watkins Cultural Center
+Parks & Recreation,Facilities / Attractions,Fountains,Parks & Recreation-Facilities / Attractions-Fountains
+Parks & Recreation,Facilities / Attractions,Kansas City Museum,Parks & Recreation-Facilities / Attractions-Kansas City Museum
+Parks & Recreation,Facilities / Attractions,Lakeside Nature Center,Parks & Recreation-Facilities / Attractions-Lakeside Nature Center
+Parks & Recreation,Facilities / Attractions,Other,Parks & Recreation-Facilities / Attractions-Other
+Parks & Recreation,Facilities / Attractions,Shelter - Central,Parks & Recreation-Facilities / Attractions-Shelter – Central
+Parks & Recreation,Facilities / Attractions,Shelter - North,Parks & Recreation-Facilities / Attractions-Shelter – North
+Parks & Recreation,Facilities / Attractions,Shelter - South,Parks & Recreation-Facilities / Attractions-Shelter – South
+Parks & Recreation,Facilities / Attractions,Starlight Theatre,Parks & Recreation-Facilities / Attractions-Starlight Theatre
+Parks & Recreation,Graffiti,Central,Parks & Recreation-Graffiti-Central
+Parks & Recreation,Graffiti,North,Parks & Recreation-Graffiti-North
+Parks & Recreation,Graffiti,South,Parks & Recreation-Graffiti-South
+Parks & Recreation,Landscaping,All,Parks & Recreation-Landscaping-All
+Parks & Recreation,Landscaping,Central (Dept. Use),Parks & Recreation-Landscaping-Central (Dept. Use)
+Parks & Recreation,Landscaping,North (Dept. Use),Parks & Recreation-Landscaping-North (Dept. Use)
+Parks & Recreation,Landscaping,South (Dept. Use),Parks & Recreation-Landscaping-South (Dept. Use)
+Parks & Recreation,Park Maintenance,Central,Parks & Recreation-Park Maintenance-Central
+Parks & Recreation,Park Maintenance,North,Parks & Recreation-Park Maintenance-North
+Parks & Recreation,Park Maintenance,South,Parks & Recreation-Park Maintenance-South
+Parks & Recreation,Planning,Design,Parks Capital Project Referral
+Parks & Recreation,Services,Call Back Request,Parks & Recreation-Services-Call Back Request
+Parks & Recreation,Services,Feedback,Parks & Recreation-Services-Feedback
+Parks & Recreation,Services,Question,Parks & Recreation-Services-Question
+Parks & Recreation,Services,Service Issue / Problem,Parks & Recreation-Services-Service Issue / Problem
+Parks & Recreation,Trails,Central,Parks & Recreation-Trails-Central
+Parks & Recreation,Trails,North,Parks & Recreation-Trails-North
+Parks & Recreation,Trails,South,Parks & Recreation-Trails-South
+Permit,Investigation,All,Building Code and Permit Violations
+Permit,Traffic Permit,All,Street and Traffic Permit
+Permit,Traffic Permit,All,Violations and Encroachments on the Right of Way
+Pothole,Street,District One,Pothole (North of River)
+Pothole,Street,District Three,Pothole (South of 47th Street and West Of Blue PKWY)
+Pothole,Street,District Three,Pothole (South of 47th Street)
+Pothole,Street,District Two,Pothole (River south to 47th Street and East of Blue PKWY)
+Pothole,Street,District Two,Pothole (River south to 47th Street)
+Pothole,Street,District Two,Pothole (South of River to 47th Street)
+Property & Nuisance Violations,Private Property,All,Nuisance Violations on Private Property Vacant Structure
+Property & Nuisance Violations,Private Property,All,Property Maintenance
+Property & Nuisance Violations,Private Property,All,Property and Nuisance Violations
+Property & Nuisance Violations,Private Property,Drug Abatement Respone Team,Drug Abatement Response Team
+Property / Buildings / Construction,Construction Issue/Concern,Development Plans - Landscaping,Prop/Build/Construct-Construction Issue/Concern-Development Plans -Landscaping
+Property / Buildings / Construction,Construction Issue/Concern,Erosion - New Construction,Prop/Build/Construct-Construction Issue/Concern-Erosion - New Construction
+Property / Buildings / Construction,Construction Issue/Concern,Large Amount of Demolition Debris,Prop/Build/Construct-Construction Issue/Concern-Large Amount of Demo Debris
+Property / Buildings / Construction,Construction Issue/Concern,Mud / Silt on Street,Prop/Build/Construct-Construction Issue/Concern-Mud / Silt on street
+Property / Buildings / Construction,Construction Issue/Concern,Other,Prop/Build/Construct-Construction Issue/Concern-Other
+Property / Buildings / Construction,Construction Issue/Concern,Work Without Permit,Prop/Build/Construct-Construction Issue/Concern-Work without permit
+Property / Buildings / Construction,Dangerous Building,Emergency,Prop/Build/Construct-Dangerous Building-Emergency
+Property / Buildings / Construction,Dangerous Building,Open To Entry,Prop/Build/Construct-Dangerous Building-Open to entry
+Property / Buildings / Construction,Dangerous Building,Standard,Prop/Build/Construct-Dangerous Building-On list
+Property / Buildings / Construction,Elevator Inspection,City Facility,Prop/Build/Construct - Elevator Inspection - City Facility
+Property / Buildings / Construction,Elevator Inspection,Private / Commercial,Prop/Build/Construct-Elevator Inspection-Private / Commercial
+Property / Buildings / Construction,Land Use / Zoning Issue,Business In A Residence,Prop/Build/Construct-Land Use / Zoning Issue-Business in a residence
+Property / Buildings / Construction,Land Use / Zoning Issue,Excessive Yard Sale,Prop/Build/Construct-Land Use / Zoning Issue-Excessive Yard Sale
+Property / Buildings / Construction,Land Use / Zoning Issue,Floodplan Management,Prop/Build/Construct-Land Use / Zoning Issue-Floodplan Management
+Property / Buildings / Construction,Land Use / Zoning Issue,Miscellaneous Zoning,Prop/Build/Construct - Land Use / Zoning - Miscellaneous Zoning
+Property / Buildings / Construction,Land Use / Zoning Issue,Number of Dwelling Units,Prop/Build/Construct-Land Use / Zoning Issue-Number of Dwelling Units
+Property / Buildings / Construction,Land Use / Zoning Issue,Number of Residents,Prop/Build/Construct-Land Use / Zoning Issue-Number of Residents
+Property / Buildings / Construction,Land Use / Zoning Issue,Short Term Rental,Prop/Build/Construct-Land Use / Zoning-Short Term Rental
+Property / Buildings / Construction,Land Use / Zoning Issue,Unapproved Land Use,Prop/Build/Construct - Land Use / Zoning - Unapproved Land Use
+Property / Buildings / Construction,Parking Lot,Improper Surface,Prop/Build/Construct-Parking Lot - Surface
+Property / Buildings / Construction,Parking Lot,Improper Surface,Zoning Inspections and Violations
+Property / Buildings / Construction,Parking Lot,Number Parking Spaces,Prop/Build/Construct-Parking Lot-Parking Spaces
+Property / Buildings / Construction,Parking Lot,Number Parking Spaces,Sidewalks / Curbs / Ditch-Damage / Dis-Repair-Private Property
+Property / Buildings / Construction,Property Maintenance,DART,Prop/Build/Construct-Property Maintenance-DART
+Property / Buildings / Construction,Property Maintenance,Fence Issue,Property Violations
+Property / Buildings / Construction,Property Maintenance,Graffiti,Property Violations
+Property / Buildings / Construction,Property Maintenance,Land Bank,Issues on City Maintained Property
+Property / Buildings / Construction,Property Maintenance,Land Bank,Prop/Build/Construct-Property Maintenance-Land Bank
+Property / Buildings / Construction,Property Maintenance,Land Bank (Services),Prop/Build/Construct-Property Maintenance-Land Bank (Services)
+Property / Buildings / Construction,Property Maintenance,Main Structure,Property Violations
+Property / Buildings / Construction,Property Maintenance,No Utilities,Prop/Build/Construct-Property Maintenance-No Utilities
+Property / Buildings / Construction,Property Maintenance,Northeast Alliance,Prob/Build/Construct-Property Maintenance-Northeast
+Property / Buildings / Construction,Property Maintenance,Northland Neighborhoods INC,Prop/Build/Construct-Property Maintenance-NNI
+Property / Buildings / Construction,Property Maintenance,Other Property Issue,Property Violations
+Property / Buildings / Construction,Property Maintenance,Secondary Structure,Property Violations
+Property / Buildings / Construction,Property Maintenance,South Kansas City Alliance,Prop/Build/Construct-Property Maintenance-SKCA
+Property / Buildings / Construction,Services (CPD),Call Back Request,Prop/Build/Construct-Services (CPD)-Call Back Request
+Property / Buildings / Construction,Services (CPD),Feedback,Prop/Build/Construct-Services (CPD)-Feedback
+Property / Buildings / Construction,Services (CPD),Post Demo Issues,Prop/Build/Construct-Services (CPD)-Post Demo Issues
+Property / Buildings / Construction,Services (CPD),Question,Prop/Build/Construct-Services (CPD)-Question
+Property / Buildings / Construction,Services (CPD),Service Issue / Problem,Prop/Build/Construct-Services (CPD)-Service Issue / Problem
+Property / Buildings / Construction,Services (NPD),Call Back Request,Prop/Build/Construct-Services (NPD)-Call Back Request
+Property / Buildings / Construction,Services (NPD),Feedback,Prop/Build/Construct-Services (NPD)-Feedback
+Property / Buildings / Construction,Services (NPD),Hazardous Structure,Prop/Build/Construct-Services (NPD)-Hazardous Structure
+Property / Buildings / Construction,Services (NPD),Other Priority Issue,Property Violations
+Property / Buildings / Construction,Services (NPD),Question,Prop/Build/Construct-Services (NPD)-Question
+Property / Buildings / Construction,Services (NPD),Service Issue / Problem,Prop/Build/Construct-Services (NPD)-Service Issue / Problem
+Property Preservation,Barrier Removal Program,All,Barrier Removal Program
+Property Preservation,Minor Home Repair,All,Emergency Home Repair Program
+Property Preservation,Minor Home Repair,All,Minor Home Repair Program
+Property Preservation,Paint Program,All,Paint Program
+Property Preservation,Weatherization Program,All,Weatherization Program
+Property Violations,Board Up,All,Dangerous Building
+Property Violations,Board Up,All,Dangerous Building Emergency
+Property Violations,Board Up,All,Dangerous Building and Emergency Board Up
+Property Violations,Board Up,All,Hazardous Structure
+Property Violations,Board Up,All,Vacant Structure Open to Entry
+Property Violations,Private Property,Accelerated Abatement,Accelerated Abatement Program
+Property Violations,Private Property,All,Hazardous Structure
+Property Violations,Private Property,All,No Known Property Owner
+Property Violations,Private Property,All,Property Violations
+Property Violations,Private Property,All,Referral for Sewage on Private Property
+Property Violations,Private Property,No Known Property Owner,No Known Property Owner
+Property Violations,Private Property,No Known Property Owner,Property Violations
+Property Violations,Private Property,Priority Review,Property Violations
+Property Violations,Private Property,Snow on Sidewalk,Snow or Ice on Sidewalk
+Property Violations,Volunteer Inspector Program,All,Volunteer Inspection Program
+Public Health,Disease Control,All,Public Health-Disease Control-All
+Public Health,Disease Control,Business Question on Order,Public Health-Disease Control-Business Question
+Public Health,Food Establishment,Catering,Public Health-Food Establishment-Catering
+Public Health,Food Establishment,Convenience / Grocery Store,Public Health-Food Establishment-Convenience/Grocery Store
+Public Health,Food Establishment,Education / Health,Public Health-Food Establishment-Education / Health
+Public Health,Food Establishment,Food Truck,Public Health-Food Establishment-Food Truck
+Public Health,Food Establishment,Other,Public Health-Food Establishment-Other
+Public Health,Food Establishment,Restaurant,Public Health-Food Establishment-Restaurant
+Public Health,Hotel / Motel,Bedbugs,Public Health-Hotel / Motel-Bedbugs
+Public Health,Hotel / Motel,Other,Public Health-Hotel / Motel-Other
+Public Health,Hotel / Motel,Unsanitary Conditions,Public Health-Hotel / Motel-Unsanitary Conditions
+Public Health,Noise,All,Public Health-Noise-All
+Public Health,Noise,Construction,Public Health-Noise-Construction
+Public Health,Noise,Music,Public Health-Noise-Music
+Public Health,Noise,Music,Web SR - Health Code Violation
+Public Health,Noise,Other,Public Health-Noise-Other
+Public Health,Noise,Trash Truck,Public Health-Noise-Trash Truck
+Public Health,Noise,Vehicles,Public Health-Noise-Vehicles
+Public Health,Outdoor Air Quality,All,Public Health-Outdoor Air Quality-All
+Public Health,Pool / Hot Tub,Public,Public Health-Pool / Hot Tub-Public
+Public Health,Public Restroom,Other,Public Health-Public Restroom-Other
+Public Health,Public Restroom,Restaurant,Public Health-Public Restroom-Restaurant
+Public Health,Public Restroom,School,Public Health-Public Restroom-School
+Public Health,Services,Bedbugs,Public Health-Services-Bedbugs
+Public Health,Services,Call Back Request,Public Health-Services-Call Back Request
+Public Health,Services,Feedback,Public Health-Services-Feedback
+Public Health,Services,Healthy Homes Information,Public Health-Services-Healthy Homes Information
+Public Health,Services,Lead Poisoning Prevention Info,Public Health-Services-Lead Poisoning Prevention Info
+Public Health,Services,Pest Management Class,Public Health-Services-Pest Management Class
+Public Health,Services,Question,Public Health-Services-Question
+Public Health,Services,Service Issue / Problem,Public Health-Services-Service Issue / Problem
+Public Health,Smoking / Tobacco,Public Building,Public Health-Smoking / Tobacco-Public Building
+Public Health,Smoking / Tobacco,Restaurant,Public Health-Smoking / Tobacco-Restaurant
+Public Health,Smoking / Tobacco,Sales to Minors,Public Health-Smoking / Tobacco-Sales to minors
+Public Safety,Ambulance,Billing / Administration,Public Safety-Ambulance-Billing / Administration
+Public Safety,Emergency Management,Feedback,Public Safety-Emergency Management-Feedback
+Public Safety,Emergency Management,Weather Siren,Public Safety-Emergency Management-Weather Siren
+Public Safety,Fire,Carbon Monoxide,Public Safety-Fire-Carbon monoxide
+Public Safety,Fire,Fire Investigation,Public Safety-Fire-Fire Investigation
+Public Safety,Fire,Hazardous Materials,Public Safety-Fire-Hazardous materials
+Public Safety,Fire,New Smoke Alarm Request,Public Safety-Fire-New smoke alarm request
+Public Safety,Fire,Permit (Fireworks),Public Safety-Fire-Permit (Fireworks)
+Public Safety,Fire,Question / Feedback,Public Safety-Fire-Question / Feedback
+Public Safety,Fire,Smell or See Smoke,Public Safety-Fire-Smell or see smoke
+Public Safety,Municipal Court,Accommodations,Public Safety-Municipal Court-Accommodations
+Public Safety,Municipal Court,Address Change,Public Safety-Municipal Court-Address Change
+Public Safety,Municipal Court,Compliance Letter,Public Safety-Municipal Court-Compliance Letter
+Public Safety,Municipal Court,Continuance,Public Safety-Municipal Court-Continuance
+Public Safety,Municipal Court,Monetary Inquiries,Public Safety-Municipal Court-Monetary Inquiries
+Public Safety,Municipal Court,Probation,Public Safety-Municipal Court-Probation
+Public Safety,Municipal Court,Question / Feedback,Public Safety-Municipal Court-Question / Feedback
+Public Safety,Police,Homeless Camp,Public Safety-Police-Homeless camp
+Public Safety,Police,Other,Public Safety-Police-Other
+Public Safety,Regulated Industries,Adult Entertainment,Public Safety-Regulated Industries-Adult Entertainment
+Public Safety,Regulated Industries,Alcohol Business,Public Safety-Regulated Industries-Alcohol Business
+Public Safety,Regulated Industries,Amusement Business,Public Safety-Regulated Industries-Amusement Business
+Public Safety,Regulated Industries,Day Labor Business,Public Safety-Regulated Industries-Day Labor Business
+Public Safety,Regulated Industries,Question / Feedback,Public Safety-Regulated Industries-Question / Feedback
+Public Safety,Regulated Industries,Salvage and Scrap,Public Safety-Regulated Industries-Salvage and Scrap
+Public Safety,Regulated Industries,Tobacco Business,Public Safety-Regulated Industries-Tobacco Business
+Public Safety,Regulated Industries,Vehicle For Hire,Public Safety-Regulated Industries-Vehicle for hire
+Public Works,Administration,All,Public Works Administration
+Public Works,Administration,All,Solid Waste Customer Service
+Public Works,Administration,All,Trash - Solid Waste Customer Service
+Public Works,Administration,Street and Traffic,Public Works Administration
+Public Works,Bicycle Pedestrian,Route and Trail,Bicycle or Pedestrian Trail
+Public Works,Street and Traffic,Administration,Street and Traffic Administration
+Public Works,Street and Traffic,Project Planning,Project Planning for Streets and Traffic
+Public Works,Street and Traffic,Project Planning,Street and Traffic Administration
+Right of Way,Encroachment,*Select one,Additional Information Required
+Right of Way,Encroachment,*Select one,Violations and Encroachments on the Right of Way
+Right of Way,Encroachment,Basketball Goal,Violations and Encroachments on the Right of Way
+Right of Way,Encroachment,Other,Violations and Encroachments on the Right of Way
+Right of Way,Encroachment,Sign,Violations and Encroachments on the Right of Way
+Sealing,Street,District One,Crack Sealing (North of River)
+Sealing,Street,District Three,Crack Sealing (South of 47th Street)
+Sealing,Street,District Three,Crack Sealing -(South of 47th Street and West of Blue PKWY)
+Sealing,Street,District Three,Crack Sealing -(South of River to 47th Street and East of Blue PKWY)
+Sealing,Street,District Two,Crack Sealing (South of River to 47th Street and East of Blue PKWY)
+Sealing,Street,District Two,Crack Sealing (South of River to 47th Street)
+Sewer,All,All,Sewer Cleaning or Repair and Waste Water Concern
+Sewer,All,All,Sewer Water in Basement
+Sewer,All,All,Wastewater Code 1 - Referral
+Sewer,All,All,Wastewater Code 2 - Referral
+Sewer,All,All,Wastewater Code 3 - Referral
+Sewer,Cleaning,All,Sewer Cleaning or Deodorizing - Referral
+Sewer,Cleaning,All,Sewer Deodorizing - Referral
+Sewer,Investigation,All,Sewer Cleaning or Repair and Waste Water Concern
+Sewer,Investigation,Basement,Referral for Sewage on Private Property
+Sewer,Investigation,Basement,Sewer Water in Basement - Referral
+Sewer,Investigation,Initial,Sewer Cleaning or Repair and Waste Water Concern
+Sewer,Investigation,Initial,Sewer Investigation Referral
+Sewer,Investigation,Initial,Sewer Water in Basement - Referral
+Sewer,Investigation,Referral,Sewer Cleaning or Repair and Waste Water Concern
+Sewer,Investigation,Referral,Sewer Investigation Referral
+Sewer,Repair,Code 1,Wastewater Code 1 - Referral
+Sewer,Repair,General,Sewer Investigation and Repairs - Referral
+Sewer,Repair,General,Sewer Repair Referral
+Sewer,Repair,General,Sinkhole or Sewer Repair - Referral
+Sidewalk,Disrepair,Curb or Sidewalk,Sidewalk or Curb in Disrepair
+Sidewalk,Disrepair,Curb or Sidewalk,Sidewalk projects that are funded by GO Bond funds
+Sidewalk,Hazardous,Sidewalk,Sidewalk Hazardous
+Sidewalk,Hazardous,Sidewalk,Sidewalk to be replaced Due to City Project
+Sidewalk,Replacement,Sidewalk,Capital Projects Office
+Sidewalk,Replacement,Sidewalk,Sidewalk to be replaced Due to City Project
+Sidewalks / Curbs / Ditch,Damage / Dis-Repair,ADA,Sidewalks / Curbs / Ditch-Damage / Dis-Repair-ADA
+Sidewalks / Curbs / Ditch,Damage / Dis-Repair,City Property,Sidewalks / Curbs / Ditch-Damage / Dis-Repair-City
+Sidewalks / Curbs / Ditch,Damage / Dis-Repair,Park / Blvd / Pkwy,Sidewalks / Curbs / Ditch-Damage / Dis-Repair- Park / Blvd / Pkwy
+Sidewalks / Curbs / Ditch,Damage / Dis-Repair,Park / Blvd / Pkwy,Sidewalks / Curbs / Ditch-Damage / Dis-Repair-Blvd / Pkwy
+Sidewalks / Curbs / Ditch,Damage / Dis-Repair,Private Property (ROW),Sidewalks / Curbs / Ditch-Damage / Dis-Repair-Private Property
+Sidewalks / Curbs / Ditch,Damage / Dis-Repair,Replace - City Project,Sidewalks / Curbs / Ditch-Damage / Dis-Repair-Replace - City Project
+Sidewalks / Curbs / Ditch,Ditch,North,Sidewalks / Curbs / Ditch-Ditch-North
+Sidewalks / Curbs / Ditch,Ditch,South,Sidewalks / Curbs / Ditch-Ditch-South
+Sidewalks / Curbs / Ditch,New Request,Blvd / Pkwy / Park,Sidewalks / Curbs / Ditch-New Request-Blvd / Pkwy / Park
+Sidewalks / Curbs / Ditch,New Request,City Street,Sidewalks / Curbs / Ditch-New Request-City Street
+Sidewalks / Curbs / Ditch,Obstructed / Closure,ADA,Sidewalks / Curbs / Ditch-Obstructed / Closure-ADA
+Sidewalks / Curbs / Ditch,Obstructed / Closure,Blocked,Sidewalks / Curbs / Ditch-Obstructed / Closure-Blocked
+Sidewalks / Curbs / Ditch,Obstructed / Closure,Ramp,Sidewalks / Curbs / Ditch-Obstructed / Closure-Ramp
+Sidewalks / Curbs / Ditch,Park Property,Central,Sidewalk/Curb/Ditch-Park Property-Central
+Sidewalks / Curbs / Ditch,Park Property,North,Sidewalk/Curb/Ditch-Park Property-North
+Sidewalks / Curbs / Ditch,Park Property,South,Sidewalk/Curb/Ditch-Park Property-South
+Sidewalks / Curbs / Ditch,Snow / Ice,Bridge,Sidewalks / Curbs / Ditch-Snow / Ice-Bridge
+Sidewalks / Curbs / Ditch,Snow / Ice,City Owned,Sidewalks / Curbs / Ditch-Snow / Ice-City Owned
+Sidewalks / Curbs / Ditch,Snow / Ice,Commercial,Property Violations
+Sidewalks / Curbs / Ditch,Snow / Ice,Park - Central,Sidewalks / Curbs / Ditch-Snow / Ice-Park - Central
+Sidewalks / Curbs / Ditch,Snow / Ice,Park - North,Sidewalks / Curbs / Ditch-Snow / Ice-Park - North
+Sidewalks / Curbs / Ditch,Snow / Ice,Park - South,Sidewalks / Curbs / Ditch-Snow / Ice-Park - South
+Sidewalks / Curbs / Ditch,Snow / Ice,Private Property,Property Violations
+Sidewalks / Curbs / Ditch,Unapproved Objects,Basketball Hoop / Goal,Sidewalks / Curbs / Ditch-Unapproved Objects-Basketball Hoop/Goal
+Sidewalks / Curbs / Ditch,Unapproved Objects,Landscaping,Sidewalks / Curbs / Ditch-Unapproved Objects-Landscaping
+Sidewalks / Curbs / Ditch,Unapproved Objects,Merchandise,Sidewalks / Curbs / Ditch-Unapproved Objects-Merchandise
+Sidewalks / Curbs / Ditch,Unapproved Objects,Other,Sidewalks / Curbs / Ditch-Unapproved Objects-Other
+Signal,Damage,Signal,"Traffic Signal Pole Damage, Rust, Vandalism"
+Signal,Malfunction,Signal,Traffic Signal Malfunction
+Signal,Malfunction,Signal,Traffic Signal Out
+Signal,Outage,Signal,Traffic Signal Malfunction
+Signal,Outage,Signal,Traffic Signal Out
+Signs,Banners,Removal,Signs/Banners/Removal
+Signs,Commercial Signs / Ads,Billboard,Signs-Commercial Signs / Ads-Banner / Billboard
+Signs,Commercial Signs / Ads,In Right-Of-Way,Signs-Commercial Signs / Ads-In Right-Of-Way
+Signs,No Dumping Sign,District 1,Signs-No Dumping Sign-District 1
+Signs,No Dumping Sign,District 2,Signs-No Dumping Sign-District 2
+Signs,No Dumping Sign,District 3,Signs-No Dumping Sign-District 3
+Signs,Street Name Signs,Down / Damaged,Signs-Street Name Signs-Down / Damaged
+Signs,Street Name Signs,Graffiti,Signs-Street Name Signs-Graffiti
+Signs,Street Name Signs,Honorary/Renaming,Signs-Street Name Signs-Honorary/Renaming
+Signs,Street Name Signs,Missing,Signs-Street Name Signs-Missing
+Signs,Street Name Signs,New Sign Request,Signs-Street Name Signs-New Sign Request
+Signs,Street Name Signs,Remove Sign,Signs-Street Name Signs-Remove Sign
+Signs,Traffic Sign,Bike Route,Signs-Traffic Sign-Bike Route
+Signs,Traffic Sign,Damaged - Emergency,Signs-Traffic Sign-Damaged – Emergency
+Signs,Traffic Sign,Damaged - Non-Emergency,Signs-Traffic Sign-Damaged – Non-Emergency
+Signs,Traffic Sign,Graffiti,Signs-Traffic Sign-Graffiti
+Signs,Traffic Sign,Missing - Emergency,Signs-Traffic Sign-Missing – Emergency
+Signs,Traffic Sign,Missing - Non-Emergency,Signs-Traffic Sign-Missing – Non-Emergency
+Signs,Traffic Sign,New Sign Installation,Signs-Traffic Sign-New Sign Installation
+Signs,Traffic Sign,New Sign Request,Signs-Traffic Sign-New Sign Request
+Signs,Traffic Sign,Remove Sign,Signs-Traffic Sign-Remove Sign
+Snow & Ice,Administration,Administration,Snow and Ice Administration
+Snow & Ice,Street,District One,Snow or Ice on Street (North of River)
+Snow & Ice,Street,District One,Snow or Ice on Street District 1
+Snow & Ice,Street,District One,Snow or Ice on Street District 2
+Snow & Ice,Street,District One,Snow or Ice on Street District 3
+Snow & Ice,Street,District Three,Snow or Ice on Street (South of 47th Street and West of Blue PKWY)
+Snow & Ice,Street,District Three,Snow or Ice on Street (South of 47th Street)
+Snow & Ice,Street,District Three,Snow or Ice on Street District 3
+Snow & Ice,Street,District Two,Snow or Ice on Street (North of River)
+Snow & Ice,Street,District Two,Snow or Ice on Street (South of River to 47th Street and East of Blu
+Snow & Ice,Street,District Two,Snow or Ice on Street (South of River to 47th Street)
+Snow & Ice,Street,District Two,Snow or Ice on Street District 1
+Snow & Ice,Street,District Two,Snow or Ice on Street District 2
+Snow & Ice,Street,District Two,Snow or Ice on Street District 3
+Steel Plate,Street,Hazard,Plate Hazard
+Steel Plate,Street,Utility Cut,Metal Plate in Street (North of River)
+Steel Plate,Street,Utility Cut,Metal Plate in Street (South of 47th Street)
+Steel Plate,Street,Utility Cut,Metal Plate in Street (South of River to 47th Street)
+Steel Plate,Street,Utility Cut,Plate Hazard
+Steel Plate,Street,Utility Cut,Plate in Street
+Steel Plate,Street,Utility Cut,Street Maintenance General (South of 47th Street)
+Storm Water,Catch Basin,All,Catch Basins and Storm Water Concerns
+Storm Water,Street Sweeping,All,Street Sweeping Citywide
+Storm Water / Sewer,Construction Repair,Referral,Storm Water / Sewer - Construction Repair - Referral
+Storm Water / Sewer,Culvert,North,Storm Water / Sewer-Culvert-North
+Storm Water / Sewer,Culvert,North,Stormwater-Culvert-North
+Storm Water / Sewer,Culvert,South,Storm Water / Sewer-Culvert-South
+Storm Water / Sewer,Culvert,South,Stormwater-Culvert-South
+Storm Water / Sewer,Flood Barricade,Parks Barricade,Storm Water / Sewer - Flood - Parks Barricade
+Storm Water / Sewer,Flood Barricade,Parks Barricade,Stormwater - Flood - Parks Barricade
+Storm Water / Sewer,Flood Barricade,Public Works Barricade,Storm Water / Sewer - Flood - Public Works Barricade
+Storm Water / Sewer,Flood Barricade,Public Works Barricade,Stormwater - Flood - Public Works Barricade
+Storm Water / Sewer,Flood Barricade,Water Service Barricade,Storm Water / Sewer - Flood - Water Services Barricade
+Storm Water / Sewer,Flood Barricade,Water Service Barricade,Stormwater - Flood - Water Services Barricade
+Storm Water / Sewer,Improved Channel,Clogged / Debris,Storm Water / Sewer-Improved Channel-Clogged / Debris
+Storm Water / Sewer,Improved Channel,Clogged / Debris,Stormwater-Improved Channel-Clogged / Debris
+Storm Water / Sewer,Improved Channel,Damaged,Storm Water / Sewer-Improved Channel-Damaged
+Storm Water / Sewer,Improved Channel,Damaged,Stormwater-Improved Channel-Damaged
+Storm Water / Sewer,Manhole,Missing / Broken,Sewer-Manhole-Missing / Broken
+Storm Water / Sewer,Manhole,Missing / Broken,Storm Water / Sewer-Manhole-Missing / Broken
+Storm Water / Sewer,Services,Call Back Request,Storm Water / Sewer-Services-Call Back Request
+Storm Water / Sewer,Services,Call Back Request,Stormwater / Sewer-Services-Call Back Request
+Storm Water / Sewer,Services,Feedback,Storm Water / Sewer-Services-Feedback
+Storm Water / Sewer,Services,Feedback,Stormwater / Sewer-Services-Feedback
+Storm Water / Sewer,Services,Question,Storm Water / Sewer-Services-Question
+Storm Water / Sewer,Services,Service Issue / Problem,Storm Water / Sewer-Services-Service Issue / Problem
+Storm Water / Sewer,Services,Service Issue / Problem,Stormwater / Sewer-Services-Service Issue / Problem
+Storm Water / Sewer,Services,Sewer Restoration,Sewer - Services - Sewer Restoration
+Storm Water / Sewer,Services,Sewer Restoration,Storm Water / Sewer - Services - Sewer Restoration
+Storm Water / Sewer,Sewer Backup / Leak,From Manhole,Sewer-Sewer Backup / Leak-From Manhole
+Storm Water / Sewer,Sewer Backup / Leak,From Manhole,Storm Water / Sewer-Sewer Backup / Leak-From Manhole
+Storm Water / Sewer,Sewer Backup / Leak,In A House,Sewer-Sewer Backup / Leak-In a house
+Storm Water / Sewer,Sewer Backup / Leak,In A House,Storm Water / Sewer-Sewer Backup / Leak-In a house
+Storm Water / Sewer,Sewer Backup / Leak,Outside,Sewer-Sewer Backup / Leak-Outside
+Storm Water / Sewer,Sewer Backup / Leak,Outside,Storm Water / Sewer-Sewer Backup / Leak-Outside
+Storm Water / Sewer,Sewer Backup / Leak,Owner‘s Responsibility,Property Violations
+Storm Water / Sewer,Sewer Backup / Leak,Owner‘s Responsibility,Sewer - Sewer Backup - Owner Responsibility
+Storm Water / Sewer,Sewer Backup / Leak,Treatment Plant,Sewer-Sewer Backup / Leak-Treatment Plant
+Storm Water / Sewer,Sewer Backup / Leak,Treatment Plant,Storm Water / Sewer-Sewer Backup / Leak-Treatment Plant
+Storm Water / Sewer,Sewer Odor,Indoor,Sewer-Sewer Odor-Indoor
+Storm Water / Sewer,Sewer Odor,Indoor,Storm Water / Sewer-Sewer Odor-Indoor
+Storm Water / Sewer,Sewer Odor,Outdoor,Sewer-Sewer Odor-Outdoor
+Storm Water / Sewer,Sewer Odor,Outdoor,Storm Water / Sewer-Sewer Odor-Outdoor
+Storm Water / Sewer,Sewer Referral,Basement,Storm Water / Sewer-Sewer Referral-Basement
+Storm Water / Sewer,Sewer Referral,Investigation,Sewer-Sewer Referral-Investigation
+Storm Water / Sewer,Sewer Referral,Investigation,Storm Water / Sewer-Sewer Referral-Investigation
+Storm Water / Sewer,Sewer Referral,Private Line Repair,Sewer-Sewer Referral-Private Line
+Storm Water / Sewer,Sewer Referral,Private Line Repair,Storm Water / Sewer-Sewer Referral-Private Line
+Storm Water / Sewer,Sewer Referral,Repair,Sewer-Sewer Referral-Repair
+Storm Water / Sewer,Sewer Referral,Repair,Storm Water / Sewer-Sewer Referral-Repair
+Storm Water / Sewer,Sewer Referral,Restoration,Sewer-Sewer Referral-Restoration
+Storm Water / Sewer,Sewer Referral,Restoration,Storm Water / Sewer-Sewer Referral-Restoration
+Storm Water / Sewer,Sewer Referral,Restoration Issue,Sewer-Sewer Referral-Restoration Issue
+Storm Water / Sewer,Sewer Referral,Restoration Issue,Storm Water / Sewer-Sewer Referral-Restoration Issue
+Storm Water / Sewer,Sinkhole,Sidewalk,Sewer-Sinkhole-Sidewalk
+Storm Water / Sewer,Sinkhole,Sidewalk,Storm Water / Sewer-Sinkhole-Sidewalk
+Storm Water / Sewer,Sinkhole,Street,Sewer-Sinkhole-Street
+Storm Water / Sewer,Sinkhole,Street,Storm Water / Sewer-Sinkhole-Street
+Storm Water / Sewer,Sinkhole,Yard,Sewer-Sinkhole-Yard
+Storm Water / Sewer,Sinkhole,Yard,Storm Water / Sewer-Sinkhole-Yard
+Storm Water / Sewer,Storm Drain / Catch Basin,Clogged / Over-Flow,Storm Water / Sewer-Storm Drain / Catch Basin-Clogged / Over-Flow
+Storm Water / Sewer,Storm Drain / Catch Basin,Clogged / Over-Flow,Storm Water-Storm Drain / Catch Basin-Clogged / Over-Flow
+Storm Water / Sewer,Storm Drain / Catch Basin,Clogged / Over-Flow,Stormwater-Storm Drain / Catch Basin-Clogged / Over-Flow
+Storm Water / Sewer,Storm Drain / Catch Basin,Damaged / Broken,Storm Water / Sewer-Storm Drain / Catch Basin-Damaged / Broken
+Storm Water / Sewer,Storm Drain / Catch Basin,Damaged / Broken,Stormwater-Storm Drain / Catch Basin-Damaged / Broken
+Storm Water / Sewer,Storm Drain / Catch Basin,Dropped Personal Item,Storm Water / Sewer-Storm Drain / Catch Basin-Dropped Personal Item
+Storm Water / Sewer,Storm Drain / Catch Basin,Dropped Personal Item,Stormwater-Storm Drain / Catch Basin-Dropped Personal Item
+Storm Water / Sewer,Storm Water Referral,Creek/Green Solution,Storm Water / Sewer-Storm Referral-Creek/Green Solution
+Storm Water / Sewer,Storm Water Referral,Investigation,Storm / Sewer-Stormwater Referral-Investigation
+Storm Water / Sewer,Storm Water Referral,Investigation,Stormwater-Stormwater Referral-Investigation
+Storm Water / Sewer,Storm Water Referral,Repair,Storm / Sewer-Storm Water Referral-Repair
+Storm Water / Sewer,Storm Water Referral,Repair,Stormwater-Stormwater Referral-Repair
+Storm Water / Sewer,Storm Water Referral,Restoration Issue,Storm Water / Sewer-Stormwater Referral-Restoration
+Storm Water / Sewer,Storm Water Referral,Restoration Issue,Stormwater-Stormwater Referral-Restoration
+Street,Street Preservation,Street Resurfacing,Street Preservation or Overlay
+Street Light,Damage,Pole,SLA0 Streetlight Pole Down or Leaning
+Street Light,Damage,Street Light,SLP0 Streetlight Miscellaneous
+Street Light,Damage,Street Light,"Street Light Pole Damage, Rust, Vandalism"
+Street Light,Damage,Street Light,Street Light Restoration Referral
+Street Light,Damage,Wire or Arm,SLB0 Streetlight Wire Down or Hanging Arm
+Street Light,Malfunction,Blinking Off and On,SLG1 Streetlight Blinking Off and On
+Street Light,Malfunction,Day Burn,SLG2 Streetlight Burning During Day
+Street Light,Malfunction,Street Light,SLQ0 Streetlight Problem Identification Referral
+Street Light,Malfunction,Street Light,Street Light Malfunctioning
+Street Light,New,StreetLight,Street Light New
+Street Light,Outage,Multiple,SLD0 Streetlight Out - Multiple Outage of Five or More
+Street Light,Outage,Multiple,SLG0 Streetlight Out - Single Light Out
+Street Light,Outage,Multiple,SLG3 Streetlights Out - Two to Four Lights
+Street Light,Outage,Single,SLG0 Streetlight Out - Single Light Out
+Street Light,Outage,Street Light,Street Light Out
+Street Light,Outage,Two to Four,SLG0 Streetlight Out - Single Light Out
+Street Light,Outage,Two to Four,SLG3 Streetlights Out - Two to Four Lights
+Street Sign,Damage,Sign,Sign Missing or Damaged - Non-emergency
+Street Sign,Damage,Sign,Street Sign Damage
+Street Sign,Damage,Sign,Web SR - Street Maintenance / Snow
+Street Sign,Missing,Sign,Sign Missing
+Street Sign,Missing,Sign,Sign Missing or Damaged - Non-emergency
+Street Sign,Missing,Sign,Street Sign Damage
+Street Sign,Missing,Sign,Street Sign Missing
+Streets / Roadways / Alleys,Broken Asphalt,Blvd / Pkwy,Streets / Roadways / Alleys-Broken Asphalt-Blvd / Pkwy
+Streets / Roadways / Alleys,Broken Asphalt,Bridge,Streets / Roadways / Alleys-Broken Asphalt-Bridge
+Streets / Roadways / Alleys,Broken Asphalt,District 1,Streets / Roadways / Alleys-Broken Asphalt-District 1
+Streets / Roadways / Alleys,Broken Asphalt,District 2,Streets / Roadways / Alleys-Broken Asphalt-District 2
+Streets / Roadways / Alleys,Broken Asphalt,District 3,Streets / Roadways / Alleys-Broken Asphalt-District 3
+Streets / Roadways / Alleys,Crack,Bridge,Streets / Roadways / Alleys-Crack-Bridge
+Streets / Roadways / Alleys,Crack,District 1,Streets / Roadways / Alleys-Crack-District 1
+Streets / Roadways / Alleys,Crack,District 2,Streets / Roadways / Alleys-Crack-District 2
+Streets / Roadways / Alleys,Crack,District 3,Streets / Roadways / Alleys-Crack-District 3
+Streets / Roadways / Alleys,Cut / Permit,Blvd / Pkwy,Streets / Roadways / Alleys-Cut / Permit-Blvd / Pkwy
+Streets / Roadways / Alleys,Cut / Permit,District 1,Streets / Roadways / Alleys-Cut / Permit-District 1
+Streets / Roadways / Alleys,Cut / Permit,District 2,Streets / Roadways / Alleys-Cut / Permit-District 2
+Streets / Roadways / Alleys,Cut / Permit,District 3,Streets / Roadways / Alleys-Cut / Permit-District 3
+Streets / Roadways / Alleys,Guardrail,Blvd / Pkwy,Streets / Roadways / Alleys-Guardrail-Blvd / Pkwy
+Streets / Roadways / Alleys,Guardrail,Bridge,Streets / Roadways / Alleys-Guardrail-Bridge
+Streets / Roadways / Alleys,Guardrail,District 1,Streets / Roadways / Alleys-Guardrail-District 1
+Streets / Roadways / Alleys,Guardrail,District 2,Streets / Roadways / Alleys-Guardrail-District 2
+Streets / Roadways / Alleys,Guardrail,District 3,Streets / Roadways / Alleys-Guardrail-District 3
+Streets / Roadways / Alleys,Markings / Paint,Bike Lanes,Streets / Roadways / Alleys-Markings / Paint-Bike lanes
+Streets / Roadways / Alleys,Markings / Paint,Crosswalk,Streets / Roadways / Alleys-Markings / Paint-Crosswalk
+Streets / Roadways / Alleys,Markings / Paint,Lane Lines,Streets / Roadways / Alleys-Markings / Paint-Lane lines
+Streets / Roadways / Alleys,Markings / Paint,New Marking Request,Streets / Roadways / Alleys-Markings / Paint-New Marking Request
+Streets / Roadways / Alleys,Markings / Paint,Turn Lanes,Streets / Roadways / Alleys-Markings / Paint-Turn lanes
+Streets / Roadways / Alleys,Obstructed / Closure,Detour,Streets / Roadways / Alleys-Obstructed / Closure-Detour
+Streets / Roadways / Alleys,Obstructed / Closure,Event / Closure Request,Streets / Roadways / Alleys-Obstructed / Closure-Event / Closure Request
+Streets / Roadways / Alleys,Obstructed / Closure,Lane Closed,Streets / Roadways / Alleys-Obstructed / Closure-Lane Closed
+Streets / Roadways / Alleys,Obstructed / Closure,Marathon/Run/Race,Street/Roadway/Alley - Obstructed / Closure - Marathon/Run/Race
+Streets / Roadways / Alleys,Obstructed / Closure,Road Closed,Streets / Roadways / Alleys-Obstructed / Closure-Road Closed
+Streets / Roadways / Alleys,Other-Maintenance,District 1,Streets/Roadways/Alleys-Other Maintenance-District 1
+Streets / Roadways / Alleys,Other-Maintenance,District 2,Streets/Roadways/Alleys-Other Maintenance-District 2
+Streets / Roadways / Alleys,Other-Maintenance,District 3,Streets/Roadways/Alleys-Other Maintenance-District 3
+Streets / Roadways / Alleys,Plate,Loose,Streets / Roadways / Alleys-Plate-Loose
+Streets / Roadways / Alleys,Plate,Missing / Displaced,Streets / Roadways / Alleys-Plate-Missing / Displaced
+Streets / Roadways / Alleys,Plate,Request,Streets / Roadways / Alleys-Plate-Request
+Streets / Roadways / Alleys,Pothole,Blvd / Pkwy,Streets / Roadways / Alleys-Pothole-Blvd / Pkwy
+Streets / Roadways / Alleys,Pothole,Bridge,Streets / Roadways / Alleys-Pothole-Bridge
+Streets / Roadways / Alleys,Pothole,District 1,Streets / Roadways / Alleys-Pothole-District 1
+Streets / Roadways / Alleys,Pothole,District 2,Streets / Roadways / Alleys-Pothole-District 2
+Streets / Roadways / Alleys,Pothole,District 3,Streets / Roadways / Alleys-Pothole-District 3
+Streets / Roadways / Alleys,Resurfacing,District 1,Streets / Roadways / Alleys-Resurfacing-District 1
+Streets / Roadways / Alleys,Resurfacing,District 2,Streets / Roadways / Alleys-Resurfacing-District 2
+Streets / Roadways / Alleys,Resurfacing,District 3,Streets / Roadways / Alleys-Resurfacing-District 3
+Streets / Roadways / Alleys,Resurfacing,Service Issue / Problem,Streets / Roadways / Alleys-Resurfacing-Service Issue / Problem
+Streets / Roadways / Alleys,Sinkhole Referral,District 1,Streets / Roadways / Alleys-Sinkhole Referral-District 1
+Streets / Roadways / Alleys,Sinkhole Referral,District 2,Streets / Roadways / Alleys-Sinkhole Referral-District 2
+Streets / Roadways / Alleys,Sinkhole Referral,District 3,Streets / Roadways / Alleys-Sinkhole Referral-District 3
+Streets / Roadways / Alleys,Snow / Ice,District 1,Streets / Roadways / Alleys-Snow / Ice-District 1
+Streets / Roadways / Alleys,Snow / Ice,District 2,Streets / Roadways / Alleys-Snow / Ice-District 2
+Streets / Roadways / Alleys,Snow / Ice,District 3,Streets / Roadways / Alleys-Snow / Ice-District 3
+Streets / Roadways / Alleys,Snow / Ice,Feedback,Streets / Roadways / Alleys-Snow / Ice-Feedback
+Streets / Roadways / Alleys,Snow / Ice,Snow Blocking Drive or Sidewalk,Street/Roadway/Alley-Snow / Ice-Snow Blocking Drive
+Streets / Roadways / Alleys,Snow / Ice,Snow Route Verification,Streets/Roadways/Alleys-Snow / Ice-Snow Verify List
+Streets / Roadways / Alleys,Speed Bump,Removal,Streets / Roadways / Alleys-Speed Bump-Removal
+Streets / Roadways / Alleys,Speed Bump,Request New,Streets / Roadways / Alleys-Speed Bump-Request New
+Streets / Roadways / Alleys,Street Clean Up,Bike Route,Streets / Roadways / Alleys-Street Clean Up-Bike Route
+Streets / Roadways / Alleys,Street Clean Up,Blvd / Pkwy - Central,Streets / Roadways / Alleys-Street Clean Up-Blvd / Pkwy - Central
+Streets / Roadways / Alleys,Street Clean Up,Blvd / Pkwy - North,Streets / Roadways / Alleys-Street Clean Up-Blvd / Pkwy - North
+Streets / Roadways / Alleys,Street Clean Up,Blvd / Pkwy - South,Streets / Roadways / Alleys-Street Clean Up-Blvd / Pkwy - South
+Streets / Roadways / Alleys,Street Clean Up,Bridge,Streets / Roadways / Alleys-Street Clean Up-Bridge
+Streets / Roadways / Alleys,Street Clean Up,District 1,Streets / Roadways / Alleys-Street Clean Up-District 1
+Streets / Roadways / Alleys,Street Clean Up,District 2,Streets / Roadways / Alleys-Street Clean Up-District 2
+Streets / Roadways / Alleys,Street Clean Up,District 3,Streets / Roadways / Alleys-Street Clean Up-District 3
+Streets / Roadways / Alleys,Street Clean Up,Sweeping Schedule,Streets / Roadways / Alleys-Street Clean Up-Sweeping Schedule
+Streets / Roadways / Alleys,Street Services,Call Back Request,Streets / Roadways / Alleys-Street Services-Call Back Request
+Streets / Roadways / Alleys,Street Services,Feedback,Streets / Roadways / Alleys-Street Services-Feedback
+Streets / Roadways / Alleys,Street Services,Question,Streets / Roadways / Alleys-Street Services-Question
+Streets / Roadways / Alleys,Street Services,Service Issue / Problem,Streets / Roadways / Alleys-Street Services-Service Issue / Problem
+Streets / Roadways / Alleys,Street Services,Street Permit Research,Streets / Roadways / Alleys-Street Services-Street Permit Research
+Streets / Roadways / Alleys,Street Services,Traffic Study Request,Streets / Roadways / Alleys-Street Services-Traffic Study Request
+Streets / Roadways / Alleys,Street Services,Traffic Video Request,Streets / Roadways / Alleys-Street Services-Traffic Video Request
+Sweeping,Street,District One,Street Sweeping (North of River)
+Sweeping,Street,District Three,Street Sweeping (South of 47th Street)
+Sweeping,Street,District Two,Street Sweeping (South of River to 47th Street)
+Sweeping,Street,District Two,Street Sweeping Citywide
+Traffic Sign,Damage,Sign,Traffic Sign Damage
+Traffic Sign,Missing,Sign,Traffic Sign Damage
+Traffic Sign,Missing,Sign,Traffic Sign Down or Missing
+Traffic Sign,Missing,Sign,Traffic Sign Down or Missing - Emergency
+Traffic Study,Traffic Study,Traffic,Traffic Engineering and Traffic Studies
+Traffic Study,Traffic Study,Traffic,"Traffic Study for Signs, Reduced Speed, Signal, Crosswalk"
+Trash,Animal,Dead,Dead Animal Pick-up
+Trash,Bulky,Address Will Not Validate,Bulky Address Validation
+Trash,Bulky,Appointment,Bulky Appointment
+Trash,Bulky,Appointment,Bulky Pick-up Missed
+Trash,Bulky,Flood,Bulky Pick Up Due to Flood Damage
+Trash,Bulky,Missed,Bulky Pick-up Missed
+Trash,Bulky,Missed,Trash-Missed Bulky
+Trash,City,Missed,Trash - Missed by City
+Trash,City,Missed,Trash was missed for Tuesday pickup for 2 bags.
+Trash,City Property,All,Cleaning City Property
+Trash,Contractor,All,Trash - Missed by Contractor
+Trash,Contractor,North,Trash Missed by Contractor North
+Trash,Contractor,South,Trash Missed by Contractor South
+Trash,Contractor,South,Trash Recycle Missed by Contractor South
+Trash,Customer Service,Negative Comments,Staff Complaints for Solid Waste
+Trash,Customer Service,Negative Comments,Trash - Staff Complaints for Solid Waste
+Trash,Customer Service,Positive Comments,Staff Compliments for Solid Waste
+Trash,Customer Service,Positive Comments,Trash-Staff Compliments for Solid Waste
+Trash,Illegal Dumping,All,Illegal Dumping on Property
+Trash,Illegal Dumping,NCS Referral,Referral for Abatement of Illegal Dumping
+Trash,Investigation,Six-plex or less,Trash - Multi Unit Investigation
+Trash,Investigation,Six-plex or less,Trash Multi Unit Investigation
+Trash,Land Trust,All,Cleaning vacant Land Trust Lots
+Trash,Land Trust,All,Mowing on Land Trust Lots
+Trash,Leaf & Brush,Missed,Leaf and Brush Pick-up Missed
+Trash,Leaf & Brush,Missed,Trash-Leaf and Brush Pick-up Missed
+Trash,Recycle,Bin Replacement or Damage,Recycle Bin Damaged
+Trash,Recycle,Bin Replacement or Damage,Recycle Bin New Service
+Trash,Recycle,Bin Replacement or Damage,Trahs-Recycle Bin Damaged
+Trash,Recycle,Bin Replacement or Damage,Trahs-Recycle Bin New Service
+Trash,Recycle,Bin Replacement or Damage,Trash - Recycle Bin Damaged
+Trash,Recycle,Bin Replacement or Damage,Trash - Recycle Bin New Service
+Trash,Recycle,City,Trash Recycling Missed by City
+Trash,Recycle,Contractor,Trash Recycling Missed by Contractor
+Trash,Recycle,Missed,Recycling Missed
+Trash,Recycle,Missed,Trash-Recycling Missed
+Trash,Recycle,North Contractor,Trash Recycle Missed by Contractor North
+Trash,Recycle,South Contractor,Trash Recycle Missed by Contractor South
+Trash,Right of Way,All,Illegal Dumping on Right of Way
+Trash,Right of Way,All,Mowing on Land Trust Lots
+Trash,Roll-out Cart,All,Trash - Roll-Out Cart Administration
+Trash,Roll-out Cart,All,Trash - Roll-out Cart Damaged or Broken
+Trash,Roll-out Cart,All,Trash - Roll-out Cart Missing
+Trash,Roll-out Cart,All,Trash Cart Damaged
+Trash,Roll-out Cart,All,Trash Cart Missing
+Trash,Roll-out Cart,All,Trash Roll Out Cart Damaged or Missing
+Trash,Roll-out Cart,All,Trash Roll Out Cart Missing
+Trash,Roll-out Cart,Damaged,Trash Cart Damaged
+Trash,Roll-out Cart,Missing,Trash Cart Missing
+Trash,Salvage Yard Investigation,All,Salvage Yard Investigation
+Trash,Storm Clean Up,All,Trash Storm Cleanup
+Trash,Storm Clean Up,East,Storm Damage East
+Trash / Recycling,Bulky Pick Up,Address Validation,Trash / Recycling-Bulky Pick Up -Address Validation
+Trash / Recycling,Bulky Pick Up,Missed Pick Up,Trash / Recycling-Bulky Pick Up -Missed Pick Up
+Trash / Recycling,Dumping,Alley - Public Works - District 1,Trash / Recycling - Dumping - Alley - D1
+Trash / Recycling,Dumping,Alley - Public Works - District 1,Trash / Recycling-Dumping-Alley
+Trash / Recycling,Dumping,Alley - Public Works - District 2,Trash / Recycling - Dumping - Alley - D2
+Trash / Recycling,Dumping,Alley - Public Works - District 3,Trash / Recycling - Dumping - Alley - D3
+Trash / Recycling,Dumping,Camera Request,Trash / Recycling-Dumping-Camera Request
+Trash / Recycling,Dumping,Landlord Set Out,Trash / Recycling-Dumping-Landlord Set Out
+Trash / Recycling,Dumping,Park - Central,Trash / Recycling-Dumping-Park - Central
+Trash / Recycling,Dumping,Park - North,Trash / Recycling-Dumping-Park - North
+Trash / Recycling,Dumping,Park - South,Trash / Recycling-Dumping-Park - South
+Trash / Recycling,Dumping,Private Property,Trash / Recycling-Dumping-Private Property
+Trash / Recycling,Dumping,Right of Way Central,Trash / Recycling-Dumping-ROW Central
+Trash / Recycling,Dumping,Right of Way LB Central,Trash / Recycling-Dumping-ROW Land Bank Central
+Trash / Recycling,Dumping,Right of Way LB North,Trash / Recycling-Dumping-ROW Land Bank North
+Trash / Recycling,Dumping,Right of Way LB South,Trash / Recycling-Dumping-ROW Land Bank South
+Trash / Recycling,Dumping,Right of Way North,Trash / Recycling-Dumping-ROW North
+Trash / Recycling,Dumping,Right of Way South,Trash / Recycling-Dumping-ROW South
+Trash / Recycling,Dumping,Right-Of-Way,Trash / Recycling-Dumping-Right of Way
+Trash / Recycling,Dumping,Right-Of-Way,Trash / Recycling-Dumping-Right of Way (ROW)
+Trash / Recycling,Dumping,Solid Waste Referral,Trash / Recycling-Dumping-Solid Waste Referral
+Trash / Recycling,Dumpsters,Dumpster Request,Trash / Recycling-Dumpsters-Dumpster Request
+Trash / Recycling,Dumpsters,Private Property,Property Violations
+Trash / Recycling,Dumpsters,Street / Alley / ROW,Trash / Recycling-Dumpsters-Street / Alley / ROW
+Trash / Recycling,Early Set Out,Central,Trash / Recycling-Early Set Out-Central
+Trash / Recycling,Early Set Out,North,Trash / Recycling-Early Set Out-North
+Trash / Recycling,Early Set Out,South,Trash / Recycling-Early Set Out-South
+Trash / Recycling,Landlord Set Out,Central,Trash / Recycling-Landlord Set Out-Central
+Trash / Recycling,Landlord Set Out,North,Trash / Recycling-Landlord Set Out-North
+Trash / Recycling,Landlord Set Out,South,Trash / Recycling-Landlord Set Out-South
+Trash / Recycling,Leaf / Brush,Dumping in Street,Trash / Recycling-Leaf / Brush-Dumping in Street
+Trash / Recycling,Leaf / Brush,Friday - Central,Trash/Recycling - Leaf/Brush - Friday - Central
+Trash / Recycling,Leaf / Brush,Friday - North,Trash/Recycling - Leaf/Brush - Friday - North
+Trash / Recycling,Leaf / Brush,Friday - North,Trash/Recycling - Leaf/Brush - Monday - Central
+Trash / Recycling,Leaf / Brush,Friday - South,Trash/Recycling - Leaf/Brush - Friday - South
+Trash / Recycling,Leaf / Brush,Leaf/Brush Appointment Missed,Trash / Recycling-Leaf / Brush-Appointment Missed
+Trash / Recycling,Leaf / Brush,Missed Pick Up,Trash / Recycling-Leaf / Brush-Missed Pick Up
+Trash / Recycling,Leaf / Brush,Missed Pick Up,Trash/Recycling - Leaf/Brush - Monday - North
+Trash / Recycling,Leaf / Brush,Missed Pick Up,Trash/Recycling - Leaf/Brush - Thursday - North
+Trash / Recycling,Leaf / Brush,Monday - Central,Trash / Recycling-Leaf / Brush-Missed Pick Up
+Trash / Recycling,Leaf / Brush,Monday - Central,Trash / Recycling-Services-Service Issue / Problem
+Trash / Recycling,Leaf / Brush,Monday - Central,Trash / Recycling-Trash Collection-Missed by City
+Trash / Recycling,Leaf / Brush,Monday - Central,Trash/Recycling - Leaf/Brush - Monday - Central
+Trash / Recycling,Leaf / Brush,Monday - Central,Trash/Recycling - Leaf/Brush - Monday - North
+Trash / Recycling,Leaf / Brush,Monday - Central,Trash/Recycling - Leaf/Brush - Monday - South
+Trash / Recycling,Leaf / Brush,Monday - Central,Trash/Recycling - Leaf/Brush - Tuesday - North
+Trash / Recycling,Leaf / Brush,Monday - Central,"Web SR - Trash, Recycle, Bulky"
+Trash / Recycling,Leaf / Brush,Monday - North,Trash/Recycling - Leaf/Brush - Monday - North
+Trash / Recycling,Leaf / Brush,Monday - South,Trash/Recycling - Leaf/Brush - Monday - South
+Trash / Recycling,Leaf / Brush,Thursday - Central,Trash/Recycling - Leaf/Brush - Thursday - Central
+Trash / Recycling,Leaf / Brush,Thursday - North,Trash/Recycling - Leaf/Brush - Thursday - North
+Trash / Recycling,Leaf / Brush,Thursday - South,Trash/Recycling - Leaf/Brush - Thursday - South
+Trash / Recycling,Leaf / Brush,Tuesday - Central,Trash/Recycling - Leaf/Brush - Tuesday - Central
+Trash / Recycling,Leaf / Brush,Tuesday - North,Trash/Recycling - Leaf/Brush - Tuesday - North
+Trash / Recycling,Leaf / Brush,Tuesday - South,Trash/Recycling - Leaf/Brush - Tuesday - South
+Trash / Recycling,Leaf / Brush,Wednesday - Central,Trash/Recycling - Leaf/Brush - Wednesday - Central
+Trash / Recycling,Leaf / Brush,Wednesday - North,Trash/Recycling - Leaf/Brush - Wednesday - North
+Trash / Recycling,Leaf / Brush,Wednesday - South,Trash/Recycling - Leaf/Brush - Wednesday - South
+Trash / Recycling,Nuisance,Early Set Out,Trash / Recycling-Nuisance-Early Set Out
+Trash / Recycling,Nuisance,Land Bank,Trash / Recycling-Nuisance-Land Bank
+Trash / Recycling,Nuisance,Open Storage,Property Violations
+Trash / Recycling,Nuisance,Trash on Private Property,Property Violations
+Trash / Recycling,Recycling,Missed by City,Trash / Recycling-Recycling-Missed by City
+Trash / Recycling,Recycling,Missed by Contractor North,Trash / Recycling-Recycling-Missed by Contractor North
+Trash / Recycling,Recycling,Missed by Contractor South,Trash / Recycling-Recycling-Missed by Contractor South
+Trash / Recycling,Recycling,Repeat Missed,Trash / Recycling-Recycling-Repeat Missed
+Trash / Recycling,Services,Blue Bag Program,Trash / Recycling-Services-Blue Bag Program
+Trash / Recycling,Services,Call Back Request,Trash / Recycling-Services-Call Back Request
+Trash / Recycling,Services,Disability Pick Up,Trash / Recycling-Services-Disability Pick Up
+Trash / Recycling,Services,Feedback,Trash / Recycling-Services-Feedback
+Trash / Recycling,Services,Medical Tags,Trash / Recycling-Services-Medical Tags
+Trash / Recycling,Services,Multi-Unit,Trash / Recycling-Services-Multi-Unit
+Trash / Recycling,Services,Question,Trash / Recycling-Services-Question
+Trash / Recycling,Services,Service Issue / Problem,Trash / Recycling-Services-Service Issue / Problem
+Trash / Recycling,Solid Waste Operations,Brush,Trash / Recycling-Solid Waste Operations-Brush
+Trash / Recycling,Solid Waste Operations,Bulky,Trash / Recycling-Solid Waste Operations-Bulky
+Trash / Recycling,Solid Waste Operations,Trash,Trash / Recycling-Solid Waste Operations-Trash
+Trash / Recycling,Trash,Violation,Streets / Roadways / Alleys-Street Clean Up-District 2
+Trash / Recycling,Trash,Violation,Trash / Recycling-Trash Collection-Missed by Contractor North
+Trash / Recycling,Trash Cart,Cart Size Change,Trash / Recycling-Trash Cart-Cart Size
+Trash / Recycling,Trash Cart,Not Delivered,Trash / Recycling-Trash Cart-Not Delivered
+Trash / Recycling,Trash Collection,City Owned Trash Container,Trash / Recycling-Trash Collection-City Owned Trash Container
+Trash / Recycling,Trash Collection,Missed City Trash and Recycling,Trash / Recycling - Trash Collection - City Trash - Recycle
+Trash / Recycling,Trash Collection,Missed City Trash and Recycling,Trash / Recycling-Dumping-Park - South
+Trash / Recycling,Trash Collection,Missed City Trash and Recycling,Trash / Recycling-Trash Collection-Missed by City
+Trash / Recycling,Trash Collection,Missed City Trash and Recycling,"Web SR - Trash, Recycle, Bulky"
+Trash / Recycling,Trash Collection,Missed North Trash - Recycling,Trash / Recycling - Trash Collection - North Trash - Recycle
+Trash / Recycling,Trash Collection,Missed North Trash - Recycling,Trash / Recycling - Trash Collection - South Trash - Recycle
+Trash / Recycling,Trash Collection,Missed North Trash - Recycling,Trash / Recycling-Recycling-Missed by Contractor North
+Trash / Recycling,Trash Collection,Missed North Trash - Recycling,Trash / Recycling-Trash Collection-Missed by Contractor North
+Trash / Recycling,Trash Collection,Missed North Trash - Recycling,"Web SR - Trash, Recycle, Bulky"
+Trash / Recycling,Trash Collection,Missed South Trash - Recycling,Trash / Recycling - Trash Collection - North Trash - Recycle
+Trash / Recycling,Trash Collection,Missed South Trash - Recycling,Trash / Recycling - Trash Collection - South Trash - Recycle
+Trash / Recycling,Trash Collection,Missed South Trash - Recycling,Trash / Recycling-Trash Collection-Missed by City
+Trash / Recycling,Trash Collection,Missed South Trash - Recycling,Trash / Recycling-Trash Collection-Missed by Contractor South
+Trash / Recycling,Trash Collection,Missed South Trash - Recycling,"Web SR - Trash, Recycle, Bulky"
+Trash / Recycling,Trash Collection,Missed by City,Trash / Recycling-Trash Collection-Missed by City
+Trash / Recycling,Trash Collection,Missed by Contractor North,Trash / Recycling-Trash Collection-Missed by Contractor North
+Trash / Recycling,Trash Collection,Missed by Contractor South,Trash / Recycling-Trash Collection-Missed by Contractor South
+Trash / Recycling,Trash Collection,Repeat Missed,Trash / Recycling-Trash Collection-Repeat Missed
+Trash / Recycling,Trash Collection,Storm Trash,Trash/Recycling - Trash Collection - Storm Trash
+Trees,Brush,*Select one,Tree Limb or Brush Removal for City Tree
+Trees,Brush,Central Region,Tree Limb and Brush Removal from City Tree - Central Region
+Trees,Brush,Central Region,Tree Limb or Brush Removal for City Tree
+Trees,Brush,North Region,Tree Limb and Brush Removal from City Tree - North Region
+Trees,Brush,North Region,Tree Limb or Brush Removal for City Tree
+Trees,Brush,South Region,Tree Limb and Brush Removal from City Tree - South Region
+Trees,Brush,South Region,Tree Limb or Brush Removal for City Tree
+Trees,Care,Disease,Trees-Care-Disease
+Trees,Care,Insects,Trees-Care-Insects
+Trees,Care,Sick,Trees-Care-Sick
+Trees,Care,Vandalism,Trees-Care-Vandalism
+Trees,Customer Service,All,Dead Tree on Land Trust Lots
+Trees,Customer Service,All,Forestry Customer Service Comment
+Trees,Customer Service,All,Tree Trimming on Land Trust Lots
+Trees,Customer Service,Complaint,Emerald Ash Borer Questions
+Trees,Customer Service,Complaint,Tree Staff Customer Service Complaint
+Trees,Customer Service,Compliment,Tree Staff Compliment
+Trees,DOWN OR DAMAGED,SNOW,Tree or Limb Down Due to Snow
+Trees,Disease,*Select one,"Tree Disease, Insects or Vandalism"
+Trees,Disease,Central Region,"Tree Disease, Insects or Vandalism"
+Trees,Disease,South Region,"Tree Disease, Insects or Vandalism"
+Trees,Emerald Ash,Question / Feedback,Trees-Emerald Ash-Question / Feedback
+Trees,Emerald Ash,Removal,Trees-Emerald Ash-Removal
+Trees,Emerald Ash,Treatment,Trees-Emerald Ash-Treatment
+Trees,Emerald Ash Borer,Questions,Emerald Ash Borer Questions
+Trees,Emerald Ash Borer,Removal,Emerald Ash Borer Tree Removal
+Trees,Inspection for NPD,Private Property Violation,Tree Inspection on Private Property
+Trees,Intersection,All,Tree Trimming at Intersection
+Trees,Land Bank,Dead,Trees-Land Bank-Dead
+Trees,Land Bank,Hazardous,Trees-Land Bank-Hazardous
+Trees,Land Bank,Tree Debris,Trees-Land Bank-Tree Debris
+Trees,Permit,All,"Permit to prune, remove, or plant a City Tree"
+Trees,Permit,Ash Treatment,Trees - Permit - Ash Treatment
+Trees,Permit,Plant,Trees-Permit-Plant
+Trees,Permit,Remove,Trees-Permit-Remove
+Trees,Permit,Trim,Trees-Permit-Trim
+Trees,Planting,*Select one,Tree Planting for New Tree
+Trees,Planting,Central Region,Tree Planting Central Region
+Trees,Planting,Central Region,Tree Planting for New Tree
+Trees,Planting,North Region,Tree Planting North Region
+Trees,Planting,North Region,Tree Planting for New Tree
+Trees,Planting,South Region,Tree Planting South Region
+Trees,Planting,South Region,Tree Planting for New Tree
+Trees,Private Property,Dead,Property Violations
+Trees,Private Property,Hazardous,Trees-Private Property-Hazardous
+Trees,Private Property,Tree Debris,Property Violations
+Trees,Removal,*Select one,Tree Removal of a City Tree
+Trees,Removal,*Select one,Tree Trimming North Region
+Trees,Removal,*Select one,Tree Trimming for City Tree
+Trees,Removal,All,Permit for Private Removal of a City Tree
+Trees,Removal,All,"Permit to prune, remove, or plant a City Tree"
+Trees,Removal,All,Tree Live Removal
+Trees,Removal,All,Tree Removal Central Region
+Trees,Removal,Brush Pickup,Trees-Removal-Brush pickup
+Trees,Removal,Central Region,Tree Removal Central Region
+Trees,Removal,Central Region,Tree Removal South Region
+Trees,Removal,Central Region,Tree Removal of a City Tree
+Trees,Removal,Declining,Trees-Removal-Dangerous
+Trees,Removal,Declining,Trees-Removal-Declining
+Trees,Removal,Dumping,Trees-Removal-Dumping
+Trees,Removal,North Region,Tree Removal Central Region
+Trees,Removal,North Region,Tree Removal North Region
+Trees,Removal,North Region,Tree Removal of a City Tree
+Trees,Removal,South Region,Tree Removal South Region
+Trees,Removal,South Region,Tree Removal of a City Tree
+Trees,Removal,Stump,Trees-Removal-Stump
+Trees,Removal,Tree Dead,Trees-Removal-Tree dead
+Trees,Removal,Tree Down,Trees-Removal-Tree down
+Trees,Removal,Tree Limbs,Trees-Removal-Tree Limbs
+Trees,Services,EAB,Trees-Services-EAB
+Trees,Services,Feedback,Trees-Services-Feedback
+Trees,Services,Plant City Tree Request,Trees-Services-Plant City Tree Request
+Trees,Services,Question,Trees-Services-Question
+Trees,Services,Review,Trees-Services-Review
+Trees,Services,Service Issue / Problem,Trees-Services-Service Issue / Problem
+Trees,Storm Damage,*Select one,Tree Damage to City Tree from Storm Event
+Trees,Storm Damage,Central Region,Tree Damage to City Tree from Storm Event
+Trees,Storm Damage,Central Region,Tree Storm Damage Central Region
+Trees,Storm Damage,Central Region,Tree Storm Damage South Region
+Trees,Storm Damage,North Region,Tree Damage to City Tree from Storm Event
+Trees,Storm Damage,North Region,Tree Storm Damage Central Region
+Trees,Storm Damage,North Region,Tree Storm Damage North Region
+Trees,Storm Damage,South Region,Tree Damage to City Tree from Storm Event
+Trees,Storm Damage,South Region,Tree Storm Damage South Region
+Trees,Storm Damage,Tree Down,Trees-Storm Damage-Tree Down
+Trees,Storm Damage,Tree Limb / Brush,Trees-Storm Damage-Tree Limb / Brush
+Trees,Storm Damage,Trim,Trees-Storm Damage-Trim
+Trees,Stump Removal,*Select one,Tree Stump Removal for City Tree
+Trees,Stump Removal,Central Region,Tree Stump Removal Central Region
+Trees,Stump Removal,Central Region,Tree Stump Removal for City Tree
+Trees,Stump Removal,North Region,Tree Stump Removal North Region
+Trees,Stump Removal,North Region,Tree Stump Removal for City Tree
+Trees,Stump Removal,South Region,Tree Stump Removal Central Region
+Trees,Stump Removal,South Region,Tree Stump Removal South Region
+Trees,Stump Removal,South Region,Tree Stump Removal for City Tree
+Trees,Trimming,*Select One,Tree Maintenance Seasonal
+Trees,Trimming,*Select One,Tree Pruning for Block
+Trees,Trimming,*Select One,Tree Trimming for City Tree
+Trees,Trimming,*Select One,Tree Trimming from Electric Wire or Street Light
+Trees,Trimming,*Select One,Tree Trimming from Street Light
+Trees,Trimming,Block Pruning,Trees-Trimming-Block Pruning
+Trees,Trimming,Central Region,Tree Trimming Central Region
+Trees,Trimming,Central Region,Tree Trimming for City Tree
+Trees,Trimming,Central Region,Tree Trimming from Electric Wire or Street Light
+Trees,Trimming,Central Region,Tree Trimming from Street Light
+Trees,Trimming,North Region,Tree Trimming North Region
+Trees,Trimming,North Region,Tree Trimming for City Tree
+Trees,Trimming,Seasonal,Trees-Trimming-Seasonal
+Trees,Trimming,South Region,Tree Pruning for Block
+Trees,Trimming,South Region,Tree Trimming South Region
+Trees,Trimming,South Region,Tree Trimming for City Tree
+Trees,Trimming,South Region,Tree Trimming from Electric Wire or Street Light
+Trees,Trimming,South Region,Tree Trimming from Street Light
+Trees,Trimming,Streetlight,Trees-Trimming-Streetlight
+Trees,Trimming,Tree Limbs,Trees-Trimming-Tree Limbs
+Trees,Trimming,Visibility,Trees-Trimming-Visibility
+Vehicle,Abandoned,All,Abandoned Vehicle
+Vehicle,Abandoned,All,Mowing on Land Trust Lots
+Vehicles / Parking,Abandoned On Street,Boat,Vehicles / Parking-Abandoned On Street-Boat
+Vehicles / Parking,Abandoned On Street,Car,Vehicles / Parking-Abandoned On Street-Car
+Vehicles / Parking,Abandoned On Street,Other,Vehicles / Parking-Abandoned On Street-Other
+Vehicles / Parking,Abandoned On Street,Trailer,Vehicles / Parking-Abandoned On Street-Trailer
+Vehicles / Parking,Commercial Parking,Number of Handicap Spaces,Vehicles / Parking-Commercial Parking-Number of Handicap Spaces
+Vehicles / Parking,Commercial Parking,Parking Surface - Pay Lot,Vehicles / Parking-Commercial Parking-Parking Surface - Pay Lot
+Vehicles / Parking,Commercial Vehicle,On Private Property,Vehicles / Parking-Commercial Vehicle-On private property
+Vehicles / Parking,Disabled/Unlicensed on Private Property,Boat Private Property,Property Violations
+Vehicles / Parking,Disabled/Unlicensed on Private Property,Car Private Property,Property Violations
+Vehicles / Parking,Disabled/Unlicensed on Private Property,Other Private Property,Property Violations
+Vehicles / Parking,Disabled/Unlicensed on Private Property,Trailer Private Property,Property Violations
+Vehicles / Parking,Illegally Parked,Street/Sidewalk,Vehicles / Parking-Illegally Parked-Street/Sidewalk
+Vehicles / Parking,Meter,Repair,Vehicles / Parking-Meter-Repair
+Vehicles / Parking,Parked on Unapproved Surface,Boat Private Property,Property Violations
+Vehicles / Parking,Parked on Unapproved Surface,Car Private Property,Property Violations
+Vehicles / Parking,Parked on Unapproved Surface,Other Private Property,Property Violations
+Vehicles / Parking,Parked on Unapproved Surface,Trailer Private Property,Property Violations
+Vehicles / Parking,Scooter,Feedback/Concern,Vehicle-Scooter-Feedback/Concern
+Vehicles / Parking,Tow Services,Feedback,Vehicles / Parking-Tow Services-Feedback
+Vehicles / Parking,Tow Services,Service Issue / Problem,Vehicles / Parking-Tow Services-Service Issue / Problem
+Wastewater,Industrial,All,Water Industrial Waste Control
+Wastewater,Treatment,All,Wastewater Treatment
+Water,Account,Account Services,Water-Account-Account Services
+Water,Account,Theft,Water-Account-Theft
+Water,Leak,At Curb / In Yard,Water-Leak-At Curb / In Yard
+Water,Leak,Emergency Off / Flooding,Water-Leak-Emergency Off / Flooding
+Water,Leak,Hydrant,Water-Leak-Hydrant
+Water,Leak,Ice Due to Leak,Water-Leak-Ice Due to Leak
+Water,Leak,In Street,Water-Leak-In Street
+Water,Leak,Meter,Water-Leak-Meter
+Water,MFS Referral (Meter Field Services),Investigation,Water - MFS Referral - Investigation
+Water,No Water / Pressure,High Pressure,Water-No Water / Pressure-High Pressure
+Water,No Water / Pressure,Low Pressure,Water-No Water / Pressure-Low Pressure
+Water,No Water / Pressure,No Water,Water-No Water / Pressure-No Water
+Water,Pipeline Referral,Curb-box / Service Line,Water-Pipeline Referral-Curb-box / Service Line
+Water,Pipeline Referral,Hydrant,Water-Pipeline Referral-Hydrant
+Water,Pipeline Referral,Materials Left At Site,Water-Pipeline Referral-Materials left at site
+Water,Pipeline Referral,Restoration,Water-Pipeline Referral-Restoration
+Water,Pipeline Referral,Restoration Issue,Water-Pipeline Referral-Pipeline/Restoration Issues
+Water,Pipeline Referral,Restoration Issue,Water-Pipeline Referral-Restoration Issue
+Water,Pipeline Referral,Valve,Water-Pipeline Referral-Valve
+Water,Pipeline Referral,Water Main,Water-Pipeline Referral-Water Main
+Water,Quality,Color / Cloudy,Water-Quality-Color / Cloudy
+Water,Quality,Smell / Odor,Water-Quality-Smell / Odor
+Water,Quality,Taste,Water-Quality-Taste
+Water,Services,Call Back Request,Water-Services-Call Back Request
+Water,Services,Feedback,Water-Services-Feedback
+Water,Services,Pipeline Restoration,Water - Services - Pipeline Restoration
+Water,Services,Question,Water-Services-Question
+Water,Services,Service Issue / Problem,Water-Services-Service Issue / Problem
+Water Leak,All,All,Water Leak or Pressure Problem
+Water Leak,All,All,Water Repair and Restoration
+Water Leak,Contractor Restoration,Contractor Restoration,Pipeline Contractor Restoration
+Water Leak,Contractor Restoration,Contractor Restoration,Sewer Contractor Restoration Referral
+Water Leak,Curb Box,*SELECT ONE,Pipeline Repair or Restoration Concerns
+Water Leak,Curb Box,*SELECT ONE,Service or Curb Box Repair Referral
+Water Leak,Curb Box,Central Region,Service or Curb Box Repair Referral
+Water Leak,Curb Box,North Region,Service or Curb Box Repair Referral
+Water Leak,Curb Box,South Region,Service or Curb Box Repair Referral
+Water Leak,Hydrant Repair,*SELECT ONE,Hydrant Repair Referral
+Water Leak,Hydrant Repair,Central Region,Hydrant Repair Referral
+Water Leak,Hydrant Repair,Central Region,Pipeline Pavement Restoration Referral
+Water Leak,Hydrant Repair,North Region,Hydrant Repair Referral
+Water Leak,Hydrant Repair,North Region,Pipeline Pavement Restoration Referral
+Water Leak,Hydrant Repair,North Region,Service or Curb Box Repair Referral
+Water Leak,Hydrant Repair,South Region,Hydrant Repair Referral
+Water Leak,Icing,*SELECT ONE,Icing Caused by Water Leak
+Water Leak,Icing,All,Icing Caused by Water Leak
+Water Leak,Icing,Central Region,Icing Caused by Water Leak
+Water Leak,Icing,North Region,Icing Caused by Water Leak
+Water Leak,Icing,South Region,Icing Caused by Water Leak
+Water Leak,Investigations,All,Meter Leak or Problem
+Water Leak,Investigations,All,Water Leak or Pressure Problem
+Water Leak,Investigations,Meter Leak,Meter Leak or Problem
+Water Leak,Investigations,Meter Leak,Pipeline Pavement Restoration Referral
+Water Leak,Investigations,Meter Leak,Water Leak or Pressure Problem
+Water Leak,Investigations,Street Leak,Meter Leak or Problem
+Water Leak,Investigations,Street Leak,Water Leak or Pressure Problem
+Water Leak,Investigations,Supervisors,Field Services Escalation
+Water Leak,Pavement Restoration,*SELECT ONE,Pipeline Pavement Restoration Referral
+Water Leak,Pavement Restoration,Central Region,Hydrant Repair Referral
+Water Leak,Pavement Restoration,Central Region,Pipeline Pavement Restoration Referral
+Water Leak,Pavement Restoration,North Region,Pipeline Barricade Referral
+Water Leak,Pavement Restoration,North Region,Pipeline Pavement Restoration Referral
+Water Leak,Pavement Restoration,South Region,Pipeline Pavement Restoration Referral
+Water Leak,Pipeline Barricade,*SELECT ONE,Pipeline Barricade Referral
+Water Leak,Pipeline Barricade,Central Region,Pipeline Barricade Referral
+Water Leak,Pipeline Barricade,North Region,Pipeline Barricade Referral
+Water Leak,Pipeline Barricade,South Region,Pipeline Barricade Referral
+Water Leak,Pipeline Repair,*SELECT ONE,Pending Restoration Referral
+Water Leak,Pipeline Repair,*SELECT ONE,Pipeline Repair or Restoration Concerns
+Water Leak,Pipeline Repair,Central Region,Pipeline Repair or Restoration Concerns
+Water Leak,Pipeline Repair,North Region,Pipeline Pavement Restoration Referral
+Water Leak,Pipeline Repair,North Region,Pipeline Repair or Restoration Concerns
+Water Leak,Pipeline Repair,North Region,Pipeline Turf Referral
+Water Leak,Pipeline Repair,South Region,Pipeline Pavement Restoration Referral
+Water Leak,Pipeline Repair,South Region,Pipeline Repair or Restoration Concerns
+Water Leak,Pipeline Restoration Concerns,Pipeline Restoration Concerns,Completed Contractor Restoration Concerns
+Water Leak,Repair,Barricades,Pipeline Barricade Referral
+Water Leak,Repair,Barricades,Water Pipeline Barricade
+Water Leak,Repair,Curb Box Leak,Service or Curb Box Repair Referral
+Water Leak,Repair,Hydrant Leak,Hydrant Repair Referral
+Water Leak,Repair,Hydrant Leak,Water Leak or Pressure Problem
+Water Leak,Repair,Ice,Icing Caused by Water Leak
+Water Leak,Repair,Main Leak,Water Main Repair Referral
+Water Leak,Repair,Referral,Pipeline Code 1 Repair - Referral
+Water Leak,Repair,Referral,Pipeline Code 2 Repair - Referral
+Water Leak,Repair,Referral,Pipeline Code 3 Repair - Referral
+Water Leak,Repair,Referral,Pipeline Repair Referral
+Water Leak,Repair,Referral,Pipeline Repair or Restoration Concerns
+Water Leak,Repair,Valve Leak,Valve Repair Referral
+Water Leak,Turf Restoration,*SELECT ONE,Pipeline Turf Referral
+Water Leak,Turf Restoration,Central Region,Pipeline Turf Referral
+Water Leak,Turf Restoration,North Region,Pipeline Turf Referral
+Water Leak,Turf Restoration,South Region,Pipeline Pavement Restoration Referral
+Water Leak,Turf Restoration,South Region,Pipeline Turf Referral
+Water Leak,Valve Repair,*SELECT ONE,Valve Repair Referral
+Water Leak,Valve Repair,Central Region,Valve Repair Referral
+Water Leak,Valve Repair,North Region,Valve Repair Referral
+Water Leak,Valve Repair,South Region,Valve Repair Referral
+Water Leak,Water Main Repair,*SELECT ONE,Water Main Repair Referral
+Water Leak,Water Main Repair,Central Region,Pipeline Pavement Restoration Referral
+Water Leak,Water Main Repair,Central Region,Water Main Repair Referral
+Water Leak,Water Main Repair,North Region,Water Leak or Pressure Problem
+Water Leak,Water Main Repair,North Region,Water Main Repair Referral
+Water Leak,Water Main Repair,South Region,Water Main Repair Referral
+Water Main Break,All,All,Water Main Break
+Water Main Break,Restoration,All,Water Restoration Contract
+Water Quality,Engineering,All,Water Facilities and Engineering
+Water Quality,Engineering,All,Water Facilities and Stormwater Engineering
+Water Quality,Engineering,Sewer Projects,Sewer Projects
+Water Quality,Engineering,Sewer Projects,Water Main Projects
+Water Quality,Engineering,Stormwater Projects,Stormwater Projects
+Water Quality,Engineering,Stormwater Projects,Water Main Projects
+Water Quality,Engineering,Water Main Projects,Water Main Projects
+Water Quality,Industrial,All,Water Industrial Waste Control
+Water Quality,Laboratory Service,All,Water Quality - Laboratory Services
+Water Services,Administration,All,Sewer Assessment Questions
+Water Services,Administration,All,Water Bill Concerns
+Water Services,Administration,All,Water Services Administration
+Water Services,Automatic Meter Reading,All,Automatic Meter Reading
+Water Services,Automatic Meter Reading,All,Automatic Meter Reading - VSI
+Water Services,Billing,Stormwater,Stormwater Charges
+Water Services,Restoration,Pavement,Pipeline Pavement Restoration Referral
+Water Services,Restoration,Pavement,Sewer Pavement Restoration Referral
+Water Services,Restoration,Pavement,Water Services Pavement Restoration
+Water Services,Restoration,Referral,Water Restoration Contract
+Water Services,Restoration,Turf,Pipeline Turf Referral
+Water Services,Restoration,Turf,Sewer Turf Restoration - Referral
+Water Services,Restoration,Turf,Wastewater Code 1 - Referral
+Water Services,Restoration,Turf,Water Services Turf Restoration
+Water Services,Revenue Protection,All,Water Theft and Fraud
+Weeds,Boulevards and Parkways,All,Landscaping and Blvd/Pkwy Mowing
+Weeds,City Property,All,Mowing City Property
+Weeds,Land Trust,All,City Maintained Property Addition
+Weeds,Land Trust,All,Issues on City Maintained Property
+Weeds,Land Trust,All,Mowing on Land Trust Lots
+Weeds,Land Trust,Mowing List,City Maintained Property List
+Weeds,Land Trust,Mowing List,Land Trust Mowing List
+Weeds,Privately Owned Property,No Structure on the Property,Mowing of Private Property with No Structure
+Weeds,Right of Way,All,Mowing on the Right of Way
+Weeds,Right of Way,All,Rural ROW Mowing
+Weeds,Visibility,All,Visibility Problems at an Intersection
+Zoning,Investigation,All,Additional Information Required
+Zoning,Investigation,All,Zoning Inspections and Violations
+Zoning,Investigation,Demolition and Debris,Demolition Debris and Landfill
+Zoning,Investigation,Elevator,Elevator Inspection
+Zoning,Investigation,Erosion Control,Mud and silt
+Zoning,Investigation,Fence and Wall,Fence or Wall
+Zoning,Investigation,Sign,Sign Violation Zoning
