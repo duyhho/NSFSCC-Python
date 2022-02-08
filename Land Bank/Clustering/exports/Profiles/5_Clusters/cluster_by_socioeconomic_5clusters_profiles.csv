@@ -1,6 +1,6 @@
-,Median income,Median home value,Total unemployed,Total population age 25+ years with a bachelor's degree or higher,Individuals with income below poverty,Num of Abandoned Houses,count
-Cluster 1,43842.78889,99549.66667,30.57778,156.11111,215.88889,0.6,90
-Cluster 2,50815.55102,129138.55102,33.73469,250.79592,192.61224,0.34694,49
-Cluster 3,76079.07595,238184.48101,28.27848,468.56962,127.18987,0.0,79
-Cluster 4,30345.46154,47633.15385,28.53846,52.30769,215.38462,3.61538,13
-Cluster 5,164809.28571,614802.28571,11.57143,543.0,25.42857,0.0,7
+,White alone,Black or African American alone,Num of Abandoned Houses,Median income,Median home value,Total unemployed,Total population age 25+ years with a bachelor's degree or higher,Individuals with income below poverty,Num of Abandoned Houses,count
+Cluster 1,0.50087,0.32853,0.1954,50804.51724,119825.3908,0.05175,0.1797,0.17289,0.1954,87
+Cluster 2,0.30503,0.52074,1.03846,40854.48077,97129.76923,0.08188,0.13711,0.24549,1.03846,52
+Cluster 3,0.74014,0.12251,0.0,74704.22785,235800.96203,0.036,0.37546,0.10539,0.0,79
+Cluster 4,0.10171,0.75322,3.61538,30345.46154,47633.15385,0.08302,0.06468,0.27987,3.61538,13
+Cluster 5,0.91942,0.01096,0.0,164809.28571,614802.28571,0.02252,0.59564,0.02545,0.0,7
